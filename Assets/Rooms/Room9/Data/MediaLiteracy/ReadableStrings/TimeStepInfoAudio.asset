@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6a2ccf4d77864e8fbb123ee4148eb2e, type: 3}
+  m_Name: TimeStepInfoAudio
+  m_EditorClassIdentifier: 
+  value:
+    String: "LEGGI COSA DOVRAI FARE NELLE PROSSIME 3 FASI E PER OGNUNA DI ESSE STIMA
+      UN TEMPO IN CUI SVOLGERE I COMPITI ASSEGNATI PER CIASCUNA.\n\nLA SOMMA DEI
+      TEMPI CHE HAI ASSEGNATO VIENE MOSTRATA NEL TIMER IN ALTO A DESTRA (DI FIANCO
+      ALL'ARGOMENTO DI RICERCA). UNA VOLTA INIZIATA LA PROSSIMA FASE IL TIMER PARTIR\xC0.\n\n<b>ATTENZIONE</b>:
+      CERCA DI COMPLETARE LE FASI ENTRO IL TEMPO CHE HAI DEFINITIO, IN MODO DA MANTERE
+      LA STELLA CHE OTTIENI ALLA FINE DI QUESTA FASE!"
+    AudioClip: {fileID: 8300000, guid: 14813fba828764624a3fc658f9086ea3, type: 3}

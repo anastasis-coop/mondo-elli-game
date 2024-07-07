@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcbdc350a531e471faff8831088e4a73, type: 3}
+  m_Name: FlexibilityExercise 1
+  m_EditorClassIdentifier: 
+  ThemeAudio:
+    String: I VANTAGGI DEGLI SPORT DI SQUADRA
+    AudioClip: {fileID: 8300000, guid: 66b4a328f74534d06abf39f8f2fa11f4, type: 3}
+  RelevanceTexts:
+  - LayersAudio:
+    - String: "L\u2019importanza degli sport di squadra per lo sviluppo della persona"
+      AudioClip: {fileID: 8300000, guid: 68d8a1389b43f4f6cac63bbf3548da96, type: 3}
+    - String: "Gli sport di squadra possono davvero cambiare la vita in positivo,
+        sia dal punto di vista della forma fisica che da quello della socialit\xE0."
+      AudioClip: {fileID: 8300000, guid: 67a85145e98b141c4abad9c0eb1d3a8d, type: 3}
+    Snippets:
+    - String: "Gli sport di squadra sono molto popolari tra i giovani e gli adulti,
+        soprattutto perch\xE9 sono divertenti, ma in realt\xE0 offrono molti altri
+        vantaggi."
+      AudioClip: {fileID: 8300000, guid: 24ff7ad1845144fadb864f07adb6f6f2, type: 3}
+    - String: "Al giorno d\u2019oggi \xE8 possibile praticare un\u2019infinit\xE0
+        di sport di gruppo, per cui si consiglia di provarne vari prima di scegliere
+        quello che pi\xF9 si adatta alle esigenze personali. "
+      AudioClip: {fileID: 8300000, guid: 600f8d9eed6b34bd19d30d3e48ebf2aa, type: 3}
+    - String: "Fare sport in gruppo \xE8 molto pi\xF9 divertente che farlo da soli."
+      AudioClip: {fileID: 8300000, guid: 496f61a7e870b43fe9823d2fd35d1b67, type: 3}
+    - String: "Tra gli sport di squadra pi\xF9 famosi troviamo sicuramente il calcio,
+        la pallavolo e la pallacanestro."
+      AudioClip: {fileID: 8300000, guid: bfa731589ff94467287189faa6608f13, type: 3}
+    - String: "Per quanto riguarda i pi\xF9 piccoli, gli sport di squadra non solo
+        promuovono il rispetto e lo spirito di squadra, ma sono anche ottimi per
+        migliorare la fiducia in se stessi e negli altri e per stringere nuove amicizie
+        e migliorare anche il rendimento accademico."
+      AudioClip: {fileID: 8300000, guid: f1963210fd3ef4af680b67e86c5abb73, type: 3}
+    - String: "Ma non \xE8 tutto, le attivit\xE0 di gruppo hanno anche tanti altri
+        benefici, tra cui il fatto che fanno sentire pi\xF9 forti sia fisicamente
+        che mentalmente. "
+      AudioClip: {fileID: 8300000, guid: 454bb89d97585452fa4f2a4f3ea48f50, type: 3}
+    - String: "E\u2019 evidente come questi sport offrono gli strumenti giusti per
+        affrontare la vita anche quando fuori dal campo da gioco."
+      AudioClip: {fileID: 8300000, guid: b6ddd32adecf34619987508d9e557dc7, type: 3}
+    Solution: 2
+  SnippetsTexts:
+  - LayersAudio:
+    - String: I benefici del basket come sport di squadra
+      AudioClip: {fileID: 8300000, guid: 0abb195a8f9104f559f0827e3e9893ed, type: 3}
+    - String: "Il basket \xE8 uno degli sport di squadra pi\xF9 praticati e, oltre
+        ad avere benefici per la crescita dell\u2019individuo, aiuta anche nello
+        sviluppo delle relazioni con gli altri"
+      AudioClip: {fileID: 8300000, guid: af1f2c46f05684d88bb53756627adb1e, type: 3}
+    Snippets:
+    - String: "La pallacanestro \xE8 uno sport di squadra che negli ultimi anni ha
+        avuto un importante sviluppo a livello mondiale e anche in Italia."
+      AudioClip: {fileID: 8300000, guid: 1ad47bd22615b456688ca01b912f436c, type: 3}
+    - String: " I benefici del basket, e di conseguenza i motivi per cui dedicarsi
+        a questo sport, sono legati innanzitutto allo sviluppo di numerose abilit\xE0
+        motorie per l\u2019individuo, come riflessi e coordinazione. "
+      AudioClip: {fileID: 8300000, guid: 2f6560152f6cb4460b7394546e40f280, type: 3}
+    - String: " Il basket \xE8 uno dei principali sport di squadra praticati e in
+        quanto tale presenta anche numerosi vantaggi per lo sviluppo delle relazioni
+        con gli altri."
+      AudioClip: {fileID: 8300000, guid: d88b91d99e7b747cdbec8b85497b7722, type: 3}
+    - String: " Innanzitutto, il basket \xE8 uno sport di squadra in cui \xE8 particolarmente
+        importante gestire correttamente il rapporto con i propri compagni, fuori
+        e dentro il campo di gioco. Per questo, \xE8 una attivit\xE0 sportiva che
+        aiuta a creare legami e a vivere lo sport in sintonia con i propri compagni
+        di squadra. "
+      AudioClip: {fileID: 8300000, guid: c59012425898247119147f79900fa419, type: 3}
+    - String: " Lo sport \xE8 un elemento fondamentale nella crescita dei ragazzi,
+        anche se molti adolescenti preferiscono rimanere a casa e passare il tempo
+        con i videogiochi. "
+      AudioClip: {fileID: 8300000, guid: b169200b69d7842cea545580d01d419a, type: 3}
+    - String: "Anche i ragazzi pi\xF9 timidi o che legano con difficolt\xE0 con i
+        propri coetanei, trovano lo stimolo per migliorare i loro rapporti sociali
+        con gli altri e si sentono parte di un gruppo."
+      AudioClip: {fileID: 8300000, guid: 8ff1c463d5dc64bdeb232f1930e83308, type: 3}
+    - String: "Quando si riesce ad essere utili alla propria squadra e a portare
+        a casa risultati positivi, aumenta la fiducia in s\xE9 stessi e nelle proprie
+        possibilit\xE0. "
+      AudioClip: {fileID: 8300000, guid: cad02c7c657a14e179d498da8d07e751, type: 3}
+    - String: "In questo senso, il basket \xE8 un ottimo metodo per uscire dalla
+        propria comfort zone e buttarsi oltre le difficolt\xE0 per avere risultati
+        positivi che travalicano il semplice sport. "
+      AudioClip: {fileID: 8300000, guid: 28cbeaeefdeb746509f090c0702e08b8, type: 3}
+    - String: "I pediatri suggeriscono sempre di far iniziare i propri figli a praticare
+        sport in et\xE0 molto giovane."
+      AudioClip: {fileID: 8300000, guid: 787c03ed64acc4de7aae1963f1ab779a, type: 3}
+    Solution: 6
+  TimeTexts:
+  - LayersAudio:
+    - String: "Non \xE8 un gioco da ragazzi: gli sport di squadra anche da adulti"
+      AudioClip: {fileID: 8300000, guid: 4247b119882424b07acc23fa7d944666, type: 3}
+    - String: 'Lunghezza: circa 2 pagine (227 parole)'
+      AudioClip: {fileID: 8300000, guid: cb61f4f3a3031429cbda069a403c182a, type: 3}
+    - String: "Da adulti, l\u2019idea di praticare uno sport di squadra finisce spesso
+        per risultare poco attraente o difficilmente realizzabile. E\u2019 una grande
+        perdita, perch\xE9 i vantaggi di allenarsi in team non sono riservati a bambini
+        e ragazzi."
+      AudioClip: {fileID: 8300000, guid: e8ab5b1fcf03c4ee8a553151f33aaed4, type: 3}
+    Snippets:
+    - String: Da bambini o da adolescenti in molti hanno praticato sport di squadra
+        per legare con i compagni, creare nuove amicizie e sviluppare uno spirito
+        competitivo.
+      AudioClip: {fileID: 8300000, guid: a74ffbbe694df43a2aa496d88bbb6acc, type: 3}
+    - String: "I benefici di uno sport di squadra, per\xF2, sono validi anche per
+        un adulto."
+      AudioClip: {fileID: 8300000, guid: c544e8bdfbc1e4e3484cfc19173068e9, type: 3}
+    - String: "Innanzitutto, si sa che la quantit\xE0 minima quotidiana di attivit\xE0
+        fisica dovrebbe aggirarsi intorno ai 30 minuti."
+      AudioClip: {fileID: 8300000, guid: af0aae989c3084e87a68c77622e64f88, type: 3}
+    - String: Per un adulto che non vuole andare a camminare o correre, basterebbe
+        entrare a far parte di una squadra.
+      AudioClip: {fileID: 8300000, guid: 5078c52baca5140c985dcdd10f4acf56, type: 3}
+    - String: "Il riscaldamento, che in media dura dai 15 ai 20 minuti, pi\xF9 una
+        porzione di gara anche solo di 10 minuti potrebbero avere un beneficio enorme
+        sul fisico, soprattutto per chi conduce una vita sedentaria."
+      AudioClip: {fileID: 8300000, guid: d3fd996d6cadf47e6a2f36a3b2378ee2, type: 3}
+    - String: "Lo stimolo dei compagni e la voglia di essere coinvolti sempre di
+        pi\xF9 aiutano: far parte di una squadra \xE8 un ottimo antidoto contro la
+        tentazione di abbandonare per mancanza di motivazione o di metodo."
+      AudioClip: {fileID: 8300000, guid: 5631e9307a4c048e0b9e114a7a6f0014, type: 3}
+    - String: "Un altro beneficio degli sport di squadra anche per gli adulti \xE8
+        l\u2019abbassamento drastico dei livelli di stress, con la diminuzione dei
+        rischi di attacchi cardiaci e di altre patologie."
+      AudioClip: {fileID: 8300000, guid: 7ae9708462e964748b17a002d044e3d1, type: 3}
+    - String: "Inoltre, fare parte di una squadra anche per un adulto pu\xF2 essere
+        un vero toccasana per la salute mentale e per l\u2019autostima, benefici
+        che si possono ottenere fin dal primo momento, fin da quando ci si presenta
+        agli altri, spiegando le ragioni che hanno portato a scegliere quello sport
+        o quella squadra."
+      AudioClip: {fileID: 8300000, guid: 121c151a1a46e4348bc95ab363842326, type: 3}
+    Solution: 3

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6a2ccf4d77864e8fbb123ee4148eb2e, type: 3}
+  m_Name: PreviewSteptitleTaskAudio
+  m_EditorClassIdentifier: 
+  value:
+    String: "VALUTA SE IL TITOLO PU\xF2 ANDARE BENE PER LE ANTEPRIME"
+    AudioClip: {fileID: 8300000, guid: 02f144a5cecb942f9b3bf502c9c2afd4, type: 3}

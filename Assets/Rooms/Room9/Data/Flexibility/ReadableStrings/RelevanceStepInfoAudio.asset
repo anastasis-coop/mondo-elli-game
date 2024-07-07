@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6a2ccf4d77864e8fbb123ee4148eb2e, type: 3}
+  m_Name: RelevanceStepInfoAudio
+  m_EditorClassIdentifier: 
+  value:
+    String: "In questa stanza ti verranno date sempre pi\xF9 informazioni riguardanti
+      il testo. Ad ogni passaggio prova a dare un punteggio di rilevanza rispetto
+      al tema di ricerca. Premi il pulsante continua per proseguire.\n\n0 = Testo
+      non rilevante\n1 = Testo mediamente rilevante\n2 = Testo molto rilevante"
+    AudioClip: {fileID: 8300000, guid: 409df3e73f3624d119bf3f66d8ef6409, type: 3}

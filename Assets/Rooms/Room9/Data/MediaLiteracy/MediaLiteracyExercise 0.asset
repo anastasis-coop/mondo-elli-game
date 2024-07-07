@@ -1,0 +1,531 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a5802927060246e8b248fdf8f3f3e5d, type: 3}
+  m_Name: MediaLiteracyExercise 0
+  m_EditorClassIdentifier: 
+  ThemeAudio:
+    String: 'ACQUA: BOTTIGLIE DI PLASTICA, BORRACCE O RUBINETTO?'
+    AudioClip: {fileID: 8300000, guid: 7c699a28ab73a49809176f7aa94e4d00, type: 3}
+  KnowledgeQuizzes:
+  - QuestionAudio:
+      String: "Secondo te l\u2019acqua si conserva meglio:"
+      AudioClip: {fileID: 8300000, guid: 742a4697bf5514545b5c86ea71aa9e25, type: 3}
+    ChoicesAudio:
+    - String: Nelle bottigliette di plastica
+      AudioClip: {fileID: 8300000, guid: 66acff0fc883b4d55929d3ba49fd02d9, type: 3}
+    - String: Nelle borracce di alluminio
+      AudioClip: {fileID: 8300000, guid: 35c2b494772be496cacfa737fcaf7d01, type: 3}
+    - String: In contenitori di cartone
+      AudioClip: {fileID: 8300000, guid: 023efeb9e7d464309a0474cd9c541f12, type: 3}
+    Correct: 01000000
+  - QuestionAudio:
+      String: " In base alle tue conoscenze, l\u2019acqua del rubinetto:"
+      AudioClip: {fileID: 8300000, guid: 5dda63c56dbf24a94a242aea3c79676a, type: 3}
+    ChoicesAudio:
+    - String: "Non si pu\xF2 bere perch\xE9 non \xE8 sicura"
+      AudioClip: {fileID: 8300000, guid: 2603fc930c9ab439588d7e278c3aa936, type: 3}
+    - String: "Se ne pu\xF2 bere solo una piccola quantit\xE0 al mese"
+      AudioClip: {fileID: 8300000, guid: 13910101ae94d4474b51cd89a79fb8f9, type: 3}
+    - String: "Si pu\xF2 bere perch\xE9 ben controllata"
+      AudioClip: {fileID: 8300000, guid: 27ea755674c784fe7ac52197eea93e8f, type: 3}
+    Correct: 02000000
+  - QuestionAudio:
+      String: 'Secondo te bere da bottiglie di plastica:'
+      AudioClip: {fileID: 8300000, guid: 5b53b533fcdf142f696ebd354af9c6d1, type: 3}
+    ChoicesAudio:
+    - String: Inquina il nostro pianeta
+      AudioClip: {fileID: 8300000, guid: dfe4255d3e11240d2a86562ae4afb485, type: 3}
+    - String: "\xC8 pi\xF9 igienico perch\xE9 la bottiglia viene buttata via dopo
+        l\u2019utilizzo"
+      AudioClip: {fileID: 8300000, guid: 27ded6834070f48f681f7a19fa3bc611, type: 3}
+    - String: "\xC8 pi\xF9 sicuro che bere dal rubinetto"
+      AudioClip: {fileID: 8300000, guid: ff4ddeb85150f43fba61dd3864df8b79, type: 3}
+    Correct: 00000000
+  Texts:
+  - TitleAudio:
+      String: Usare le borracce al posto delle bottiglie di plastica
+      AudioClip: {fileID: 8300000, guid: 546221e9232504b88af9073f1ba046ed, type: 3}
+    PreviewAudio:
+      String: "Per contribuire a ridurre l\u2019inquinamento dovuto alla plastica
+        e alle emissioni di anidride carbonica, un semplice gesto \xE8 quello di
+        sostituire le bottiglie di plastica con le borracce e bere l\u2019acqua dal
+        rubinetto. "
+      AudioClip: {fileID: 8300000, guid: 2d8a6ebd0619a42daafc7cfaf4959a3d, type: 3}
+    AuthorAudio:
+      String: Massimiliano Ippolito
+      AudioClip: {fileID: 8300000, guid: 7ff5972f0b9114fc7aaaecb8602aa92a, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Massimiliano Ippolito, gestore del servizio idrico integrato
+        della Citt\xE0 metropolitana di Milano. Azienda interamente pubblica che
+        opera nel rispetto dei principi di trasparenza, responsabilit\xE0 e partecipazione. 
+        FONTE: sito online acquadelrubinetto.gruppocap.it, 24 ottobre 2019"
+      AudioClip: {fileID: 8300000, guid: e9c5ff4b0b65a4b768d94eb49aa4f266, type: 3}
+    Relevance: 2
+    Snippets:
+    - TextAudio:
+        String: "Come contribuire alla sostenibilit\xE0 ambientale con azioni pratiche
+          per prevenire l\u2019inquinamento? Iniziamo a bere l\u2019acqua del rubinetto
+          e a usare le borracce al posto delle bottiglie di plastica."
+        AudioClip: {fileID: 8300000, guid: 2050b04f844ac4ef491b55785a18e801, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: "Fino a pochi anni fa, i nostri nonni e genitori sceglievano sempre
+          i contenitori di plastica per l\u2019acqua, non pensando ad alternative
+          sostenibili."
+        AudioClip: {fileID: 8300000, guid: 2328c5a27c9b74c51a350578d91d69a6, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "\xC8 evidente che iniziare a bere l\u2019acqua del rubinetto e a
+          usare le borracce pu\xF2 contribuire a ridurre l\u2019inquinamento, anche
+          quello di emissione di CO2 dovute al loro trasporto."
+        AudioClip: {fileID: 8300000, guid: 7b2fbb25cf3e44411a0dc154db660668, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "L\u2019aumento di CO2 sta infatti portando ad una maggiore espansione
+          del buco dell\u2019ozono."
+        AudioClip: {fileID: 8300000, guid: d50ad5d1edfd04038a336799135b39ff, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Secondo i dati Istat, 7 famiglie su 10 compra acqua minerale in
+          bottiglia e il 29% delle famiglie italiane non si fida a bere l\u2019acqua
+          del rubinetto."
+        AudioClip: {fileID: 8300000, guid: 7d9f539fdacd84163b231fbc69ddc455, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "L\u2019acqua del rubinetto \xE8 potabile e la sua potabilit\xE0
+          \xE8 assicurata da un sistema di controlli continui che ne certifica la
+          qualit\xE0 e la sicurezza; questo non vale per le bottiglie di plastica,
+          che dopo un singolo utilizzo sono da buttare. "
+        AudioClip: {fileID: 8300000, guid: 7010ce83dca644112aa3e8b9ce61978e, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: "Perci\xF2, a chiunque si sia mai chiesto dove sia meglio bere acqua,
+          possiamo rispondere che bere acqua dal rubinetto \xE8 decisamente meglio."
+        AudioClip: {fileID: 8300000, guid: 175500e4f0ca441599fc7a2e848f36be, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Le bottiglie di plastica\u201Cusa e getta\u201D, garantite sicure
+          per la salute solo se utilizzate per bere l\u2019acqua che contengono,
+          devono essere gettate una volta usate."
+        AudioClip: {fileID: 8300000, guid: 6ee05f15ecfa0456787757f7724c49dc, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: Nel tempo, infatti, iniziano a puzzare, indicando che qualche muffa
+          sta invadendo la bottiglia di plastica.
+        AudioClip: {fileID: 8300000, guid: 570cd03a00e0e49a2b833dee9fba6cb0, type: 3}
+      Relevance: 1
+  - TitleAudio:
+      String: 'Borracce: attenzione ai batteri'
+      AudioClip: {fileID: 8300000, guid: e620d25b9b3e54e39bd60788f08eb57a, type: 3}
+    PreviewAudio:
+      String: "La scelta delle borracce \xE8 preferibile alle bottigliette di plastica,
+        ma \xE8 importante seguire le indicazioni per i liquidi che possono contenere
+        e la pulizia necessaria."
+      AudioClip: {fileID: 8300000, guid: e6360693b0d114c87be891935fb38769, type: 3}
+    AuthorAudio:
+      String: Michele Lagioia
+      AudioClip: {fileID: 8300000, guid: f02fb4aa7205d400f81ffdbdd005847d, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Michele Lagioia, medico responsabile della Direzione Medico
+        Sanitaria di Humanitas, ospedale ad alta specializzazione, centro di Ricerca
+        e sede di insegnamento universitario. FONTE: sito online \u201CHumanitasalute.it\u201D,
+        21/05/2020"
+      AudioClip: {fileID: 8300000, guid: 244dfb30f5bd04a7a8f6fdc77694742a, type: 3}
+    Relevance: 1
+    Snippets:
+    - TextAudio:
+        String: "La plastica sta causando danni sempre pi\xF9 seri al nostro pianeta,
+          con immissioni di circa 570mila tonnellate di plastica ogni anno nel Mar
+          Mediterraneo."
+        AudioClip: {fileID: 8300000, guid: 46f84c62fdefe4c938394938e7014463, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Come risolvere questo problema? Non tutti sono pronti a rinunciare
+          alle bottigliette di plastica per l\u2019acqua. "
+        AudioClip: {fileID: 8300000, guid: 457fbadf0fbcd46adb60e94466f52470, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: Sicuramente le borracce aiutano a diminuire il consumo delle bottigliette
+          di plastica, ma devono essere pulite attentamente
+        AudioClip: {fileID: 8300000, guid: 5504cc39f3116419ab1a57ade7c77d51, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: Sono la scelta migliore per la nostra salute? Effettivamente i bicchieri
+          li laviamo tutti i giorni.
+        AudioClip: {fileID: 8300000, guid: 54d0c8f8803ec4f1da0ba3e69751400f, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Se non viene lavata, la borraccia comincer\xE0 subito ad avere un
+          cattivo odore."
+        AudioClip: {fileID: 8300000, guid: 5424f5d105e224ac0a4be00156034ca8, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Le borracce sono progettate per mantenere il liquido in un ambiente
+          umido e buio, che per\xF2 spesso \xE8 causa della crescita di batteri nocivi."
+        AudioClip: {fileID: 8300000, guid: 3bedf4036c007485db79173e928fd004, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "L\u2019igiene delle borracce \xE8 fondamentale: lavarle con i detergenti
+          riduce del 99% la quantit\xE0 di batteri al suo interno."
+        AudioClip: {fileID: 8300000, guid: 61287e8b126304d45868eca340abb71c, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: 'Nelle borracce andrebbe messa solo acqua: lo zucchero contenuto
+          in alcune bevande causa la circolazione di batteri. '
+        AudioClip: {fileID: 8300000, guid: 0f4d2826af10c49739cb0c7875e3da6b, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Contenitori in acciaio, vetro o rame sono preferibili per l\u2019
+          uso alimentare."
+        AudioClip: {fileID: 8300000, guid: 4f188f3216ba94f09bb152109cef610f, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "La pulizia della borraccia dipende dal materiale con cui \xE8 fatta.
+          Due sono le regole fondamentali: la borraccia va pulita ogni giorno con
+          il detersivo e va lasciata asciugare senza chiuderla con il tappo."
+        AudioClip: {fileID: 8300000, guid: acac3ac043dcb4a569dff29bd4d2e8b8, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Di solito si pu\xF2 lavare direttamente in lavastoviglie, mentre
+          una volta alla settimana si pu\xF2 igienizzare pi\xF9 a fondo con una soluzione
+          di aceto bianco e acqua per tutta la notte."
+        AudioClip: {fileID: 0}
+      Relevance: 1
+  - TitleAudio:
+      String: "Borraccia d\u2019acciaio o bottiglia di plastica? Ecco perch\xE9 la
+        prima scelta \xE8 la migliore"
+      AudioClip: {fileID: 8300000, guid: 13e2f895ab098411298143e7e7e37fa0, type: 3}
+    PreviewAudio:
+      String: "Oltre ad essere pi\xF9 ecosostenibile, la bottiglia di acciaio ha
+        numerosi vantaggi per il mantenimento delle qualit\xE0 dell\u2019acqua."
+      AudioClip: {fileID: 8300000, guid: 5232a4dc6770f46cba2075d285a0fc2c, type: 3}
+    AuthorAudio:
+      String: Mauro Abbate
+      AudioClip: {fileID: 8300000, guid: e2b30d2b148664e76bb8995ca844ff66, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Mauro Abbate, giornalista della rivista online dell\u2019azienda
+        Leonardo, esperto del settore controllo qualit\xE0 dell\u2019acqua. FONTE:
+        sito online \u201CLeonardo.it\u201D, 12 giugno 2023"
+      AudioClip: {fileID: 8300000, guid: 2e6b9254c8e494afa912e4e4406aeed4, type: 3}
+    Relevance: 2
+    Snippets:
+    - TextAudio:
+        String: Acciaio o plastica? Qualcuno proprio non riesce a rinunciare alle
+          bottigliette di plastica, altri invece preferiscono le borracce in acciaio
+          inox per contenere le proprie bevande.
+        AudioClip: {fileID: 8300000, guid: 03d9f40f1c0734c69b65ef641f72f7c8, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: Gli esperti consigliano di scegliere sempre le borracce di acciaio
+          inox, per vari motivi.
+        AudioClip: {fileID: 8300000, guid: 6f70ebc5515834284a20eed604cb0da2, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "L'acciaio, a differenza della plastica, \xE8 un materiale che non
+          conserva odori e sapori dei liquidi contenuti in precedenza, perch\xE8
+          il materiale \xE8 super resistente e inossidabile."
+        AudioClip: {fileID: 8300000, guid: 35c69c74d76ee498a8e30ae48de38690, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: Anche inserendo bevande acide non si corre quindi il rischio di corrodere
+          la nostra borraccia in acciaio, al contrario di quello che accadrebbe con
+          una bottiglietta di plastica.
+        AudioClip: {fileID: 8300000, guid: 3a8e1239dbe4f427b8608adb6533a0e9, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Le bottigliette di plastica si rovinano nel tempo, mentre l\u2019acciaio
+          delle borracce resiste pi\xF9 a lungo."
+        AudioClip: {fileID: 8300000, guid: 87d2aefd96bd94f42972f48689044ae8, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: 'Dal momento che le borracce sono costruite con un materiale inossidabile,
+          non hanno bisogno di rivestimenti interni, spesso soggetti alla proliferazione
+          di muffe e batteri. '
+        AudioClip: {fileID: 8300000, guid: 8f1061157667c4370bde02301277169b, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Ultimamente vengono prodotte anche borracce che danno un sapore
+          specifico all\u2019acqua."
+        AudioClip: {fileID: 8300000, guid: 4f2d27050c5ed440d983abfe1182c758, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Se senti uno strano sapore quando bevi l\u2019acqua da una bottiglietta
+          di plastica lasciata al sole, fai molta attenzione perch\xE9 vuol dire
+          che la plastica \xE8 stata alterata. Questo non potrebbe assolutamente
+          accadere con le borracce in acciaio che sono una barriera per i raggi UV."
+        AudioClip: {fileID: 8300000, guid: 978b89b97a35448c58b7219357d5c338, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Non scordiamoci poi che l\u2019acqua in borraccia \xE8 anche eco-sostenibile,
+          poich\xE9 riduce l\u2019utilizzo di bottiglie di plastica monouso."
+        AudioClip: {fileID: 0}
+      Relevance: 1
+  - TitleAudio:
+      String: Quanto inquinano le bottiglie di plastica?
+      AudioClip: {fileID: 8300000, guid: a7d4e422cdd7746fa8c6717baefa812a, type: 3}
+    PreviewAudio:
+      String: "Produzione, trasporto e smaltimento, ecco quanto una singola bottiglia
+        di plastica \xE8 in grado di inquinare."
+      AudioClip: {fileID: 8300000, guid: b8765dbcd81cb47fda73f9febb89ded7, type: 3}
+    AuthorAudio:
+      String: Iris Andreoni
+      AudioClip: {fileID: 8300000, guid: 00f9f7c1fceae48529f7a3536f2bff7f, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Iris Andreoni, dirigente NUOVAMBIENTE Milano, azienda specializzata
+        nella raccolta dei rifiuti. FONTE: giornale online \u201CL\u2019EcoPost\u201D,
+        09/04/2019"
+      AudioClip: {fileID: 8300000, guid: 129578d4243184e5bbe7f75519807fe1, type: 3}
+    Relevance: 1
+    Snippets:
+    - TextAudio:
+        String: "Quali sono i passaggi necessari per fabbricare una bottiglia di
+          plastica e quanto \xE8 inquinante ogni passaggio?"
+        AudioClip: {fileID: 8300000, guid: bb24b70e1b81f44a9b5e1b28929b0d39, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Una bottiglia di plastica \xE8 composta prevalentemente da materiale
+          derivante dal petrolio. Negli anni, il petrolio \xE8 stato preferito ad
+          altre risorse per la produzione delle bottiglie di plastica, perch\xE9
+          \xE8 la fonte pi\xF9 economica."
+        AudioClip: {fileID: 8300000, guid: 165f96d2f20144755bbeb36ccfafa08c, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Tuttavia, \xE8 anche una risorsa non rinnovabile, il cui trasporto,
+          utilizzo e lavorazione costituiscono la principale causa del riscaldamento
+          globale."
+        AudioClip: {fileID: 8300000, guid: 7b4b210f41272409aa0caa205db7dbfa, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: Giunto alle raffinerie, il petrolio viene lavorato e trasformato
+          in piccole sfere di PET, che vengono inserite in appositi stampi e fatte
+          raffreddare per assumere la classica forma della bottiglia.
+        AudioClip: {fileID: 8300000, guid: b64d57741405a4e90b3e76b2a1ad24ad, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Alla bottiglia vengono poi aggiunti etichette, tappi e imballaggi,
+          tutti materiali composti anch\u2019essi da plastica!"
+        AudioClip: {fileID: 8300000, guid: 687ee523c87d34178abc8b5e2ce2061d, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Per il trasporto dalle fabbriche ai supermercati, bar o ristoranti
+          vengono disperse nell\u2019ambiente centinaia di tonnellate di anidride
+          carbonica."
+        AudioClip: {fileID: 8300000, guid: 9140402b0fbd049989ee14ce946f90e7, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Dopo tanti passaggi inquinanti dovuti alla produzione e al trasporto,
+          secondo gli esperti la vita media di una bottiglietta di plastica \xE8
+          solo di qualche ora perch\xE9, dopo aver bevuto, siamo soliti buttarla
+          via."
+        AudioClip: {fileID: 8300000, guid: e48101198873a473096aa1a4d80240a2, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: "Attualmente \xE8 possibile smaltire le nostre bottiglie nella raccolta
+          apposita. Tuttavia, \xE8 bene sottolineare che, a causa dell\u2019enorme
+          quantit\xE0 di materiali di plastica che buttiamo via, spesso le bottigliette
+          finiscono direttamente nelle discariche, dove impiegano circa 1000 anni
+          prima di degradarsi."
+        AudioClip: {fileID: 8300000, guid: 69612aea2030e4ae38361cc7b4d768e2, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "L\u2019acqua nelle bottiglie di plastica \xE8 sicuramente un\u2019alternativa
+          comoda, ma molto inquinante."
+        AudioClip: {fileID: 0}
+      Relevance: 2
+  - TitleAudio:
+      String: Quante volte si possono usare le bottiglie in vetro?
+      AudioClip: {fileID: 8300000, guid: 2c9d4c7b092e54be98434007ac7da290, type: 3}
+    PreviewAudio:
+      String: "Gli studi presi in esame in questo articolo mostrano come in realt\xE0
+        il livello di inquinamento del vetro sia sottovalutato. Sarebbe forse pi\xF9
+        ecosostenibile adottare le lattine di alluminio?"
+      AudioClip: {fileID: 8300000, guid: b51ed65d0f14d468f85381a39c0458af, type: 3}
+    AuthorAudio:
+      String: Federico Turrisi
+      AudioClip: {fileID: 8300000, guid: 4a712cc48db7c46eeab05d731d5e66de, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Federico Turrisi, giornalista esperto in sostenibilit\xE0
+        ambientale. FONTE: giornale online \u201COgha.it\u201D, 30/11/2020"
+      AudioClip: {fileID: 8300000, guid: 710009517f2794f24a464d182f29b34c, type: 3}
+    Relevance: 0
+    Snippets: []
+  - TitleAudio:
+      String: Film Wall-e
+      AudioClip: {fileID: 8300000, guid: 57977a2ac734247e58779d4248d91fdf, type: 3}
+    PreviewAudio:
+      String: "La terra, ormai invasa da rifiuti, non ha pi\xF9 nessun abitante se
+        non Wall-e un robot programmato per comprimere e ammassare i rifiuti."
+      AudioClip: {fileID: 8300000, guid: 9528170608f0d4944ae34a57f66e4bb6, type: 3}
+    AuthorAudio:
+      String: Stefania Casalgrande
+      AudioClip: {fileID: 8300000, guid: 3ae79d92c22fa42afa789d67b84a871d, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Stefania Casalgrande, critica cinematografica FONTE: blog
+        online \u201Ccinematando \u201D, 3 luglio 2019"
+      AudioClip: {fileID: 8300000, guid: b1bf3a5af5b1b4db787e772a258d362f, type: 3}
+    Relevance: 0
+    Snippets: []
+  - TitleAudio:
+      String: Bibite gassate in lattina
+      AudioClip: {fileID: 8300000, guid: 6c4572d53e10148ca88148584e973176, type: 3}
+    PreviewAudio:
+      String: "Le bibite gassate in lattina sembrano pi\xF9 buone rispetto a quando
+        sono in bottiglie di vetro. Sar\xE0 vero?"
+      AudioClip: {fileID: 8300000, guid: 95822063f1b2549ed8ba09f734c32218, type: 3}
+    AuthorAudio:
+      String: Giovanni Bonni
+      AudioClip: {fileID: 8300000, guid: 33a8851fdfce04f1a9bee553f4412172, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Giovanni Bonni, chimico degli alimenti FONTE: blog online
+        \u201CBibite & co\u201D"
+      AudioClip: {fileID: 8300000, guid: 7ebc8fc7800a14a45b1248725438baf8, type: 3}
+    Relevance: 0
+    Snippets: []
+  - TitleAudio:
+      String: Lo scioglimento dei ghiacciai e il surriscaldamento del pianeta
+      AudioClip: {fileID: 8300000, guid: aa09c3a04a85944d6a856cdc70ca7367, type: 3}
+    PreviewAudio:
+      String: "Le ultime ricerche universitarie dimostrano che l\u2019aumento della
+        temperatura dell\u2019aria \xE8 la causa principale dello scioglimento dei
+        ghiacciai nel mondo."
+      AudioClip: {fileID: 8300000, guid: 7c37bb3d27114499f82e0cee63cccfbe, type: 3}
+    AuthorAudio:
+      String: Mariagiulia Porrello
+      AudioClip: {fileID: 8300000, guid: f9fea1eed9b934d1d9b2bb7dee569113, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE:  Mariagiulia Porrello, avvocato e giornalista esperta di sostenibilit\xE0
+        ambientale FONTE: sito online \u201CIlGiornale.it\u201D"
+      AudioClip: {fileID: 8300000, guid: 273ae3f905a11403096b80b85fac42bf, type: 3}
+    Relevance: 0
+    Snippets: []
+  TagsQuiz:
+    QuestionAudio:
+      String: SCEGLI 3 TAG CHE RAPPRESENTANO AL MEGLIO IL TESTO PRODOTTO
+      AudioClip: {fileID: 8300000, guid: 84cb9b1610c664cb997f3a150ac40747, type: 3}
+    ChoicesAudio:
+    - String: '#IGIENE'
+      AudioClip: {fileID: 8300000, guid: 33aac4dc1620541ecb3a80ba8c0c1627, type: 3}
+    - String: '#SURRISCALDAMENTO'
+      AudioClip: {fileID: 8300000, guid: c52bba245507d4ac593c063cd6a1e8de, type: 3}
+    - String: '#INQUINAMENTO'
+      AudioClip: {fileID: 8300000, guid: e9414baf79a0e4d1fbc7df45f63f31c5, type: 3}
+    - String: '#RICICLAGGIO'
+      AudioClip: {fileID: 8300000, guid: 6ca6eefce9b08434898056df02ab7e30, type: 3}
+    - String: '#LATTINE'
+      AudioClip: {fileID: 8300000, guid: 01558cc648c6e4a87ae5f13931a1f1a7, type: 3}
+    - String: '#MATERIALI'
+      AudioClip: {fileID: 8300000, guid: 757dbfdabcdc54da09beddb950f0977f, type: 3}
+    - String: '#PETROLIO'
+      AudioClip: {fileID: 8300000, guid: dffd43549e9ae4e05b2bbba6f77fe209, type: 3}
+    Correct: 000000000200000005000000
+  TitleQuiz:
+    QuestionAudio:
+      String: "SCEGLI IL TITOLO PI\xD9 ADEGUATO"
+      AudioClip: {fileID: 8300000, guid: 287226767e1d14a0a92e1d3e688dd0cf, type: 3}
+    ChoicesAudio:
+    - String: "Borraccia in alluminio e bottiglia di plastica: la prima \xE8 la scelta
+        migliore"
+      AudioClip: {fileID: 8300000, guid: 0a61cc7fc152443fca8df0fd20b1a0d3, type: 3}
+    - String: 'Acqua in borraccia e acqua in bottiglia: a ognuno la sua scelta'
+      AudioClip: {fileID: 8300000, guid: bf080580ce8f54462af447acec93754e, type: 3}
+    - String: "Borracce di tanti materiali: l\u2019acqua \xE8 sempre buona"
+      AudioClip: {fileID: 8300000, guid: 5e5bd07e8b08743b489f97d9d0ee61cc, type: 3}
+    - String: 'Bottiglie di plastica: quanto inquinano!'
+      AudioClip: {fileID: 8300000, guid: bdb4741098fc64525b8f652d4d499c50, type: 3}
+    Correct: 00000000
+  SubmissionQuizzes:
+  - QuestionAudio:
+      String: "QUANTO \xE8 STATO DIFFICILE?"
+      AudioClip: {fileID: 8300000, guid: a4eafbab6651645299c94964f3aecd03, type: 3}
+    ChoicesAudio:
+    - String: POCO
+      AudioClip: {fileID: 8300000, guid: 1ba83cb5aa8284a7f9746016868bb964, type: 3}
+    - String: NON TROPPO
+      AudioClip: {fileID: 8300000, guid: 065b6200431324795ad94d342d2d9370, type: 3}
+    - String: ABBASTANZA
+      AudioClip: {fileID: 8300000, guid: 9e44a05c9d6bc4a0782711feaa7c04e4, type: 3}
+    - String: MOLTO
+      AudioClip: {fileID: 8300000, guid: 3baa69b84f33646419777eba6e9fc490, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: "QUAL \xE8 STATA LA PARTE PI\xF9 DIFFICILE?"
+      AudioClip: {fileID: 8300000, guid: 851c88140e39b4d8f8c5ea2d7e1f09b5, type: 3}
+    ChoicesAudio:
+    - String: SCELTA DEI TESTI
+      AudioClip: {fileID: 8300000, guid: 80edde49fee9e4bda9289d1fcb1868c8, type: 3}
+    - String: ASSEGNAZIONE TEMPO
+      AudioClip: {fileID: 8300000, guid: ada8e9ff3350649b1b98e8a33e91d6b4, type: 3}
+    - String: ASSEGNAZIONE SNIPPET
+      AudioClip: {fileID: 8300000, guid: a7fb8602b9998414787c69bd23e0a7ad, type: 3}
+    - String: SCELTA SNIPPET
+      AudioClip: {fileID: 8300000, guid: 2c0a8acc27bf0426b8e3d8d2a03d1459, type: 3}
+    - String: COMPOSIZIONE DEL TESTO
+      AudioClip: {fileID: 8300000, guid: 297a4bd6273e14f429f6c6bfda25fd91, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: "AVRESTI VOLUTO PI\xF9 SNIPPET?"
+      AudioClip: {fileID: 8300000, guid: 7fd8ca799298243cabfc7a757ce82328, type: 3}
+    ChoicesAudio:
+    - String: "S\xEC"
+      AudioClip: {fileID: 8300000, guid: a336cf45832a74769834fa71d47b0720, type: 3}
+    - String: NO
+      AudioClip: {fileID: 8300000, guid: 65493bdc64958404cbba29528a51252d, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: "AVRESTI VOLUTO PI\xF9 TEMPO?"
+      AudioClip: {fileID: 8300000, guid: d1ef1e18eb2a24f6bbc618a3faaa8f7b, type: 3}
+    ChoicesAudio:
+    - String: "S\xEC"
+      AudioClip: {fileID: 8300000, guid: a336cf45832a74769834fa71d47b0720, type: 3}
+    - String: NO
+      AudioClip: {fileID: 8300000, guid: 65493bdc64958404cbba29528a51252d, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: "AVRESTI VOLUTO BRANI PI\xF9 BREVI?"
+      AudioClip: {fileID: 8300000, guid: 1b133bbb5ece64dc587d1104f9247fa3, type: 3}
+    ChoicesAudio:
+    - String: "S\xEC"
+      AudioClip: {fileID: 8300000, guid: a336cf45832a74769834fa71d47b0720, type: 3}
+    - String: NO
+      AudioClip: {fileID: 8300000, guid: 65493bdc64958404cbba29528a51252d, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: AVRESTI VOLUTO UN AIUTO MAGGIORE?
+      AudioClip: {fileID: 8300000, guid: d492f6cae58d445eeab5fac9f7ba3657, type: 3}
+    ChoicesAudio:
+    - String: "S\xEC"
+      AudioClip: {fileID: 8300000, guid: a336cf45832a74769834fa71d47b0720, type: 3}
+    - String: NO
+      AudioClip: {fileID: 8300000, guid: 65493bdc64958404cbba29528a51252d, type: 3}
+    Correct: 
+  TipsQuizTitle:
+    String: DAI DEI CONSIGLI AI TUOI COMPAGNI
+    AudioClip: {fileID: 8300000, guid: e8da3ef463def4e0dae12790fc66ebba, type: 3}
+  Tips:
+  - String: "Usa il super poter \u201CMemoria di lavoro\u201D per aiutarti a tenere
+      in mente tutte le informazioni dei testi "
+    AudioClip: {fileID: 8300000, guid: f8e1c77092dea4602a210225a6dca40e, type: 3}
+  - String: "Stai concentrato durante il compito di selezione dei testi rilevanti
+      perch\xE9 \xE8 un compito difficile in cui bisogna leggere con attenzione"
+    AudioClip: {fileID: 8300000, guid: e8dc3180eeb6e4409b48dd0e7a54ed8e, type: 3}
+  - String: "Usa il super potere \u201CInterferenza\u201D per non selezionare due
+      snippet che dicono la stessa cosa"
+    AudioClip: {fileID: 8300000, guid: 87bfdb5220f4c46c485b2f307c1544b6, type: 3}
+  - String: "Quando leggi i testi libera il tavolo di lavoro e non farti distrarre
+      da quello che c\u2019\xE8 intorno a te"
+    AudioClip: {fileID: 8300000, guid: 782508ad31c11452cb17d61dcab61596, type: 3}
+  - String: Datti il tempo che ti serve, impostare un timer troppo breve potrebbe
+      influenzare negativamente il tuo lavoro
+    AudioClip: {fileID: 8300000, guid: a45a15ccb70dd4786a70a4aa9f577a1a, type: 3}
+  - String: 'Quando revisioni il tuo lavoro non farlo distrattamente ma rimani concentrato
+      per cercare eventuali errori '
+    AudioClip: {fileID: 8300000, guid: 8903f7b6363ee4685b32633f4cc5f4f5, type: 3}

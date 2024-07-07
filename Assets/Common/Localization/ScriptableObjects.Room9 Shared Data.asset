@@ -1,0 +1,316 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ScriptableObjects.Room9 Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ScriptableObjects.Room9
+  m_TableCollectionNameGuidString: bd993633f0e844f58b970833bbd6823e
+  m_Entries:
+  - m_Id: 115531046912
+    m_Key: FlexibilityExercises
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152440922112
+    m_Key: InhibitionExercises
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4212485251072
+    m_Key: MediaLiteracyExercises
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4216985739264
+    m_Key: MemoryExercises
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378709759483904
+    m_Key: TitleRelevanceStepTaskAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378709893701632
+    m_Key: TitleRelevanceStepInfoAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378710015336448
+    m_Key: NegativeRelevanceStepTaskAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378710132776960
+    m_Key: NegativeRelevanceStepInfoAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378710254411776
+    m_Key: PositiveRelevanceStepTaskAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378710371852288
+    m_Key: PositiveRelevanceStepInfoAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378710745145344
+    m_Key: OutlineStepreviewTaskAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378710858391552
+    m_Key: OutlineStepsortTaskAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378711013580800
+    m_Key: OutlineStepInfoAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378711135215616
+    m_Key: PreviewStepreviewTaskAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378711252656128
+    m_Key: PreviewSteptitleTaskAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378711365902336
+    m_Key: PreviewStepInfoAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378711487537152
+    m_Key: RelevanceStepTaskAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378711604977664
+    m_Key: RelevanceStepInfoAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378711722418176
+    m_Key: SnippetsStepTaskAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378711839858688
+    m_Key: SnippetsStepInfoAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378711953104896
+    m_Key: TimeStepTaskAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378712070545408
+    m_Key: TimeStepInfoAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378712322203648
+    m_Key: OutlineStepsortInfoAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378712443838464
+    m_Key: RelevanceStepassignTaskAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378712561278976
+    m_Key: RelevanceStepassignInfoAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378712674525184
+    m_Key: RelevanceStepquizTaskAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378712791965696
+    m_Key: RelevanceStepsolutionTaskAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378712905211904
+    m_Key: RelevanceStepsolutionInfoAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378713509191680
+    m_Key: ProductionSteppickTaskAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378713622437888
+    m_Key: ProductionSteppickInfoAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378713739878400
+    m_Key: ProductionStepeditorTaskAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378713853124608
+    m_Key: ProductionStepeditorInfoAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378713978953728
+    m_Key: SubmissionStepreviewTaskAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381801443876864
+    m_Key: KnowledgeStepQuestionAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382918986817536
+    m_Key: RelevanceStepQuizAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382925710286848
+    m_Key: RelevanceStepQuizChoiceAudio 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382948984479744
+    m_Key: RelevanceStepQuizChoiceAudio 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382966390841344
+    m_Key: RelevanceStepQuizChoiceAudio 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382990810079232
+    m_Key: RelevanceStepQuizChoiceAudio 4
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 2694126100583809036
+    - rid: 2694126123102765090
+  m_KeyGenerator:
+    rid: 2694126100583809029
+  references:
+    version: 2
+    RefIds:
+    - rid: 2694126100583809029
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1695178146486
+    - rid: 2694126100583809036
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 115531046912
+          m_TableCodes:
+          - it
+        - m_KeyId: 152440922112
+          m_TableCodes:
+          - it
+        - m_KeyId: 4212485251072
+          m_TableCodes:
+          - it
+        - m_KeyId: 4216985739264
+          m_TableCodes:
+          - it
+        m_TypeString: Room9.ExerciseList, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null
+    - rid: 2694126123102765090
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 378709759483904
+          m_TableCodes:
+          - it
+        - m_KeyId: 378709893701632
+          m_TableCodes:
+          - it
+        - m_KeyId: 378710015336448
+          m_TableCodes:
+          - it
+        - m_KeyId: 378710132776960
+          m_TableCodes:
+          - it
+        - m_KeyId: 378710254411776
+          m_TableCodes:
+          - it
+        - m_KeyId: 378710371852288
+          m_TableCodes:
+          - it
+        - m_KeyId: 378710745145344
+          m_TableCodes:
+          - it
+        - m_KeyId: 378710858391552
+          m_TableCodes:
+          - it
+        - m_KeyId: 378711013580800
+          m_TableCodes:
+          - it
+        - m_KeyId: 378711135215616
+          m_TableCodes:
+          - it
+        - m_KeyId: 378711252656128
+          m_TableCodes:
+          - it
+        - m_KeyId: 378711365902336
+          m_TableCodes:
+          - it
+        - m_KeyId: 378711487537152
+          m_TableCodes:
+          - it
+        - m_KeyId: 378711604977664
+          m_TableCodes:
+          - it
+        - m_KeyId: 378711722418176
+          m_TableCodes:
+          - it
+        - m_KeyId: 378711839858688
+          m_TableCodes:
+          - it
+        - m_KeyId: 378711953104896
+          m_TableCodes:
+          - it
+        - m_KeyId: 378712070545408
+          m_TableCodes:
+          - it
+        - m_KeyId: 378712322203648
+          m_TableCodes:
+          - it
+        - m_KeyId: 378712443838464
+          m_TableCodes:
+          - it
+        - m_KeyId: 378712561278976
+          m_TableCodes:
+          - it
+        - m_KeyId: 378712674525184
+          m_TableCodes:
+          - it
+        - m_KeyId: 378712791965696
+          m_TableCodes:
+          - it
+        - m_KeyId: 378712905211904
+          m_TableCodes:
+          - it
+        - m_KeyId: 378713509191680
+          m_TableCodes:
+          - it
+        - m_KeyId: 378713622437888
+          m_TableCodes:
+          - it
+        - m_KeyId: 378713739878400
+          m_TableCodes:
+          - it
+        - m_KeyId: 378713853124608
+          m_TableCodes:
+          - it
+        - m_KeyId: 378713978953728
+          m_TableCodes:
+          - it
+        - m_KeyId: 381801443876864
+          m_TableCodes:
+          - it
+        - m_KeyId: 382918986817536
+          m_TableCodes:
+          - it
+        - m_KeyId: 382925710286848
+          m_TableCodes:
+          - it
+        - m_KeyId: 382966390841344
+          m_TableCodes:
+          - it
+        - m_KeyId: 382948984479744
+          m_TableCodes:
+          - it
+        - m_KeyId: 382990810079232
+          m_TableCodes:
+          - it
+        m_TypeString: Room9.ReadableStringAsset, Assembly-CSharp, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

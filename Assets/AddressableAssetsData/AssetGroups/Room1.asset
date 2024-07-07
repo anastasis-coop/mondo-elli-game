@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Room1
+  m_EditorClassIdentifier: 
+  m_GroupName: Room1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 28fc14553ebea5a45bfe50e627a588ec
+  m_SerializeEntries:
+  - m_GUID: c69bd42f5f93d49469d229f05dfb2fd9
+    m_Address: Assets/Rooms/Room1/Scenes/Room1_Levels1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 102900000, guid: c69bd42f5f93d49469d229f05dfb2fd9, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: c69bd42f5f93d49469d229f05dfb2fd9, type: 3}
+  - m_GUID: d04904caff93a124ab5d8930edaae325
+    m_Address: Assets/Rooms/Room1/Scenes/Room1_Levels2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 102900000, guid: d04904caff93a124ab5d8930edaae325, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: d04904caff93a124ab5d8930edaae325, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9d1ea53a3f1f3924d8a088cc5efbde73, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 76455d71199a7aa41b34c3df7abe5430, type: 2}
+    - {fileID: 11400000, guid: 1eef18faaf21c3f4494dfb87dc2efb74, type: 2}

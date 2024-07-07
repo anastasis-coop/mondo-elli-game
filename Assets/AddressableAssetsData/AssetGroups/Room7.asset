@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Room7
+  m_EditorClassIdentifier: 
+  m_GroupName: Room7
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bb298fb67e48eea498aa4acbfc74ef1f
+  m_SerializeEntries:
+  - m_GUID: 20cd0c66be5ba4e0cb33f855d188099e
+    m_Address: Assets/Rooms/Room7/Scenes/Room7_Levels2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5476767aa14f48d4e91af76355b9feb9
+    m_Address: Assets/Rooms/Room7/Scenes/Room7_Levels1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9d1ea53a3f1f3924d8a088cc5efbde73, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ccdd0879de5f1ea49ad8f53a990fe995, type: 2}
+    - {fileID: 11400000, guid: ed93fd40ec902974b80954760e00b569, type: 2}

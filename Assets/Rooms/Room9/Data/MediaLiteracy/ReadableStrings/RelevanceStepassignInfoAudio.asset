@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6a2ccf4d77864e8fbb123ee4148eb2e, type: 3}
+  m_Name: RelevanceStepassignInfoAudio
+  m_EditorClassIdentifier: 
+  value:
+    String: 'ASSEGNA I DISCHETTI CON <b>VALORE 2</b> AI TITOLI CHE TI SEMBRANO MOLTO
+      RILEVANTI, QUELLI CON <b>VALORE 1</b> AI TITOLI CHE TI SEMBRANO ABBASTANZA
+      RILEVANTI E QUELLI CON <b>VALORE 0</b> AI TITOLI NON TI SEMBRANO RILEVANTI
+      PER IL TUO TEMA DI RICERCA
+
+
+      TRASCINA I DISCHETTI NELLO SPAZIO TONDO
+      DI FIANCO ALL''ANTEPRIMA DEL TITOLO O CLICCA PRIMA IL DISCHETTO E POI LO SPAZIO
+      TONDO.
+
+
+      <b>TESTO RILEVANTE</b>: TESTO PARTICOLARMENTE SIGNIFICATIVO
+      RISPETTO AL TEMA TRATTATO.'
+    AudioClip: {fileID: 8300000, guid: 058f2ebf0a78444f7857dc5f2036e776, type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6a2ccf4d77864e8fbb123ee4148eb2e, type: 3}
+  m_Name: ProductionStepeditorInfoAudio
+  m_EditorClassIdentifier: 
+  value:
+    String: "<b>+AGGIUNGI SNIPPET</b>: SCEGLI UNO SNIPPET DA AGGIUNGERE DAL TUO NOTEBOOK.
+      UTILIZZA LA X ROSSA IN ALTO A DESTRA PER ELIMINARE LO SNIPPET. UTILIZZA LE
+      FRECCE LATERALI PER SPOSTARE GLI SNIPPET.\n\n<b>+AGGIUNGI CARD</b>: SCEGLI
+      UNA CARD PER CONNETTERE DUE SNIPPET DALLA LISTA DI CARD DISPONIBILI. UTILIZZA
+      LA X ROSSA IN ALTO A DESTRA PER ELIMINARE LA CARD.\n\nCLICCA SULLE ICONE DEI
+      POTERI PER RICEVERE DEI CONSIGLI.\n\nRILEGGI PRIMA DI CONSEGNARE E SE NON SEI
+      CONVINTO RITORNA ALL\u2019EDITOR."
+    AudioClip: {fileID: 8300000, guid: 21f79ba5cac18504cb4c6274debba5d0, type: 3}

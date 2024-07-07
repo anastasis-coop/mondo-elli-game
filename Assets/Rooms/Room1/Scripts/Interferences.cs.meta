@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: ffdaaae2fae716b4a86c07f378358135
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rainSound: {fileID: 8300000, guid: 9908d319d3ac4024c8fc107626f85734, type: 3}
+  - smokeSound: {fileID: 8300000, guid: 305b27e789633434ea2e67b6e71dd0a0, type: 3}
+  - sparckleSound: {fileID: 8300000, guid: 22a65eb7d82080b4899c64c239238e3d, type: 3}
+  - bubbleSound: {fileID: 8300000, guid: 56939f7b648aa2547b25b55c7ea2c75d, type: 3}
+  - Snow: {instanceID: 0}
+  - Rain: {instanceID: 0}
+  - bubblesTop: {instanceID: 0}
+  - smokeTop: {instanceID: 0}
+  - sparklesTop: {instanceID: 0}
+  - lightsTop: {instanceID: 0}
+  - bubblesLeft: {instanceID: 0}
+  - smokeLeft: {instanceID: 0}
+  - sparklesLeft: {instanceID: 0}
+  - lightsLeft: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

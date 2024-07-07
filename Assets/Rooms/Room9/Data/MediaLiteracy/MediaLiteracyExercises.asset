@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8972e6084373a47d9be1fa88cdd3704f, type: 3}
+  m_Name: MediaLiteracyExercises
+  m_EditorClassIdentifier: 
+  entries:
+  - {fileID: 11400000, guid: 86e8caeafb6d61948a36d6cc42c16396, type: 2}
+  - {fileID: 11400000, guid: d58b179b2cc514511854dad8c8a81a90, type: 2}
+  - {fileID: 11400000, guid: 68a5f9a72b80f4571ae0ae621c1ae3bf, type: 2}
+  - {fileID: 11400000, guid: 9527fd597c9764bbfb3af89eba308503, type: 2}

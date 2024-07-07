@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6215ba9402c332f4d9fd7e55a3bc641c, type: 3}
+  m_Name: BW_Doll 2
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: BW_Doll 2
+  <Prefab>k__BackingField: {fileID: 882151386937267980, guid: 5b23bc2a8284e7946acb42e511084a8b,
+    type: 3}
+  <Sprite>k__BackingField: {fileID: 21300000, guid: 10c473abeb595904fba4b5dd994cc29a,
+    type: 3}

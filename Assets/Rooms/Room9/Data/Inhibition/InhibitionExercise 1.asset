@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08a17d89af756418193ed6ac02affe53, type: 3}
+  m_Name: InhibitionExercise 1
+  m_EditorClassIdentifier: 
+  ThemeAudio:
+    String: I vantaggi della musica
+    AudioClip: {fileID: 8300000, guid: 3a43b37257070447eb0fe412e1511569, type: 3}
+  Titles:
+  - TextAudio:
+      String: Ascoltare musica fa bene alla salute
+      AudioClip: {fileID: 8300000, guid: 42d4e2f6a842f40b4a04eee79089f3e9, type: 3}
+    Relevance: 1
+  - TextAudio:
+      String: "Le cinque stazioni radio pi\xF9 ascoltate"
+      AudioClip: {fileID: 8300000, guid: c4cc1126a92744963ad247fb0d52016a, type: 3}
+    Relevance: 0
+  - TextAudio:
+      String: Suonare uno strumento musicale calma e rilassa
+      AudioClip: {fileID: 8300000, guid: 15c381ffb23d94ce4bd228c3d52655ed, type: 3}
+    Relevance: 1
+  - TextAudio:
+      String: Acquisto biglietto online per i concerti
+      AudioClip: {fileID: 8300000, guid: c9d11d8bc41d049229cf70570e680470, type: 3}
+    Relevance: 0
+  - TextAudio:
+      String: 'Cuffie: un pericolo per le orecchie'
+      AudioClip: {fileID: 8300000, guid: cf6ec98c8785d4b468338c01828d8b5c, type: 3}
+    Relevance: 0
+  - TextAudio:
+      String: La musica ci tiene compagnia
+      AudioClip: {fileID: 8300000, guid: 4706edd6c421443efa1ac61b00bf9a43, type: 3}
+    Relevance: 1
+  - TextAudio:
+      String: La musica riduce lo stress
+      AudioClip: {fileID: 8300000, guid: 3cb976aeeb5ca4e9ca6032add15cafbc, type: 3}
+    Relevance: 1
+  - TextAudio:
+      String: Immondizia ovunque dopo un concerto in spiaggia
+      AudioClip: {fileID: 8300000, guid: 1b60fffc407fc4d95a42bb3f1d8f9d04, type: 3}
+    Relevance: 0
+  NegativeRelevanceTexts:
+  - Snippets:
+    - TextAudio:
+        String: La musica ci permette di esprimerci, ci concede calma quando siamo
+          stanchi e ci fa compagnia quando vogliamo divertirci.
+        AudioClip: {fileID: 8300000, guid: 3a725124821d04cec979aac504b37a05, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: Sono veramente moltissimi i vantaggi di ascoltare musica, sia con
+          le cuffie che a tutto volume con le casse.
+        AudioClip: {fileID: 8300000, guid: 40d6ba9264b1c436f850b5e5adfc59aa, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: Scarica la nostra app gratuita per il telefono e ascolta tutti i
+          tuoi brani preferiti a costo 0 per i primi quattro mesi.
+        AudioClip: {fileID: 8300000, guid: 3b646c1df2e354b4086123d0a9872882, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "La nostra app \xE8 senza pubblicit\xE0 e cos\xEC potrai divertirti
+          ad ascoltare musica senza interruzioni."
+        AudioClip: {fileID: 8300000, guid: 766507ee90fb3495db81463b287659db, type: 3}
+      Relevance: 0
+  - Snippets:
+    - TextAudio:
+        String: "Ascoltare la musica ha moltissimi vantaggi, tra cui la possibilit\xE0
+          di chiuderci nel nostro mondo e ascoltare in pace le nostre canzoni preferite."
+        AudioClip: {fileID: 8300000, guid: 0236203fa03c4472ba96b23438f3f30f, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Le cuffie e gli auricolari possono per\xF2 portare a una serie di
+          problemi al nostro orecchio."
+        AudioClip: {fileID: 8300000, guid: ffbd99c03a21b47c9ad9d7b2df6540a9, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Infatti, ascoltare musica a volume eccessivo direttamente \u201Csparata\u201D
+          nelle orecchie rappresenta uno stress uditivo continuo che pu\xF2 portare
+          a un calo precoce dell\u2019udito. "
+        AudioClip: {fileID: 8300000, guid: 9cf282bd659c046f199aebe36dba0b58, type: 3}
+      Relevance: 0
+  - Snippets:
+    - TextAudio:
+        String: "Suonare uno strumento musicale rende il nostro cervello pi\xF9 grande
+          e pi\xF9 funzionale. "
+        AudioClip: {fileID: 8300000, guid: 2767a219a57fc470daa18ab7546e4d1a, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Chi sa suonare uno strumento infatti \xE8 spesso pi\xF9 bravo anche
+          in compiti scolastici come nella risoluzione dei problemi."
+        AudioClip: {fileID: 8300000, guid: f9e90d4c774704dfaa260e3f436bc8f6, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Inoltre, l\u2019esercizio musicale aiuta a mantenere la concentrazione
+          pi\xF9 a lungo. I vantaggi sono anche sul piano motorio e della salute."
+        AudioClip: {fileID: 8300000, guid: 670091121e745453bb03683bd0957b25, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: Ad esempio, suonare o ascoltare musica classica aiuta il nostro cuore
+          riducendone la frequenza.
+        AudioClip: {fileID: 8300000, guid: 3854103e692e444f183ede8a8908cd99, type: 3}
+      Relevance: 1
+  - Snippets:
+    - TextAudio:
+        String: "La musica \xE8 una parte importante della vita di tutti noi."
+        AudioClip: {fileID: 8300000, guid: af282fec9e5354c36be0f2499dbfddc6, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: Quando siamo tristi e ascoltiamo semplicemente la nostra canzone
+          preferita il nostro umore si risolleva e la malinconia vola via.
+        AudioClip: {fileID: 8300000, guid: ff3c6f96a32394661af860951e3689ef, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "In Italia \xE8 possibile ascoltare musica da moltissime stazioni
+          radio che trasmettono 24 ore su 24 musica. "
+        AudioClip: {fileID: 8300000, guid: ed298a1eb43b5489ba9782b4c55d099e, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Tuttavia, spesso gli speaker radiofonici interrompono le canzoni
+          per parlare di attualit\xE0 e per fare gossip."
+        AudioClip: {fileID: 8300000, guid: 90153a2293b5c4462b97edd2c4ab97b7, type: 3}
+      Relevance: 0
+  PositiveRelevanceTexts:
+  - Snippets:
+    - TextAudio:
+        String: "Imparare a suonare uno strumento musicale fa bene e questo \xE8
+          ancora pi\xF9 vero per i bambini e per i ragazzi giovani."
+        AudioClip: {fileID: 8300000, guid: 9859b8cd0cdc1471198b9f0bbde48229, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Secondo gli studiosi, gli aspetti positivi di questa attivit\xE0
+          sono tanti: sembrerebbe che suonare uno strumento musicale abbia gli stessi
+          benefici di fare un'attivit\xE0 sportiva."
+        AudioClip: {fileID: 8300000, guid: b2a3816e10b6a412e90ec57da493ecb2, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Gli sport pi\xF9 praticati in Italia sono il calcio e la pallavolo. "
+        AudioClip: {fileID: 8300000, guid: 9756bf260fb4340e99bf2306a9829f24, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Dal punto di vista fisico, suonare uno strumento permette di migliorare
+          la coordinazione e le abilit\xE0 motorie."
+        AudioClip: {fileID: 8300000, guid: f4299384c8d864cc58821f523858339e, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: Fare sport almeno due volte a settimana rafforza i muscoli e ci tiene
+          in forma.
+        AudioClip: {fileID: 8300000, guid: 6573d9af74ba44348a60a7b3a812cba6, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Secondo gli scienziati conoscere e praticare musica aiuta a sviluppare
+          il linguaggio e la capacit\xE0 di lettura."
+        AudioClip: {fileID: 8300000, guid: d5581438cb5da43618e90c503499b529, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Inoltre, la musica stimola la crescita del cervello dei pi\xF9 giovani."
+        AudioClip: {fileID: 8300000, guid: d1d5723aded514e29b8467254307b7fb, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: Il cervello pesa in media 1300 grammi.
+        AudioClip: {fileID: 8300000, guid: 081aa305d726040f4be215dc0b183236, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Chi sa suonare uno strumento \xE8 pi\xF9 bravo a prendere decisioni,
+          a risolvere problemi, legge meglio i testi e riesce a mantenere la concentrazione
+          pi\xF9 a lungo. "
+        AudioClip: {fileID: 8300000, guid: 08c2763bdb7e04e259af5b4322325eea, type: 3}
+      Relevance: 1

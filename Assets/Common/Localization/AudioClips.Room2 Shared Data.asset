@@ -1,0 +1,750 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: AudioClips.Room2 Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: AudioClips.Room2
+  m_TableCollectionNameGuidString: 3a3f7a90770cf44ac8f52821156eb10a
+  m_Entries:
+  - m_Id: 42734706688
+    m_Key: VoiceDemo.ManVoiceDemo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181201264640
+    m_Key: VoiceDemo.WomanVoiceDemo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2594347933696
+    m_Key: ResourcesManager.Sentences.Level21.ManagerVoice1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3025509801984
+    m_Key: ResourcesManager.Sentences.Level21.ManagerVoice2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3051241857024
+    m_Key: ResourcesManager.Sentences.Level21.ManagerVoice3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3066286825472
+    m_Key: ResourcesManager.Sentences.Level21.ManagerVoice4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3083978399744
+    m_Key: ResourcesManager.Sentences.Level21.ManagerVoice5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108301168640
+    m_Key: ResourcesManager.Sentences.Level21.ManagerVoice6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3146746159104
+    m_Key: ResourcesManager.Sentences.Level21.ManagerVoice7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3168464265216
+    m_Key: ResourcesManager.Sentences.Level21.ManagerVoice8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3180971679744
+    m_Key: ResourcesManager.Sentences.Level21.ManagerVoice9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189284790272
+    m_Key: ResourcesManager.Sentences.Level21.ManagerVoice10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6439845224448
+    m_Key: ResourcesManager.Sentences.Level22.Box
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6464683892736
+    m_Key: ResourcesManager.Sentences.Level22.Closed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478407655424
+    m_Key: ResourcesManager.Sentences.Level22.Hands
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6489665167360
+    m_Key: ResourcesManager.Sentences.Level22.PearlNecklase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6509793632256
+    m_Key: ResourcesManager.Sentences.Level22.Queue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6522502373376
+    m_Key: ResourcesManager.Sentences.Level22.Signature
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6544711213056
+    m_Key: ResourcesManager.Sentences.Level22.Suitecases
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6560754425856
+    m_Key: ResourcesManager.Sentences.Level22.Sunglasses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6572649472000
+    m_Key: ResourcesManager.Sentences.Level22.Wallet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6585114943488
+    m_Key: ResourcesManager.Sentences.Level22.YellowPurse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7321387261952
+    m_Key: ResourcesManager.Sentences.Level31.Man.Backpack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7367080009728
+    m_Key: ResourcesManager.Sentences.Level31.Man.Boxes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7382867369984
+    m_Key: ResourcesManager.Sentences.Level31.Man.Door
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7397824258048
+    m_Key: ResourcesManager.Sentences.Level31.Man.Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7413817139200
+    m_Key: ResourcesManager.Sentences.Level31.Man.Lostbags
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7429990375424
+    m_Key: ResourcesManager.Sentences.Level31.Man.Pen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7442946580480
+    m_Key: ResourcesManager.Sentences.Level31.Man.Phone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7456594845696
+    m_Key: ResourcesManager.Sentences.Level31.Man.Sunglasses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7472461897728
+    m_Key: ResourcesManager.Sentences.Level31.Man.Table
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7485917224960
+    m_Key: ResourcesManager.Sentences.Level31.Man.Wallet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8042706886656
+    m_Key: ResourcesManager.Sentences.Level31.Woman.Airplane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8059320524800
+    m_Key: ResourcesManager.Sentences.Level31.Woman.Box
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8096377200640
+    m_Key: ResourcesManager.Sentences.Level31.Woman.Chairs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8112793706496
+    m_Key: ResourcesManager.Sentences.Level31.Woman.Keys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8123753422848
+    m_Key: ResourcesManager.Sentences.Level31.Woman.Pen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8206234411008
+    m_Key: ResourcesManager.Sentences.Level31.Woman.Phone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8218746019840
+    m_Key: ResourcesManager.Sentences.Level31.Woman.Street
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8228191592448
+    m_Key: ResourcesManager.Sentences.Level31.Woman.Suitecase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8254355660800
+    m_Key: ResourcesManager.Sentences.Level31.Woman.Train
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8266577862656
+    m_Key: ResourcesManager.Sentences.Level31.Woman.Wallet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8277889900544
+    m_Key: ResourcesManager.Sentences.Level32.Man.1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8293979250688
+    m_Key: ResourcesManager.Sentences.Level32.Man.2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8308407656448
+    m_Key: ResourcesManager.Sentences.Level32.Man.3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8348048023552
+    m_Key: ResourcesManager.Sentences.Level32.Man.4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8359922098176
+    m_Key: ResourcesManager.Sentences.Level32.Man.5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8371187998720
+    m_Key: ResourcesManager.Sentences.Level32.Man.6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8383909322752
+    m_Key: ResourcesManager.Sentences.Level32.Man.7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8393778520064
+    m_Key: ResourcesManager.Sentences.Level32.Man.8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8504013217792
+    m_Key: ResourcesManager.Sentences.Level32.Woman.1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8521381830656
+    m_Key: ResourcesManager.Sentences.Level32.Woman.2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8532077305856
+    m_Key: ResourcesManager.Sentences.Level32.Woman.3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8556840476672
+    m_Key: ResourcesManager.Sentences.Level32.Woman.4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8567053606912
+    m_Key: ResourcesManager.Sentences.Level32.Woman.5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8578562777088
+    m_Key: ResourcesManager.Sentences.Level32.Woman.6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8589904175104
+    m_Key: ResourcesManager.Sentences.Level32.Woman.7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8603321753600
+    m_Key: ResourcesManager.Sentences.Level32.Woman.8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684279496704
+    m_Key: Voicelines.room_2_level_2_1_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684279496705
+    m_Key: Voicelines.Man Voice Demo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684279496706
+    m_Key: Voicelines.room_2_level_0_1_bigello_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684283691008
+    m_Key: Voicelines.Woman Voice Demo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684283691009
+    m_Key: Voicelines.room_2_level_0_2_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684283691010
+    m_Key: Voicelines.room_2_level_0_2_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684304662528
+    m_Key: Voicelines.room_2_level_0_1_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684313051136
+    m_Key: Voicelines.room_2_level_0_1_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684321439744
+    m_Key: Voicelines.room_2_level_0_1_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684334022656
+    m_Key: Voicelines.room_2_level_0_1_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684346605568
+    m_Key: Voicelines.room_2_level_0_1_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684367577088
+    m_Key: Voicelines.room_2_level_0_2_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684380160000
+    m_Key: Voicelines.room_2_level_0_2_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684388548608
+    m_Key: Voicelines.room_2_level_0_2_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684405325824
+    m_Key: Voicelines.room_2_level_0_2_bigello_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684422103040
+    m_Key: Voicelines.room_2_level_1_1_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684434685952
+    m_Key: Voicelines.room_2_level_1_1_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684443074560
+    m_Key: Voicelines.room_2_level_1_1_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684455657472
+    m_Key: Voicelines.room_2_level_1_1_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684468240384
+    m_Key: Voicelines.room_2_level_1_1_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684480823296
+    m_Key: Voicelines.room_2_level_1_1_bigello_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684497600512
+    m_Key: Voicelines.room_2_level_1_1_bigello_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684514377728
+    m_Key: Voicelines.room_2_level_1_2_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684531154944
+    m_Key: Voicelines.room_2_level_1_2_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684552126464
+    m_Key: Voicelines.room_2_level_1_2_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684560515072
+    m_Key: Voicelines.room_2_level_1_2_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684573097984
+    m_Key: Voicelines.room_2_level_1_2_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684589875200
+    m_Key: Voicelines.room_2_level_1_2_bigello_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684606652416
+    m_Key: Voicelines.room_2_level_1_2_bigello_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684623429632
+    m_Key: Voicelines.room_2_level_2_1_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684648595456
+    m_Key: Voicelines.room_2_level_2_1_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684677955584
+    m_Key: Voicelines.room_2_level_2_2_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684677955585
+    m_Key: Voicelines.Wallet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684703121408
+    m_Key: Voicelines.room_2_level_2_2_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684703121409
+    m_Key: Voicelines.room_2_level_2_2_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684736675840
+    m_Key: Voicelines.room_2_level_3_1_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684740870144
+    m_Key: Voicelines.room_2_level_3_1_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684740870145
+    m_Key: Voicelines.Woman_Chairs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684740870146
+    m_Key: Voicelines.room_2_level_3_1_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684770230272
+    m_Key: Voicelines.room_2_level_3_2_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684791201792
+    m_Key: Voicelines.room_2_level_3_2_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86684816367616
+    m_Key: Voicelines.room_2_level_3_2_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3320958550007808
+    m_Key: Voicelines.Manager Voice Demo 21
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3321030272606208
+    m_Key: Voicelines.Manager Voice Demo 22
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 2694126080561774593
+  m_KeyGenerator:
+    rid: 2694126080561774592
+  references:
+    version: 2
+    RefIds:
+    - rid: 2694126080561774592
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1695101696082
+    - rid: 2694126080561774593
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 42734706688
+          m_TableCodes:
+          - it
+        - m_KeyId: 181201264640
+          m_TableCodes:
+          - it
+        - m_KeyId: 2594347933696
+          m_TableCodes:
+          - it
+        - m_KeyId: 3025509801984
+          m_TableCodes:
+          - it
+        - m_KeyId: 3051241857024
+          m_TableCodes:
+          - it
+        - m_KeyId: 3083978399744
+          m_TableCodes:
+          - it
+        - m_KeyId: 3066286825472
+          m_TableCodes:
+          - it
+        - m_KeyId: 3108301168640
+          m_TableCodes:
+          - it
+        - m_KeyId: 3146746159104
+          m_TableCodes:
+          - it
+        - m_KeyId: 3168464265216
+          m_TableCodes:
+          - it
+        - m_KeyId: 3180971679744
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189284790272
+          m_TableCodes:
+          - it
+        - m_KeyId: 6439845224448
+          m_TableCodes:
+          - it
+        - m_KeyId: 6464683892736
+          m_TableCodes:
+          - it
+        - m_KeyId: 6478407655424
+          m_TableCodes:
+          - it
+        - m_KeyId: 6489665167360
+          m_TableCodes:
+          - it
+        - m_KeyId: 6509793632256
+          m_TableCodes:
+          - it
+        - m_KeyId: 6522502373376
+          m_TableCodes:
+          - it
+        - m_KeyId: 6544711213056
+          m_TableCodes:
+          - it
+        - m_KeyId: 6560754425856
+          m_TableCodes:
+          - it
+        - m_KeyId: 6572649472000
+          m_TableCodes:
+          - it
+        - m_KeyId: 6585114943488
+          m_TableCodes:
+          - it
+        - m_KeyId: 7321387261952
+          m_TableCodes:
+          - it
+        - m_KeyId: 7367080009728
+          m_TableCodes:
+          - it
+        - m_KeyId: 7382867369984
+          m_TableCodes:
+          - it
+        - m_KeyId: 7397824258048
+          m_TableCodes:
+          - it
+        - m_KeyId: 7413817139200
+          m_TableCodes:
+          - it
+        - m_KeyId: 7429990375424
+          m_TableCodes:
+          - it
+        - m_KeyId: 7442946580480
+          m_TableCodes:
+          - it
+        - m_KeyId: 7456594845696
+          m_TableCodes:
+          - it
+        - m_KeyId: 7472461897728
+          m_TableCodes:
+          - it
+        - m_KeyId: 7485917224960
+          m_TableCodes:
+          - it
+        - m_KeyId: 8042706886656
+          m_TableCodes:
+          - it
+        - m_KeyId: 8059320524800
+          m_TableCodes:
+          - it
+        - m_KeyId: 8096377200640
+          m_TableCodes:
+          - it
+        - m_KeyId: 8123753422848
+          m_TableCodes:
+          - it
+        - m_KeyId: 8112793706496
+          m_TableCodes:
+          - it
+        - m_KeyId: 8206234411008
+          m_TableCodes:
+          - it
+        - m_KeyId: 8218746019840
+          m_TableCodes:
+          - it
+        - m_KeyId: 8228191592448
+          m_TableCodes:
+          - it
+        - m_KeyId: 8254355660800
+          m_TableCodes:
+          - it
+        - m_KeyId: 8266577862656
+          m_TableCodes:
+          - it
+        - m_KeyId: 8277889900544
+          m_TableCodes:
+          - it
+        - m_KeyId: 8293979250688
+          m_TableCodes:
+          - it
+        - m_KeyId: 8308407656448
+          m_TableCodes:
+          - it
+        - m_KeyId: 8348048023552
+          m_TableCodes:
+          - it
+        - m_KeyId: 8359922098176
+          m_TableCodes:
+          - it
+        - m_KeyId: 8371187998720
+          m_TableCodes:
+          - it
+        - m_KeyId: 8383909322752
+          m_TableCodes:
+          - it
+        - m_KeyId: 8393778520064
+          m_TableCodes:
+          - it
+        - m_KeyId: 8504013217792
+          m_TableCodes:
+          - it
+        - m_KeyId: 8521381830656
+          m_TableCodes:
+          - it
+        - m_KeyId: 8532077305856
+          m_TableCodes:
+          - it
+        - m_KeyId: 8556840476672
+          m_TableCodes:
+          - it
+        - m_KeyId: 8567053606912
+          m_TableCodes:
+          - it
+        - m_KeyId: 8578562777088
+          m_TableCodes:
+          - it
+        - m_KeyId: 8589904175104
+          m_TableCodes:
+          - it
+        - m_KeyId: 8603321753600
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684279496704
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684279496705
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684279496706
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684283691008
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684283691009
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684283691010
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684304662528
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684313051136
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684321439744
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684334022656
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684346605568
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684367577088
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684380160000
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684388548608
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684405325824
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684422103040
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684434685952
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684443074560
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684455657472
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684468240384
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684480823296
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684497600512
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684514377728
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684531154944
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684552126464
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684560515072
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684573097984
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684589875200
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684606652416
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684623429632
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684648595456
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684677955584
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684677955585
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684703121408
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684703121409
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684736675840
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684740870144
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684740870145
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684740870146
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684770230272
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684791201792
+          m_TableCodes:
+          - it
+        - m_KeyId: 86684816367616
+          m_TableCodes:
+          - it
+        - m_KeyId: 3320958550007808
+          m_TableCodes:
+          - it
+        - m_KeyId: 3321030272606208
+          m_TableCodes:
+          - it
+        m_TypeString: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

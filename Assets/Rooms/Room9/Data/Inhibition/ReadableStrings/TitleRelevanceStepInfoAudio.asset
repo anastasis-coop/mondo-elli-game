@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6a2ccf4d77864e8fbb123ee4148eb2e, type: 3}
+  m_Name: TitleRelevanceStepInfoAudio
+  m_EditorClassIdentifier: 
+  value:
+    String: "Seleziona un titolo e premi il tasto \"RILEVANTE\" se lo ritieni rilevante
+      o il tasto \"NON RILEVANTE\" se lo ritieni non rilevante per il tuo argomento
+      di ricerca.\nNon farti distrarre dai popup che appariranno!   \n<b>TITOLO RILEVANTE:</b>
+      Titolo particolarmente significativo rispetto al tema trattato.\n<b>SNIPPET:</b>
+      Significa \"ritaglio\", \xE8 una porzione di un testo pi\xF9 lungo. "
+    AudioClip: {fileID: 8300000, guid: 7d237f509aecd4748bf70bbaa1fe48f5, type: 3}

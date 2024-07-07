@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Room5
+  m_EditorClassIdentifier: 
+  m_GroupName: Room5
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 51d9be6433bba294d8b3d702c5192872
+  m_SerializeEntries:
+  - m_GUID: a45a644f5e30aac40b4562b31b26e7a1
+    m_Address: Assets/Rooms/Room5/Scenes/Room5_Levels.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 102900000, guid: a45a644f5e30aac40b4562b31b26e7a1, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: a45a644f5e30aac40b4562b31b26e7a1, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9d1ea53a3f1f3924d8a088cc5efbde73, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fa93f58d545369d49b7c673ec99dfb15, type: 2}
+    - {fileID: 11400000, guid: 409a450ed227dac4082ea2caee995ca8, type: 2}

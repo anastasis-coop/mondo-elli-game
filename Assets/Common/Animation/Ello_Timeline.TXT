@@ -1,0 +1,12 @@
+0 - 31: Walk (pose at 1 and at 31 is the same)
+100 - 600: Idle
+700 - 963: Right Arm Rising
+1000 - 1065: Left Arm Rising
+1120 - 1163: Failed 1
+1200 - 1263: Failed 2
+1300 - 1387: Win
+1400 - 1469: Happy, Start, Jump
+1500 - 1540: Turn Right
+1701 - 1741: Turn Left
+
+1580 - 1683: testing eyes

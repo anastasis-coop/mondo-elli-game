@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3a3b702da2947029a1a0d9c6bda3cd8, type: 3}
+  m_Name: Intro - 08
+  m_EditorClassIdentifier: 
+  <Message>k__BackingField: {fileID: 11400000, guid: 38131b2793f110d44aafa02fd3260b64,
+    type: 2}
+  <UseAlternativeParent>k__BackingField: 0
+  <CutsceneAnimation>k__BackingField: {fileID: 7801996015218584309, guid: 41e829c3c04010e499971199ff3b6425,
+    type: 3}

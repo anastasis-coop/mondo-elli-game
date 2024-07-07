@@ -1,0 +1,309 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: AudioClips.Room3 Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: AudioClips.Room3
+  m_TableCollectionNameGuidString: a39ab861acda04de899ceb0286b4beb6
+  m_Entries:
+  - m_Id: 7106672451584
+    m_Key: Voicelines.room_3_level_0_1_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106693423104
+    m_Key: Voicelines.room_3_level_0_1_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106701811712
+    m_Key: Voicelines.room_3_level_0_1_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106710200320
+    m_Key: Voicelines.room_3_level_0_1_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106714394624
+    m_Key: Voicelines.room_3_level_0_1_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106718588928
+    m_Key: Voicelines.room_3_level_0_1_bigello_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106718588929
+    m_Key: Voicelines.room_3_level_0_1_bigello_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106735366144
+    m_Key: Voicelines.room_3_level_0_2_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106752143360
+    m_Key: Voicelines.room_3_level_0_2_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106756337664
+    m_Key: Voicelines.room_3_level_0_2_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106764726272
+    m_Key: Voicelines.room_3_level_0_2_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106777309184
+    m_Key: Voicelines.room_3_level_0_2_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106785697792
+    m_Key: Voicelines.room_3_level_0_2_bigello_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106785697793
+    m_Key: Voicelines.room_3_level_1_1_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106789892096
+    m_Key: Voicelines.room_3_level_1_1_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106789892097
+    m_Key: Voicelines.room_3_level_1_1_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106789892098
+    m_Key: Voicelines.room_3_level_1_1_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106810863616
+    m_Key: Voicelines.room_3_level_1_2_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106836029440
+    m_Key: Voicelines.room_3_level_1_2_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106840223744
+    m_Key: Voicelines.room_3_level_1_2_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106840223745
+    m_Key: Voicelines.room_3_level_2_1_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106857000960
+    m_Key: Voicelines.room_3_level_2_1_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106857000961
+    m_Key: Voicelines.room_3_level_2_1_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106857000962
+    m_Key: Voicelines.room_3_level_2_1_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106857000963
+    m_Key: Voicelines.room_3_level_2_1_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106857000964
+    m_Key: Voicelines.room_3_level_2_1_bigello_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106857000965
+    m_Key: Voicelines.room_3_level_2_1_bigello_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106857000966
+    m_Key: Voicelines.room_3_level_2_1_bigello_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106861195264
+    m_Key: Voicelines.room_3_level_2_1_bigello_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106861195265
+    m_Key: Voicelines.room_3_level_2_1_bigello_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106873778176
+    m_Key: Voicelines.room_3_level_2_1_bigello_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106886361088
+    m_Key: Voicelines.room_3_level_2_2_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106907332608
+    m_Key: Voicelines.room_3_level_2_2_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106911526912
+    m_Key: Voicelines.room_3_level_3_1_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106915721216
+    m_Key: Voicelines.room_3_level_3_1_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106915721217
+    m_Key: Voicelines.room_3_level_3_1_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106915721218
+    m_Key: Voicelines.room_3_level_3_1_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106936692736
+    m_Key: Voicelines.room_3_level_3_2_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7106966052864
+    m_Key: Voicelines.room_3_level_3_2_bigello_1
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 2694126085907939350
+  m_KeyGenerator:
+    rid: 2694126082138832955
+  references:
+    version: 2
+    RefIds:
+    - rid: 2694126082138832955
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1695120668990
+    - rid: 2694126085907939350
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 7106672451584
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106693423104
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106701811712
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106710200320
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106714394624
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106718588928
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106718588929
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106735366144
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106752143360
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106756337664
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106764726272
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106777309184
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106785697792
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106785697793
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106789892096
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106789892097
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106789892098
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106810863616
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106836029440
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106840223744
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106840223745
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106857000960
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106857000961
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106857000962
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106857000963
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106857000964
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106857000965
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106857000966
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106861195264
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106861195265
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106873778176
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106886361088
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106907332608
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106911526912
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106915721216
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106915721217
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106915721218
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106936692736
+          m_TableCodes:
+          - it
+        - m_KeyId: 7106966052864
+          m_TableCodes:
+          - it
+        m_TypeString: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

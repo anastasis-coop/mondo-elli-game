@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 69ce4e4c1a0904a9a9e0b1f94dd7d0ac
+  m_SerializeEntries:
+  - m_GUID: f45bce9ed93ca43d48adf0c3d0c1e663
+    m_Address: Assets/Common/Localization/Strings Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a3f7a90770cf44ac8f52821156eb10a
+    m_Address: Assets/Common/Localization/AudioClips Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df8a93e335ee040518b3805f131284a5
+    m_Address: Assets/Common/Localization/AudioClips.Room4 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6712a0405e320441e807b66525bf7afe
+    m_Address: Assets/Common/Localization/AudioClips.Room6 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 575c41ab1f25a4060a2b25096aff17f8
+    m_Address: Assets/Common/Localization/AudioClips.Room8 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 669e864ea644a4e4091054a31d3be33d
+    m_Address: Assets/Common/Localization/AudioClips.Room1 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a39ab861acda04de899ceb0286b4beb6
+    m_Address: Assets/Common/Localization/AudioClips.Room3 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ace2ffaf4f83e4ed1939581b07e1987e
+    m_Address: Assets/Common/Localization/AudioClips.Room5 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80360b5b2778a4fa9b2709ab43962b17
+    m_Address: Assets/Common/Localization/AudioClips.Room7 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce26921af69124f78a34f54de2fa5f97
+    m_Address: Assets/Common/Localization/AudioClips.Room9 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78798e17a0be74e64947370d7dce7676
+    m_Address: Assets/Common/Localization/AudioClips.Common Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e7a196596a2544d8bf0498079254b86
+    m_Address: Assets/Common/Localization/AudioClips.Cutscene Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47b2d245e53e44f82bacb4acd39abaf3
+    m_Address: Assets/Common/Localization/AudioClips.Game Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd993633f0e844f58b970833bbd6823e
+    m_Address: Assets/Common/ScriptableObjects.Room9 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 9d1ea53a3f1f3924d8a088cc5efbde73, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 071c551edae15498291ec32acccdf2c2, type: 2}
+    - {fileID: 11400000, guid: e870e7258e54846889a82895bd4c736e, type: 2}

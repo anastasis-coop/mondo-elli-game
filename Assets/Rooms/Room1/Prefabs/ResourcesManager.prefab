@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3486228276105658310
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3486228276105658304}
+  - component: {fileID: 3486228276105658311}
+  m_Layer: 0
+  m_Name: ResourcesManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3486228276105658304
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3486228276105658310}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3486228276105658311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3486228276105658310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f80921346db382a40ab91958f4352ff7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabFolders:
+  - name: Oggetti/Prefabs 0112
+    prefabs:
+    - {fileID: 882151386937267980, guid: b6d3bd7c88537534db63fb27ef718a2e, type: 3}
+    - {fileID: 882151386937267980, guid: 7ae99840aceae3745afb897e9a85f7e8, type: 3}
+    - {fileID: 882151386937267980, guid: 79c967fe38ffbd4499549adaad95ff8b, type: 3}
+    - {fileID: 8759016698557985229, guid: 9c4b5ca30ba5f7240bca85923683a3ef, type: 3}
+    - {fileID: 2586508889925986004, guid: b926562713f2ccc4fa9949b24ec2b016, type: 3}
+    - {fileID: 5825110137803819938, guid: 6ab39e0c0b2df5245be9c4d6c200e262, type: 3}
+    - {fileID: 4820666143122789406, guid: c7de66035ced5d448a692c6f1b78cb87, type: 3}
+    - {fileID: 4820666143122789406, guid: bdb65e9d083262b4d86b8d9154cfa368, type: 3}
+    - {fileID: 6887522722932147605, guid: 3f039db234fdd3641961a362baf1bf3e, type: 3}
+    - {fileID: 6887522722932147605, guid: 6c5837ab277a29a4baac87ba43b3f6c0, type: 3}
+    - {fileID: 6887522722932147605, guid: ae6e41b8727c691458913b612f805c91, type: 3}
+  - name: Oggetti/Prefabs 0211
+    prefabs:
+    - {fileID: 882151386937267980, guid: 8ef8954ec72b9d549b315e768c58860c, type: 3}
+    - {fileID: 882151386937267980, guid: d2afede1b5088424dae867c8b9b60c8f, type: 3}
+    - {fileID: 882151386937267980, guid: 44855aa1b01d3ef428b5b33ecf6f5a0c, type: 3}
+    - {fileID: 5825110137803819938, guid: 9f8812e1d85878849aab3190aa0721be, type: 3}
+    - {fileID: 4820666143122789406, guid: 9387aa1e38df65e4c8eabe33f08b7f9a, type: 3}
+    - {fileID: 4820666143122789406, guid: e03c9d10a6e03ec4d81735f08d7df54b, type: 3}
+    - {fileID: 6887522722932147605, guid: b2d3f11d985e42044a5a7779bbcc1f5c, type: 3}
+    - {fileID: 6887522722932147605, guid: ffa9963de3f4e0449943b27af4eefb35, type: 3}
+    - {fileID: 6887522722932147605, guid: a2a412a71d47ca149b45173ae9c0578d, type: 3}
+  - name: Oggetti/Prefabs 2122Fishes
+    prefabs:
+    - {fileID: 5825110137803819938, guid: 59b74390591a97e4fa6c9e04d41442e2, type: 3}
+    - {fileID: 5825110137803819938, guid: ad95b284a8e7bc240bb2bb62674eb265, type: 3}
+    - {fileID: 5825110137803819938, guid: 36f04ee6b86bcb6498045d1ea50ab740, type: 3}
+    - {fileID: 5825110137803819938, guid: d30bfb0d6f490c149bfc59150ca7c856, type: 3}
+    - {fileID: 5825110137803819938, guid: 70eaebc09f4ae9242b585263fc01134a, type: 3}
+    - {fileID: 5825110137803819938, guid: b0501ae7b2b2975419c9df8c2e1b1abc, type: 3}
+    - {fileID: 5825110137803819938, guid: 5a65ba7d0bf212c47917fe52442d8eab, type: 3}
+    - {fileID: 5825110137803819938, guid: 6154a472db399a248b3c0de9ad9b73dc, type: 3}
+    - {fileID: 5825110137803819938, guid: 598895d5741ef424d8e39a9d32a96ad7, type: 3}
+    - {fileID: 5825110137803819938, guid: aa504f4c09df93949b8fcd56b0b2e1d6, type: 3}
+  - name: Oggetti/Prefabs 3132Crystals
+    prefabs:
+    - {fileID: 5825110137803819938, guid: c34349e2ab6030d469a5e138c9ef1097, type: 3}
+    - {fileID: 5825110137803819938, guid: a0bf5136773d2a14c9759283b87149f8, type: 3}
+    - {fileID: 5825110137803819938, guid: 2ba3bfdc2f99e404e8f22468dd0b0fdd, type: 3}
+    - {fileID: 5825110137803819938, guid: ebfc43ce40ca2c74695ce200278873b6, type: 3}
+    - {fileID: 5825110137803819938, guid: 39865838b086b4e4081e1aee58990bfe, type: 3}
+    - {fileID: 5825110137803819938, guid: 0a56e5fd5cf1454428d8f3106f0ce517, type: 3}
+    - {fileID: 5825110137803819938, guid: 4288fbff438c3b5439ffa0705e290d40, type: 3}
+    - {fileID: 5825110137803819938, guid: c9d4cd6ab3daf7845a39ac42de75f5b1, type: 3}
+  spriteFolders:
+  - name: Oggetti/Sprites1
+    sprites:
+    - {fileID: 21300000, guid: 3cb721de8083ae74281babbe744be636, type: 3}
+    - {fileID: 21300000, guid: 4382229154b3bb849a68f76f07b5443d, type: 3}
+    - {fileID: 21300000, guid: a5000dde2c4de2f4e97d87406ae75476, type: 3}
+    - {fileID: 21300000, guid: 961cccf0898556f4b98f021bddfd9537, type: 3}
+    - {fileID: 21300000, guid: b704d7123ec65074eaf9ced23d080832, type: 3}
+    - {fileID: 21300000, guid: 0a7d36e1a2f59254fa921248fa6d892e, type: 3}
+  - name: Oggetti/Sprites2
+    sprites:
+    - {fileID: 21300000, guid: d20568289016a4c478d5f3aeae2ec4c6, type: 3}
+    - {fileID: 21300000, guid: 009ab15486781724b8e6503637ee674a, type: 3}
+    - {fileID: 21300000, guid: fe7069334e46d634fa1b8b9c3217e29a, type: 3}
+    - {fileID: 21300000, guid: 9e88fb03bedb34f48917bdbddd2aff12, type: 3}
+    - {fileID: 21300000, guid: a546e6397143636448ea16f5a7971ba3, type: 3}
+    - {fileID: 21300000, guid: cc91b27e6f8bd9a49894994e9d2bff82, type: 3}
+  - name: Oggetti/Sprites 21Fishes
+    sprites:
+    - {fileID: 21300000, guid: 2e92726c7169c5c428ee9b22d5173f1a, type: 3}
+    - {fileID: 21300000, guid: 049a182997d154e4d954840876c1dad7, type: 3}
+    - {fileID: 21300000, guid: 01bd9ea6818adf04ea0d83c05bfb953a, type: 3}
+    - {fileID: 21300000, guid: bc73cd6b1d5aa614799efe52a867ff25, type: 3}
+    - {fileID: 21300000, guid: de506a77dfc0c2d45808925706e19779, type: 3}
+    - {fileID: 21300000, guid: f642e4865dc285d46bf51e020983098e, type: 3}
+    - {fileID: 21300000, guid: f31298d71f73a9248a8fc6d3a25750c3, type: 3}
+    - {fileID: 21300000, guid: 6b828bfc8f6c7c04d86f00e6161c40b5, type: 3}
+  - name: Oggetti/Sprites 31Crystals
+    sprites:
+    - {fileID: 21300000, guid: 9be0e9b6a66bbb346b997f03d0d7ac73, type: 3}
+    - {fileID: 21300000, guid: 8a7982723cc43964a815c52d68134fda, type: 3}
+    - {fileID: 21300000, guid: 8961ff4554524cb49a8b7a2b697f11e0, type: 3}
+    - {fileID: 21300000, guid: 680df793b24b3ca438cd2ca6d6acd90b, type: 3}
+    - {fileID: 21300000, guid: 636b2c9fecf741b47b55d39a377c8354, type: 3}
+    - {fileID: 21300000, guid: 3540e3a5266ef6046a1c6bf03b3c2f8a, type: 3}

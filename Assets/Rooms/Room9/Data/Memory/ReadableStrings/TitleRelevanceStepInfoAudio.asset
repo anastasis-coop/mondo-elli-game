@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6a2ccf4d77864e8fbb123ee4148eb2e, type: 3}
+  m_Name: TitleRelevanceStepInfoAudio
+  m_EditorClassIdentifier: 
+  value:
+    String: "Seleziona un titolo alla volta e valutane la rilevanza. Fai attenzione
+      per\xF2: alcuni titoli trattano argomenti ripetuti, segna come rilevante solo
+      uno."
+    AudioClip: {fileID: 8300000, guid: 1bfa3d6b6ee4b4f68a205f13b9aa718c, type: 3}

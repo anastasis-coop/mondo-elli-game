@@ -1,0 +1,522 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a5802927060246e8b248fdf8f3f3e5d, type: 3}
+  m_Name: MediaLiteracyExercise 3
+  m_EditorClassIdentifier: 
+  ThemeAudio:
+    String: 'MEDICINA: INTERVENTI UMANI E USO DI ROBOT'
+    AudioClip: {fileID: 8300000, guid: 9002c52092b78452d9a41214305803ad, type: 3}
+  KnowledgeQuizzes:
+  - QuestionAudio:
+      String: In merito alle tue conoscenze sulla robotica in ambito sanitario,
+      AudioClip: {fileID: 8300000, guid: 0fc723e4dfeab406eba3285fabe00c56, type: 3}
+    ChoicesAudio:
+    - String: "I robot possono essere d\u2019aiuto nel curare le persone"
+      AudioClip: {fileID: 8300000, guid: ca517cebfb6c342ae98dc168a8f19c72, type: 3}
+    - String: Esistono robot che operano senza i medici
+      AudioClip: {fileID: 8300000, guid: d61d926dc247e47dea7637d6a94d77fa, type: 3}
+    - String: "I robot hanno capacit\xE0 pari  a quelle dei medici"
+      AudioClip: {fileID: 8300000, guid: 354cccec5d7d9449baf65c230fd1e185, type: 3}
+    - String: I robot possono fare le diagnosi ai pazienti
+      AudioClip: {fileID: 8300000, guid: ce0975f87c7044bc1b879555ecb2e989, type: 3}
+    Correct: 00000000
+  - QuestionAudio:
+      String: 'Secondo te, un medico:'
+      AudioClip: {fileID: 8300000, guid: f20c8af5292b4475f9433861a17a0b05, type: 3}
+    ChoicesAudio:
+    - String: "Pu\xF2 usare i robot per aumentare le sue capacit\xE0"
+      AudioClip: {fileID: 8300000, guid: 11ae6928ceeaa4289856903ee60768f4, type: 3}
+    - String: 'Progetta lui stesso i robot usati in ambito sanitario '
+      AudioClip: {fileID: 8300000, guid: 61fb62972c15c44a4842c8c59b932066, type: 3}
+    - String: Non ha mai a che fare con la tecnologia nel suo lavoro
+      AudioClip: {fileID: 8300000, guid: 8cae3d825f6d345fba64b870216e107c, type: 3}
+    - String: "Pu\xF2 delegare ai robot la fase di comunicazione con il paziente"
+      AudioClip: {fileID: 8300000, guid: b1cc4691dc5ba4109a0d6a4255055895, type: 3}
+    Correct: 00000000
+  - QuestionAudio:
+      String: "L\u2019uso dei robot in ambito sanitario"
+      AudioClip: {fileID: 8300000, guid: 798bab6b831e0467cb2af0185e4683ee, type: 3}
+    ChoicesAudio:
+    - String: Non deve essere una competenza dei medici
+      AudioClip: {fileID: 8300000, guid: 60351c745d0d549a89170898bdae29e5, type: 3}
+    - String: "Non sostituir\xE0 mai completamente il lavoro del medico"
+      AudioClip: {fileID: 8300000, guid: da1befa4a67f2460ba07d1419ad23dbc, type: 3}
+    - String: "Sostituir\xE0 completamente il lavoro del medico"
+      AudioClip: {fileID: 8300000, guid: 729e60739b04d441384b25502bf02720, type: 3}
+    - String: "\xC8 associato solo agli interventi piccoli e non invasivi"
+      AudioClip: {fileID: 8300000, guid: d789dabb0d78d4fc5bff9bb88d248f93, type: 3}
+    Correct: 01000000
+  Texts:
+  - TitleAudio:
+      String: Il robot chirurgo
+      AudioClip: {fileID: 8300000, guid: 5ba2e1ff5303a49db886c09edd83fe69, type: 3}
+    PreviewAudio:
+      String: "L\u2019impiego dei robot in sala operatoria non \xE8 mai stato cos\xEC
+        vicino, utilizzi attuali e prospettive future.     "
+      AudioClip: {fileID: 8300000, guid: 70a91cf325b824cb8a43340022af864b, type: 3}
+    AuthorAudio:
+      String: Francesco Cento
+      AudioClip: {fileID: 8300000, guid: 3bfeda65cff4c4079aeccfea9c63c020, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Francesco Cento, medico chirurgo dell\u2019Ospedale Santa
+        Chiara e professore di Tecniche di chirurgia presso l\u2019Universit\xE0
+        di Trento FONTE: Articolo scientifico pubblicato sulla rivista scientifica
+        Scientific Robotics, 22/03/2021 "
+      AudioClip: {fileID: 8300000, guid: 08c7af0a3b6df4d479c143160f401323, type: 3}
+    Relevance: 1
+    Snippets:
+    - TextAudio:
+        String: "Grazie all\u2019avanzamento tecnologico, i robot utilizzati nell\u2019assistenza
+          chirurgica sono diventati sempre pi\xF9 numerosi e sempre pi\xF9 precisi
+          nel fare le  varie operazioni."
+        AudioClip: {fileID: 8300000, guid: 0f28a23e4221d4d0e982c4cd86e3b0fc, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: "Certo, non mancano gli scettici che hanno paura del sopravvento
+          dei robot sull\u2019uomo, in uno scenario quasi apocalittico."
+        AudioClip: {fileID: 8300000, guid: 1809ea3fe885a4e27af97b1b38afe851, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: 'Queste macchine vengono impiegate per due tipi di operazioni chirurgiche:
+          operazioni minimamente invasive e operazioni ortopediche.'
+        AudioClip: {fileID: 8300000, guid: 4c1cabc62f8024488bd330fcf5ff9e9c, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: "Nelle prime, i robot consentono di fare incisioni di piccole dimensioni,
+          riducendo il tempo del recupero e minimizzando la possibilit\xE0 di infezioni
+          o complicazioni."
+        AudioClip: {fileID: 8300000, guid: f937f480e112d4f64977872e9d37f141, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Per le operazioni ortopediche, i dispositivi robotici sono pi\xF9
+          precisi nelle sostituzioni del ginocchio o dell\u2019anca e hanno una maggiore
+          libert\xE0 di movimento rispetto alla mano umana. "
+        AudioClip: {fileID: 8300000, guid: 1d0e7373085a243c7a413108d3388b84, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Ultimamente sempre pi\xF9 robot vengono integrati con sistemi di
+          Intelligenza Artificiale (AI) e visione artificiale, cos\xEC da essere
+          pi\xF9 precisi e rapidi anche in interventi complessi."
+        AudioClip: {fileID: 8300000, guid: 358d95201e2e54089aa2b913422cda56, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Attenzione! Siamo lontani dall\u2019intervento dell\u2019AI per
+          modificare le foto o riprodurre voci reali."
+        AudioClip: {fileID: 8300000, guid: 31569badda0ba470e90b05b69e9ee01f, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "L\u2019intelligenza artificiale nella robotica medica consente di
+          avere una visione tridimensionale per evitare di danneggiare un tessuto
+          e per osservare l\u2019estensione di un tumore con maggiori dettagli. "
+        AudioClip: {fileID: 8300000, guid: c3fe19652acc34f088683b6d70804800, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: In merito ai costi dei macchinari robotici, i prezzi medi vanno da
+          1,5 a 2,7 milioni di euro a robot e la manutenzione annuale si aggira intorno
+          ai diecimila euro.
+        AudioClip: {fileID: 8300000, guid: cb37118fb01fe429a907ff0d290d63e8, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "I vantaggi ottenuti dall\u2019utilizzo di queste tecnologie in sala
+          operatoria superano di gran lunga i costi elevati per l\u2019acquisto o
+          la manutenzione."
+        AudioClip: {fileID: 8300000, guid: 54b585daff58f47b8927d5559bc9d85d, type: 3}
+      Relevance: 1
+  - TitleAudio:
+      String: 'Medicina e Tecnologia: le nuove competenze dei medici del futuro'
+      AudioClip: {fileID: 8300000, guid: 63b6775c78ff3443aaf2a48316c35eff, type: 3}
+    PreviewAudio:
+      String: "Quali sono le competenze che un medico deve possedere per far fronte
+        all\u2019uso crescente di robot in ambito sanitario?"
+      AudioClip: {fileID: 8300000, guid: 585be5738d8894e30a73ba69705601e1, type: 3}
+    AuthorAudio:
+      String: "Raffaele Calabr\xF2"
+      AudioClip: {fileID: 8300000, guid: 3adf89899dc2046e7b17b49a1b8b41c4, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Raffaele Calabr\xF2, rettore dell\u2019Universit\xE0 Campus
+        Bio-Medico di Roma FONTE: sito online del giornale \"La Repubblica\", 11/02/2022"
+      AudioClip: {fileID: 8300000, guid: f08f6f73812ab4d6cb97246b65dca63d, type: 3}
+    Relevance: 1
+    Snippets:
+    - TextAudio:
+        String: "La trasformazione digitale in ambito medico richiede ai nuovi medici
+          lo sviluppo di conoscenze a cavallo tra la medicina tradizionale e l\u2019ingegneria
+          biomedica per sviluppare nuove cure e creare nuovi macchinari. "
+        AudioClip: {fileID: 8300000, guid: a3a8a5da6af17441fac129fe9013ab7b, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: "Siamo lontani dagli scienziati pazzi che sono nell\u2019immaginario
+          comune. "
+        AudioClip: {fileID: 8300000, guid: 6f59a2c32794e42c5b5f5556dd23c728, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Tra le conoscenze fondamentali, il medico deve possedere una mentalit\xE0
+          aperta, per contribuire alle soluzioni tecnologiche di domani."
+        AudioClip: {fileID: 8300000, guid: 628db17d3036a490e96c80f37961eae1, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Inoltre, alla figura professionale del medico saranno richieste
+          trasversalit\xE0 e flessibilit\xE0, necessarie per superare i tradizionali
+          confini professionali e poter lavorare in ospedale e nelle aziende medtech."
+        AudioClip: {fileID: 8300000, guid: 62fb55351351e4b459d0788316a7e232, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Un aspetto particolarmente innovativo sar\xE0 la formazione ingegneristica
+          per gestire meglio diagnosi e terapie con i macchinari."
+        AudioClip: {fileID: 8300000, guid: 0809133dc47f84f1a994fa7e3a980222, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Infine, i medici del domani dovranno saper gestire le problematiche
+          etiche del paziente derivanti dall\u2019adozione delle moderne tecnologie."
+        AudioClip: {fileID: 8300000, guid: fae600374fa374a98897a4cc5cf2c28c, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: Il medico di domani deve essere formato a lavorare con le nuove tecnologie
+          e deve possedere  competenze nuove al passo con i tempi.
+        AudioClip: {fileID: 8300000, guid: 2a26c7233cde64d529f045fcfd10b6f7, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: "La soluzione \xE8 quella di aumentare la proposta di corsi di laurea
+          come Medtech dell\u2019Universit\xE0 Campus Bio-Medico di Roma, che permetteranno
+          agli studenti di medicina di integrare le competenze progettuali e tecnologiche,
+          oggi sempre pi\xF9 multidisciplinari e trasversali,  per guidare i processi
+          di innovazione propri dei settori delle Scienze della Vita."
+        AudioClip: {fileID: 8300000, guid: 68f66aa9291f44ce08c55344301ed34e, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "In questo contesto, la figura dell\u2019ingegnere biomedico pu\xF2
+          essere di grande aiuto per l\u2019industria farmaceutica sia per lo sviluppo
+          di nuovi prodotti, servizi e tecnologie e sia per la nascita di nuove imprese
+          di settore."
+        AudioClip: {fileID: 8300000, guid: 831d9f8b86ce14112bb6149e763006c9, type: 3}
+      Relevance: 0
+  - TitleAudio:
+      String: 'Medici e robot: collaborazione, non sostituzione'
+      AudioClip: {fileID: 8300000, guid: 13d9ff8986add4904bd6f222e9548d34, type: 3}
+    PreviewAudio:
+      String: I motivi per cui i robot in ambito sanitario non sostituiranno la figura
+        del medico nei prossimi anni.
+      AudioClip: {fileID: 8300000, guid: 1805c732f89ec4c91af59391f211c9ab, type: 3}
+    AuthorAudio:
+      String: Calogero Maria Oddo
+      AudioClip: {fileID: 8300000, guid: 7b66e32b03dfe4b8ab588e3bbf04ee58, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE:  Calogero Maria Oddo, Assistant Professor di Biorobotica,
+        Scuola superiore Sant\u2019Anna di Pisa. FONTE: Sito online \u201CHealthTech360\u201D,
+        18/01/2022"
+      AudioClip: {fileID: 8300000, guid: 4a1fd9101c02f4d9aa90ee52d56eed00, type: 3}
+    Relevance: 2
+    Snippets:
+    - TextAudio:
+        String: "L\u2019introduzione di tecnologie robotiche nella pratica di diagnosi
+          e interventi sanitari \xE8 aumentata molto negli ultimi anni. Per qualcuno,
+          questi robot rappresentano un pericolo per la professione del medico e
+          per la cura del paziente."
+        AudioClip: {fileID: 8300000, guid: 6ac9dcd5d80b442ccab36fd11eab7f13, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Per varie ragioni, \xE8 possibile affermare che i robot in ambito
+          sanitario non sostituiranno mai l\u2019intervento umano. "
+        AudioClip: {fileID: 8300000, guid: f21f0225282284d2f88ce1680c256f2e, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: "Innanzitutto, anche se gli strumenti tecnologici sono in continua
+          evoluzione, sarebbe difficile per loro incarnare l\u2019empatia. Questa
+          permette al medico di costruire un rapporto di fiducia con il paziente,
+          di ascoltare attentamente l\u2019altra persona, i suoi sentimenti e i suoi
+          bisogni, in modo che si senta compresa."
+        AudioClip: {fileID: 8300000, guid: cbb3595605e304e939c2123183857a65, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Inoltre, trovare una diagnosi e impostare un piano di trattamento
+          non sono processi lineari, richiedono creativit\xE0 e capacit\xE0 di risoluzione
+          dei problemi, qualcosa che i robot e gli algoritmi non avranno mai."
+        AudioClip: {fileID: 8300000, guid: 48441830f383f48af904770b462ae3cf, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: ' Se vi chiedete cosa sia un algoritmo, basti pensare a tutte quelle
+          operazioni matematiche che conoscete.   '
+        AudioClip: {fileID: 8300000, guid: a1f17a1e06a18461c8ece8d87b82daa5, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Presto ci sar\xE0 bisogno di medici competenti e qualificati, che 
+          dovranno imparare a far funzionare i macchinari e che sapranno padroneggiare
+          i nuovi dispositivi grazie ad una pratica continua. "
+        AudioClip: {fileID: 8300000, guid: e7f4ed17a09374d988a9225fce06b0a1, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "E\u2019 evidente che ci saranno sempre responsabilit\xE0 che la
+          tecnologia non potr\xE0 assumersi e compiti che gli umani faranno pi\xF9
+          velocemente, in modo pi\xF9 affidabile e molto pi\xF9 economico."
+        AudioClip: {fileID: 8300000, guid: 6f1388d8eeb894aa49895eab46d4931b, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: ' Esistono molti software che permettono di analizzare milioni di
+          pagine di documenti in pochi secondi, anche usati in ambito sanitario. '
+        AudioClip: {fileID: 8300000, guid: 481a47a5cca1142b6a355b8b3960a144, type: 3}
+      Relevance: 0
+  - TitleAudio:
+      String: "Pi\xF9 efficienza con i robot in ambito sanitario"
+      AudioClip: {fileID: 8300000, guid: 4f67c8119c33e4736bda92b2aaf0cd36, type: 3}
+    PreviewAudio:
+      String: Rispetto alla chirurgia tradizionale, la chirurgia robotica presenta
+        innumerevoli vantaggi alle problematiche sanitarie.
+      AudioClip: {fileID: 8300000, guid: 32883e4f7c8b84f95a8974e784cd8f4e, type: 3}
+    AuthorAudio:
+      String: Riccardo Bugliosi
+      AudioClip: {fileID: 8300000, guid: e688488ac37194fe69cb26188566e98c, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Riccardo Bugliosi, medico chirurgo presso l\u2019Ospedale
+        San Raffaele di Milano FONTE: sito online di \u201CHumanitas\u201D, 6/04/2021"
+      AudioClip: {fileID: 8300000, guid: f329b675b0d1945c78d7f152258f016f, type: 3}
+    Relevance: 2
+    Snippets:
+    - TextAudio:
+        String: "L\u2019introduzione di tecnologie robotiche nella pratica di diagnosi
+          e interventi sanitari \xE8 aumentata molto negli ultimi anni. Per qualcuno,
+          questi robot rappresentano un pericolo per la professione del medico e
+          per la cura del paziente."
+        AudioClip: {fileID: 8300000, guid: e2349a4850557466d860975c1f31e0bf, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Per varie ragioni, \xE8 possibile affermare che i robot in ambito
+          sanitario non sostituiranno mai l\u2019intervento umano."
+        AudioClip: {fileID: 8300000, guid: 569c833390fa3497bb1b85342a0d254b, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: "Innanzitutto, anche se gli strumenti tecnologici sono in continua
+          evoluzione, sarebbe difficile per loro incarnare l\u2019empatia. Questa
+          permette al medico di costruire un rapporto di fiducia con il paziente,
+          di ascoltare attentamente l\u2019altra persona, i suoi sentimenti e i suoi
+          bisogni, in modo che si senta compresa."
+        AudioClip: {fileID: 8300000, guid: 222b9907fa23f428686c45f241776d95, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Inoltre, trovare una diagnosi e impostare un piano di trattamento
+          non sono processi lineari, richiedono creativit\xE0 e capacit\xE0 di risoluzione
+          dei problemi, qualcosa che i robot e gli algoritmi non avranno mai."
+        AudioClip: {fileID: 8300000, guid: 10f052dbe77994bc1ac8e09288add9ca, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: Se vi chiedete cosa sia un algoritmo, basti pensare a tutte quelle
+          operazioni matematiche che conoscete.
+        AudioClip: {fileID: 8300000, guid: b704523eecad64494a5d3629ce67d969, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Presto ci sar\xE0 bisogno di medici competenti e qualificati, che 
+          dovranno imparare a far funzionare i macchinari e che sapranno padroneggiare
+          i nuovi dispositivi grazie ad una pratica continua. "
+        AudioClip: {fileID: 8300000, guid: 99a9ea0a6581f4aa68caf02f8b7e46eb, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "E\u2019 evidente che ci saranno sempre responsabilit\xE0 che la
+          tecnologia non potr\xE0 assumersi e compiti che gli umani faranno pi\xF9
+          velocemente, in modo pi\xF9 affidabile e molto pi\xF9 economico. "
+        AudioClip: {fileID: 8300000, guid: a227c63ad8eac49bd88aa4471799de8b, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: 'Esistono molti software che permettono di analizzare milioni di
+          pagine di documenti in pochi secondi, anche usati in ambito sanitario. '
+        AudioClip: {fileID: 8300000, guid: 250041aa69b1541b38298e7aa08c1b43, type: 3}
+      Relevance: 0
+  - TitleAudio:
+      String: Robot and Frank
+      AudioClip: {fileID: 8300000, guid: 49ede644b2c2443edb82b1698c360a49, type: 3}
+    PreviewAudio:
+      String: "Nel film \u201CRobot and Frank\u201D, un anziano solitario e malato
+        di Alzheimer, riceve in dono un robot umanoide con il compito di occuparsi
+        della sua salute prendersi cura di lui."
+      AudioClip: {fileID: 8300000, guid: 10ee0d0eed869442e8cf63c00577adba, type: 3}
+    AuthorAudio:
+      String: Massimiliano Pieralli
+      AudioClip: {fileID: 8300000, guid: 1647311ac28b944ee835bb320b08fc40, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Massimiliano Pieralli, critico cinematografica italiano, lavora
+        presso Cinecitt\xE0 Roma FONTE: archivio online cinematografico \u201CIBDM\u201D,
+        24/03/2021"
+      AudioClip: {fileID: 8300000, guid: 1a9e39dacc10b45c19e7a6ecb98ba2d1, type: 3}
+    Relevance: 0
+    Snippets: []
+  - TitleAudio:
+      String: Le macchine di Leonardo Da Vinci applicabili nella medicina
+      AudioClip: {fileID: 8300000, guid: 68d4de4faa8a244a4b545b580a0c739c, type: 3}
+    PreviewAudio:
+      String: "Leonardo Da Vinci, considerato uno dei pi\xF9 grandi inventori della
+        storia, se fosse vissuto ai giorni nostri forse avrebbe potuto velocizzare
+        il processo di costruzione di macchinari robotici."
+      AudioClip: {fileID: 8300000, guid: ed58350c773cd45c7bf733a57956ad6d, type: 3}
+    AuthorAudio:
+      String: Annalisa Cumi
+      AudioClip: {fileID: 8300000, guid: ee4ad4470920d4cada9c60d450ac9517, type: 3}
+    AuthorWithBioAudio:
+      String: 'AUTORE: Annalisa Cumi, storica e fondatrice del Da Vinci Museum, Firenze
+        FONTE: sito online del Da Vinci Museum di Firenze, 3/05/2020'
+      AudioClip: {fileID: 8300000, guid: 5722bd97ec1414e53882b179446c5ed5, type: 3}
+    Relevance: 0
+    Snippets: []
+  - TitleAudio:
+      String: 'La nuova frontiera della robotica: i robot-camerieri'
+      AudioClip: {fileID: 8300000, guid: 68631d102f1db4d01868a9428705cf0c, type: 3}
+    PreviewAudio:
+      String: "Dal Giappone arrivano le notizie del lancio dell\u2019ultima invenzione
+        nel campo della robotica, il robot-cameriere autonomo: assistente dei camerieri
+        o sostituto?"
+      AudioClip: {fileID: 8300000, guid: 57f5e9681083f4b87a9b3c2abbca5b48, type: 3}
+    AuthorAudio:
+      String: Giovanni Ria
+      AudioClip: {fileID: 8300000, guid: 8643d3166adfc48f3851ccaafa318e0e, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Giovanni Ria, laureato in Ingegneria biomedica, lavora presso
+        l\u2019azienda Bear Robotics FONTE: sito online dell\u2019azienda Bear Robotics,
+        8/10/2021"
+      AudioClip: {fileID: 8300000, guid: 00fed22c4748045dc8812a02fc6b9943, type: 3}
+    Relevance: 0
+    Snippets: []
+  - TitleAudio:
+      String: "Sempre pi\xF9 iscritti alla specializzazione in chirurgia"
+      AudioClip: {fileID: 8300000, guid: bd8852df93d2744a3b31001fa641e725, type: 3}
+    PreviewAudio:
+      String: "Dagli ultimi report, c\u2019\xE8 stato un crescente aumento degli
+        iscritti a chirurgia tra i laureati in medicina. Scopriamo quali sono le
+        loro motivazioni."
+      AudioClip: {fileID: 8300000, guid: 7bb27b6f4fb724cd19a700a93f5767a5, type: 3}
+    AuthorAudio:
+      String: Stefania Alonzi
+      AudioClip: {fileID: 8300000, guid: 8979e1c9d097547c78153c442734b6c3, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE:  Stefania Alonzi, giornalista de \u201CIl Sole 24 Ore\u201D,
+        scrive nella sezione \u201CMedicina e salute\u201D     FONTE:  sito online
+        del giornale \u201CIl Sole 24 Ore\u201D, 19/09/2022"
+      AudioClip: {fileID: 8300000, guid: db37a49983c0b40c59aeb9e2c44f112f, type: 3}
+    Relevance: 0
+    Snippets: []
+  TagsQuiz:
+    QuestionAudio:
+      String: SCEGLI 3 TAG CHE RAPPRESENTANO AL MEGLIO IL TESTO PRODOTTO
+      AudioClip: {fileID: 8300000, guid: 84cb9b1610c664cb997f3a150ac40747, type: 3}
+    ChoicesAudio:
+    - String: '#robotica'
+      AudioClip: {fileID: 8300000, guid: 326c28503d42e426bb650dc1a1af30cf, type: 3}
+    - String: '#salario'
+      AudioClip: {fileID: 8300000, guid: 1cce6558264284db986f666875b0be24, type: 3}
+    - String: '#efficienza'
+      AudioClip: {fileID: 8300000, guid: f197186cd89804781b984d3c82c1ee53, type: 3}
+    - String: '#malattie'
+      AudioClip: {fileID: 8300000, guid: 4e72227dffb0144ec9b3baf1a02c5b41, type: 3}
+    - String: '#ingegneria biomedica'
+      AudioClip: {fileID: 8300000, guid: c3c973cd0ab1d47aa90dda9d9e7baf43, type: 3}
+    - String: '#robot-cameriere'
+      AudioClip: {fileID: 8300000, guid: fcafd79cc62bc42e6956e4bf653dd0f4, type: 3}
+    - String: '#invenzioni antiche'
+      AudioClip: {fileID: 8300000, guid: c803b3e322c5e45f39dfa0f782a37585, type: 3}
+    Correct: 000000000200000004000000
+  TitleQuiz:
+    QuestionAudio:
+      String: "SCEGLI IL TITOLO PI\xD9 ADEGUATO"
+      AudioClip: {fileID: 8300000, guid: 287226767e1d14a0a92e1d3e688dd0cf, type: 3}
+    ChoicesAudio:
+    - String: "Medici e Robot: una collaborazione per salvare pi\xF9 vite"
+      AudioClip: {fileID: 8300000, guid: 92af1135128134d5b8eccfbe8bd56016, type: 3}
+    - String: Le grandi invenzioni del passato e le applicazioni alla medicina
+      AudioClip: {fileID: 8300000, guid: a909771c16869499c985e8a3ba54a814, type: 3}
+    - String: 'Medici e Robot: la fine di una professione, la nascita di una rivoluzione'
+      AudioClip: {fileID: 8300000, guid: e6eab89607d254a339904f1b632b5892, type: 3}
+    - String: "Le tecnologie al servizio della societ\xE0 moderna"
+      AudioClip: {fileID: 8300000, guid: 7cfdad163b0a94b87964b64331052171, type: 3}
+    Correct: 00000000
+  SubmissionQuizzes:
+  - QuestionAudio:
+      String: "QUANTO \xE8 STATO DIFFICILE?"
+      AudioClip: {fileID: 8300000, guid: a4eafbab6651645299c94964f3aecd03, type: 3}
+    ChoicesAudio:
+    - String: POCO
+      AudioClip: {fileID: 8300000, guid: 1ba83cb5aa8284a7f9746016868bb964, type: 3}
+    - String: NON TROPPO
+      AudioClip: {fileID: 8300000, guid: 065b6200431324795ad94d342d2d9370, type: 3}
+    - String: ABBASTANZA
+      AudioClip: {fileID: 8300000, guid: 9e44a05c9d6bc4a0782711feaa7c04e4, type: 3}
+    - String: MOLTO
+      AudioClip: {fileID: 8300000, guid: 3baa69b84f33646419777eba6e9fc490, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: "QUAL \xE8 STATA LA PARTE PI\xF9 DIFFICILE?"
+      AudioClip: {fileID: 8300000, guid: 851c88140e39b4d8f8c5ea2d7e1f09b5, type: 3}
+    ChoicesAudio:
+    - String: SCELTA DEI TESTI
+      AudioClip: {fileID: 8300000, guid: 80edde49fee9e4bda9289d1fcb1868c8, type: 3}
+    - String: ASSEGNAZIONE TEMPO
+      AudioClip: {fileID: 8300000, guid: ada8e9ff3350649b1b98e8a33e91d6b4, type: 3}
+    - String: ASSEGNAZIONE SNIPPET
+      AudioClip: {fileID: 8300000, guid: a7fb8602b9998414787c69bd23e0a7ad, type: 3}
+    - String: SCELTA SNIPPET
+      AudioClip: {fileID: 8300000, guid: 2c0a8acc27bf0426b8e3d8d2a03d1459, type: 3}
+    - String: COMPOSIZIONE DEL TESTO
+      AudioClip: {fileID: 8300000, guid: 297a4bd6273e14f429f6c6bfda25fd91, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: "AVRESTI VOLUTO PI\xF9 SNIPPET?"
+      AudioClip: {fileID: 8300000, guid: 7fd8ca799298243cabfc7a757ce82328, type: 3}
+    ChoicesAudio:
+    - String: "S\xEC"
+      AudioClip: {fileID: 8300000, guid: a336cf45832a74769834fa71d47b0720, type: 3}
+    - String: NO
+      AudioClip: {fileID: 8300000, guid: 65493bdc64958404cbba29528a51252d, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: "AVRESTI VOLUTO PI\xF9 TEMPO?"
+      AudioClip: {fileID: 8300000, guid: d1ef1e18eb2a24f6bbc618a3faaa8f7b, type: 3}
+    ChoicesAudio:
+    - String: "S\xEC"
+      AudioClip: {fileID: 8300000, guid: a336cf45832a74769834fa71d47b0720, type: 3}
+    - String: NO
+      AudioClip: {fileID: 8300000, guid: 65493bdc64958404cbba29528a51252d, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: "AVRESTI VOLUTO BRANI PI\xF9 BREVI?"
+      AudioClip: {fileID: 8300000, guid: 1b133bbb5ece64dc587d1104f9247fa3, type: 3}
+    ChoicesAudio:
+    - String: "S\xEC"
+      AudioClip: {fileID: 8300000, guid: a336cf45832a74769834fa71d47b0720, type: 3}
+    - String: NO
+      AudioClip: {fileID: 8300000, guid: 65493bdc64958404cbba29528a51252d, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: AVRESTI VOLUTO UN AIUTO MAGGIORE?
+      AudioClip: {fileID: 8300000, guid: d492f6cae58d445eeab5fac9f7ba3657, type: 3}
+    ChoicesAudio:
+    - String: "S\xEC"
+      AudioClip: {fileID: 8300000, guid: a336cf45832a74769834fa71d47b0720, type: 3}
+    - String: NO
+      AudioClip: {fileID: 8300000, guid: 65493bdc64958404cbba29528a51252d, type: 3}
+    Correct: 
+  TipsQuizTitle:
+    String: DAI DEI CONSIGLI AI TUOI COMPAGNI
+    AudioClip: {fileID: 8300000, guid: e8da3ef463def4e0dae12790fc66ebba, type: 3}
+  Tips:
+  - String: "Usa il super poter \u201CMemoria di lavoro\u201D per aiutarti a tenere
+      in mente tutte le informazioni dei testi "
+    AudioClip: {fileID: 8300000, guid: f8e1c77092dea4602a210225a6dca40e, type: 3}
+  - String: "Stai concentrato durante il compito di selezione dei testi rilevanti
+      perch\xE9 \xE8 un compito difficile in cui bisogna leggere con attenzione"
+    AudioClip: {fileID: 8300000, guid: e8dc3180eeb6e4409b48dd0e7a54ed8e, type: 3}
+  - String: "Usa il super potere \u201CInterferenza\u201D per non selezionare due
+      snippet che dicono la stessa cosa"
+    AudioClip: {fileID: 8300000, guid: 87bfdb5220f4c46c485b2f307c1544b6, type: 3}
+  - String: "Quando leggi i testi libera il tavolo di lavoro e non farti distrarre
+      da quello che c\u2019\xE8 intorno a te"
+    AudioClip: {fileID: 8300000, guid: 782508ad31c11452cb17d61dcab61596, type: 3}
+  - String: Datti il tempo che ti serve, impostare un timer troppo breve potrebbe
+      influenzare negativamente il tuo lavoro
+    AudioClip: {fileID: 8300000, guid: a45a15ccb70dd4786a70a4aa9f577a1a, type: 3}
+  - String: 'Quando revisioni il tuo lavoro non farlo distrattamente ma rimani concentrato
+      per cercare eventuali errori '
+    AudioClip: {fileID: 8300000, guid: 8903f7b6363ee4685b32633f4cc5f4f5, type: 3}

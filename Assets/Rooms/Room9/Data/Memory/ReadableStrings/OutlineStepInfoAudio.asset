@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6a2ccf4d77864e8fbb123ee4148eb2e, type: 3}
+  m_Name: OutlineStepInfoAudio
+  m_EditorClassIdentifier: 
+  value:
+    String: 'Dopo aver letto attentamente il testo, ordina gli argomenti nella scaletta
+      nello stesso modo in cui sono apparsi nel testo. I PUNTI DELLA SCALETTA NELLA
+      POSIZIONE IN CUI VUOI INSERIRLI O CLICCA PRIMA SUL TITOLO CHE VUOI SPOSTARE
+      E POI SU QUELLO CHE VUOI SOSTITUIRE.
+
+
+      SCALETTA: LISTA ORDINATA DELLE
+      FASI DI ELABORAZIONE DI UN TESTO.'
+    AudioClip: {fileID: 8300000, guid: b60d57266a510484891c4802b8a3c716, type: 3}

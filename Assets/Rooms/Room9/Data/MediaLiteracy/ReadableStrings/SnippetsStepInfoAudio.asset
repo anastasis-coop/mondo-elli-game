@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6a2ccf4d77864e8fbb123ee4148eb2e, type: 3}
+  m_Name: SnippetsStepInfoAudio
+  m_EditorClassIdentifier: 
+  value:
+    String: "A SECONDA DELLA RILEVANZA E DELL'ANTEPIRMA, SCEGLI IL NUMERO DI SNIPPET
+      CHE PENSI DI PRELEVARE DA OGNI TESTO.\n\nIL NUMERO DI SNIPPET TOTALE A TUA
+      DISPOSIZIONE \xC8 MOSTRATO IN BASSO.\n\n<b>SNIPPET</b>: SIGNIFICA \u201CRITAGLIO\u201D
+      ED \xC8 INFATTI UNA PORZIONE DI TESTO PRESO DA UN TESTO PI\xD9 LUNGO.\n\n<b>ATTENZIONE</b>:
+      CERCA DI ATTENERTI AL NUMERO DI SNIPPET CHE HAI DEFINITO, IN MODO DA MANTERE
+      LA STELLA CHE GUADAGNERAI ALLA FINE DI QUESTA FASE!"
+    AudioClip: {fileID: 8300000, guid: a1a300129bd764eeaac8b47909748dbe, type: 3}

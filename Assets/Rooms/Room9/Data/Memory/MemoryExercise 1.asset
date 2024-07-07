@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad803f239d22f4bca98eb05359ca09b3, type: 3}
+  m_Name: MemoryExercise 1
+  m_EditorClassIdentifier: 
+  ThemeAudio:
+    String: I BENEFICI DI AVERE UN ANIMALE DOMESTICO
+    AudioClip: {fileID: 8300000, guid: b685257fbcd5f42b193df54e818b32b7, type: 3}
+  Titles:
+  - TextAudio:
+      String: "Gli animali domestici riducono la possibilit\xE0 di soffrire di allergie"
+      AudioClip: {fileID: 8300000, guid: 3c2c5be69d6804d05a8bf1d512d413e7, type: 3}
+    Relevance: 1
+    DuplicateOfIndex: 05000000
+  - TextAudio:
+      String: "Gli animali che rischiano l\u2019estinzione nel 2050"
+      AudioClip: {fileID: 8300000, guid: 9183cfd4f29714d30a54c075bdd6879f, type: 3}
+    Relevance: 0
+    DuplicateOfIndex: 
+  - TextAudio:
+      String: 'Il cane e il lupo: due cugini (non) troppo lontani'
+      AudioClip: {fileID: 8300000, guid: 14ca297ab48ca45daaa106dbeb46d31b, type: 3}
+    Relevance: 0
+    DuplicateOfIndex: 
+  - TextAudio:
+      String: 'Simpatici compagni di gioco: gli animali domestici'
+      AudioClip: {fileID: 8300000, guid: 67e5de6fe3a984a1f9953d8aaf0ce27e, type: 3}
+    Relevance: 1
+    DuplicateOfIndex: 
+  - TextAudio:
+      String: Chi ha in casa un cane o un gatto impara prima a gattonare
+      AudioClip: {fileID: 8300000, guid: d6f1483ada8b04264b469445fe56e6af, type: 3}
+    Relevance: 1
+    DuplicateOfIndex: 
+  - TextAudio:
+      String: Meno allergie per chi ha animali in casa
+      AudioClip: {fileID: 8300000, guid: 68f08fa2f382e475faac5109f6f639ec, type: 3}
+    Relevance: 1
+    DuplicateOfIndex: 00000000
+  - TextAudio:
+      String: 'Il koala: un mammifero dolce e curioso'
+      AudioClip: {fileID: 8300000, guid: ce4c43f8091704925b59a64198b896d0, type: 3}
+    Relevance: 0
+    DuplicateOfIndex: 
+  - TextAudio:
+      String: "Un cane in casa migliora la fiducia in s\xE9 stessi"
+      AudioClip: {fileID: 8300000, guid: 803407d0de3af4ea8b4412880d6c3a76, type: 3}
+    Relevance: 1
+    DuplicateOfIndex: 
+  - TextAudio:
+      String: Gli amici a quattro zampe ci aiutano a restare in forma
+      AudioClip: {fileID: 8300000, guid: 196576b04340d4f918cfffc725215b3c, type: 3}
+    Relevance: 1
+    DuplicateOfIndex: 09000000
+  - TextAudio:
+      String: 'Corsette e passeggiate: con gli animali domestici rimaniamo in forma'
+      AudioClip: {fileID: 8300000, guid: cd39ac6ccedaa4fa7894b9362e849c04, type: 3}
+    Relevance: 1
+    DuplicateOfIndex: 08000000
+  OutlineParagraphs:
+  - TextAudio:
+      String: Gli scienziati hanno dimostrato che avere un animale domestico ha tantissimi
+        benefici, soprattutto per i bambini e i ragazzi. Infatti, avere in casa un
+        amico a quattro zampe fa bene alla salute, aumenta i pensieri positivi e
+        aiuta a ridurre lo stress.
+      AudioClip: {fileID: 8300000, guid: 6e9844e3a94c14bdeafc529eb4af6e11, type: 3}
+    TitleAudio:
+      String: Migliora la salute
+      AudioClip: {fileID: 8300000, guid: 45239c2af56f44fcfaaef3a90fcc41b1, type: 3}
+  - TextAudio:
+      String: "Uno studio molto interessante ha dimostrato che vivere insieme ad
+        un animale domestico rinforza il sistema immunitario dei bambini e dei ragazzi.
+        In questo modo il loro corpo sar\xE0 pi\xF9 resistente contro i virus e i
+        batteri, ma soprattutto contro le allergie."
+      AudioClip: {fileID: 8300000, guid: 215a9470e7caa407db164028cdfbc745, type: 3}
+    TitleAudio:
+      String: Riduce le allergie
+      AudioClip: {fileID: 8300000, guid: 7b9346813e5b84721ba7dae0437dd06c, type: 3}
+  - TextAudio:
+      String: "Avere un animale domestico insegna ai ragazzi cosa vuol dire prendersi
+        cura di qualcun altro, in questo modo diventeranno pi\xF9 attenti e coscienziosi.
+        Cambiare l\u2019acqua al pesce rosso o dare da mangiare al cane o al gatto
+        possono essere semplici azioni che insegnano per\xF2 al ragazzo ad essere
+        responsabile e a partecipare alla cura dell\u2019animale."
+      AudioClip: {fileID: 8300000, guid: 7e111cca0b46145db8d498e4b8a6fda2, type: 3}
+    TitleAudio:
+      String: Insegna ad essere responsabili
+      AudioClip: {fileID: 8300000, guid: 8d8d5cc7d0d9f4dcda2267368ebcb15f, type: 3}
+  - TextAudio:
+      String: "Avere un amico a quattro zampe da coccolare e che tiene compagnia
+        nei momenti difficili \xE8 importantissimo perch\xE9 fa sperimentare al suo
+        padroncino una sensazione di conforto e di sicurezza. Gli animali ci aiutano
+        a ridurre la tristezza dopo qualche delusione e ci accompagnano nei momenti
+        di solitudine."
+      AudioClip: {fileID: 8300000, guid: 2d029c93c1d504b48bac154a2614bcc8, type: 3}
+    TitleAudio:
+      String: "D\xE0 conforto e sicurezza"
+      AudioClip: {fileID: 8300000, guid: aab99cf5379bf48af944579211505c9f, type: 3}
+  - TextAudio:
+      String: "Ma non \xE8 finita qui! \xC8 stato dimostrato che leggere un libro
+        ai propri animali domestici aumenta le capacit\xE0 di lettura perch\xE9 i
+        nostri amici a quattro zampe sanno essere molto pazienti e gentili riducendo
+        cos\xEC l\u2019ansia da prestazione in chi ha qualche difficolt\xE0"
+      AudioClip: {fileID: 8300000, guid: c9eded9809b07417e809f159f5254607, type: 3}
+    TitleAudio:
+      String: "Migliora le capacit\xE0 di lettura"
+      AudioClip: {fileID: 8300000, guid: c714ef9b3d7474d7690c5d7c24473f48, type: 3}
+  PreviewQuizzes:
+  - PreviewsAudio:
+    - String: 'Gli animali domestici fanno bene al nostro cuore. Infatti, aiutano
+        a ridurre la pressione del sangue e a combattere le malattie cardiache. '
+      AudioClip: {fileID: 8300000, guid: 0e5028033a20f42e59bd34fd79b22432, type: 3}
+    - String: Avere un amico a quattro zampe in casa fa molto bene al nostro corpo,
+        ci aiuta a mantenerci attivi e potenzia il sistema immunitario.
+      AudioClip: {fileID: 8300000, guid: 2623fb12801bb4d8aa3eaf41f81f3ddc, type: 3}
+    TitleAudio:
+      String: Avere un animale domestico migliora la nostra salute
+      AudioClip: {fileID: 8300000, guid: dde901a107d2c47ada6bfbff4e84a56b, type: 3}
+    Solution: 1
+  - PreviewsAudio:
+    - String: "\xC8 stato dimostrato che gli animali fanno bene al nostro umore,
+        riducono la tristezza e lo stress e aumentano le emozioni positive."
+      AudioClip: {fileID: 8300000, guid: c8580dfd5a1e146e8a3700e1b9c8c635, type: 3}
+    - String: "In Italia \xE8 emergenza! I canili e i gattili sono in sovraffollamento.
+        I volontari si danno da fare per garantire a tutti acqua, cibo e riparo."
+      AudioClip: {fileID: 8300000, guid: bc181d3d335934c41b8ee87ed03a8a6a, type: 3}
+    - String: "Con l\u2019arrivo dell\u2019estate si registra un\u2019impennata dei
+        casi di abbandono di animali domestici, che finiscono nei ricoveri senza
+        una famiglia che se ne prende cura."
+      AudioClip: {fileID: 8300000, guid: da9f99061466a4877ba277a5f156d5cd, type: 3}
+    TitleAudio:
+      String: Animali soli e abbandonati
+      AudioClip: {fileID: 8300000, guid: 70cd63b2a6364429facc428fdd541d0d, type: 3}
+    Solution: 0
+  - PreviewsAudio:
+    - String: "Avere un animale accanto a s\xE9 quando si \xE8 malati aiuta a guarire,
+        ce lo dice la scienza! Le nuove terapie di Pet Therapy adatte ai pi\xF9 piccoli."
+      AudioClip: {fileID: 8300000, guid: d8601dffdbe7b46169513dfeaf54019d, type: 3}
+    - String: "La salute, il benessere e l\u2019umore aumentano quando siamo vicini
+        agli animali. Nuove terapie che coinvolgano gli animali sono efficaci sulle
+        persone anziane."
+      AudioClip: {fileID: 8300000, guid: b5be9e4f682ec4d2695c579a64e25721, type: 3}
+    - String: "Accarezzare, cavalcare e prendersi cura dei cavalli riduce l\u2019ansia
+        e incrementa l\u2019autostima e la fiducia in s\xE9 stessi."
+      AudioClip: {fileID: 8300000, guid: e022eda9874a24baf8999df9d5dace25, type: 3}
+    - String: "Cani, gatti, asini e cavalli sono gli animali migliori per la Pet
+        Therapy. Questi animali sono infatti docili e abituati a stare accanto all\u2019uomo. "
+      AudioClip: {fileID: 8300000, guid: 7c3b1e0e916e049f7b9a235fd9cb6d1f, type: 3}
+    TitleAudio:
+      String: 'Nuova frontiera della medicina: la Pet Therapy'
+      AudioClip: {fileID: 8300000, guid: 947e2f6fcf696452094e9cda0b6c9257, type: 3}
+    Solution: 1

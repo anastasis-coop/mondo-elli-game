@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6a2ccf4d77864e8fbb123ee4148eb2e, type: 3}
+  m_Name: OutlineStepsortInfoAudio
+  m_EditorClassIdentifier: 
+  value:
+    String: "ORDINA I PASSAGGI DELLA SCALETTA NELL\u2019ORDINE CHE TI SEMBRA PI\xD9
+      SENSATO PER SVOLGERE UNA RICERCA E PRODURRE UN NUOVO ARTICOLO.\n\nTRASCINA
+      I PUNTI DELLA SCALETTA NELLA POSIZIONE IN CUI VUOI INSERIRLI O CLICCA PRIMA
+      SUL TITOLO CHE VUOI SPOSTARE E POI SU QUELLO CHE VUOI SOSTITUIRE.\n\n<b>SCALETTA</b>:
+      LISTA ORDINATA DELLE FASI DI ELABORAZIONE DI UN TESTO."
+    AudioClip: {fileID: 8300000, guid: 5c3155886fff8497d9be5e0a963e63c2, type: 3}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b0dfad725a25842b09d11f724dbc233b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - timeline: {fileID: 4900000, guid: 5f18ffbcbf7ab4bedae3ac67b14604dc, type: 3}
+  - model: {fileID: 919132149155446097, guid: 02f6df28e0e374e42b13821db4744d36, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

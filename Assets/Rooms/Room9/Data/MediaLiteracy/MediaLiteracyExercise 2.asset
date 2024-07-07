@@ -1,0 +1,519 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a5802927060246e8b248fdf8f3f3e5d, type: 3}
+  m_Name: MediaLiteracyExercise 2
+  m_EditorClassIdentifier: 
+  ThemeAudio:
+    String: 'ALIMENTAZIONE: CARNI SINTETICHE E CARNI ANIMALI'
+    AudioClip: {fileID: 8300000, guid: 3c7b23f71861445288ff9dbd1e608e57, type: 3}
+  KnowledgeQuizzes:
+  - QuestionAudio:
+      String: 'Secondo te, le carni sintetiche:'
+      AudioClip: {fileID: 8300000, guid: 98f4cffc0ace74af3b31ad4274ead1d9, type: 3}
+    ChoicesAudio:
+    - String: 'Sono prodotte in laboratorio '
+      AudioClip: {fileID: 8300000, guid: 970f781ea4e5247ec80ddd82fbd979f6, type: 3}
+    - String: "Sono pi\xF9 buone delle carni animali"
+      AudioClip: {fileID: 8300000, guid: 0c2e8598048834ff1ab6944e68befd94, type: 3}
+    - String: Sono dannose per la salute dell'uomo
+      AudioClip: {fileID: 8300000, guid: 5bbda4bab171f4b07a3f514ef7760032, type: 3}
+    Correct: 00000000
+  - QuestionAudio:
+      String: 'In base alle tue conoscenze:'
+      AudioClip: {fileID: 8300000, guid: 7e04c1368df3641b7905353091cb2088, type: 3}
+    ChoicesAudio:
+    - String: "L\u2019allevamento degli animali \xE8 pi\xF9 inquinante della produzione
+        di carne sintetica"
+      AudioClip: {fileID: 8300000, guid: 8105fc375e1e5478e8b5c670b7134697, type: 3}
+    - String: "La produzione di carne sintetica \xE8 pi\xF9 inquinante dell\u2019allevamento
+        di animali "
+      AudioClip: {fileID: 8300000, guid: ebdd30f22ea4d4e5387d7c6c1aacaad6, type: 3}
+    - String: "La produzione di carne sintetica \xE8 inquinante tanto quanto l\u2019allevamento
+        di animali"
+      AudioClip: {fileID: 8300000, guid: 0b3d59f86999f44c690b97d96ecdcc4a, type: 3}
+    Correct: 00000000
+  - QuestionAudio:
+      String: 'Secondo te la carne sintetica:'
+      AudioClip: {fileID: 8300000, guid: ab3db6a3f0ce74d179b9a862bb03c3df, type: 3}
+    ChoicesAudio:
+    - String: "Ha un\u2019origine animale"
+      AudioClip: {fileID: 8300000, guid: 392776be370bd46968ece4ef49677f18, type: 3}
+    - String: Viene prodotta dagli scarti degli animali
+      AudioClip: {fileID: 8300000, guid: e9fc9479ec1b44f9d9d8faf26f581eae, type: 3}
+    - String: Viene prodotta a partire da micro-plastiche
+      AudioClip: {fileID: 8300000, guid: 621e542e69dfe43228079ffaf9253ea3, type: 3}
+    Correct: 00000000
+  Texts:
+  - TitleAudio:
+      String: "Carne sintetica: tutto quello che c\u2019\xE8 da sapere"
+      AudioClip: {fileID: 8300000, guid: 5eae12c1a0c164a56a96b6ff078a2d83, type: 3}
+    PreviewAudio:
+      String: Cosa si intende quando si parla di carne sintetica? Come si produce?
+        Scopriamolo insieme grazie agli esperti.
+      AudioClip: {fileID: 8300000, guid: 9c103d6b528ee4e828ca407c63e18f4d, type: 3}
+    AuthorAudio:
+      String: Fabiana Salsi
+      AudioClip: {fileID: 8300000, guid: c7264f6960c60415b92cb5240ddd5c32, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Fabiana Salsi, giornalista professionista del magazine \u201CLa
+        Cucina Italiana\u201D FONTE: sito online del magazine \u201CLa Cucina Italiana\u201D,
+        30/03/2023"
+      AudioClip: {fileID: 8300000, guid: 85bccbc35d5e64c01bbef204078c2f11, type: 3}
+    Relevance: 1
+    Snippets:
+    - TextAudio:
+        String: "Mangereste una polpetta di mammut lanoso creata in provetta? \xC8
+          l'ultima novit\xE0 in tema di carne sintetica che arriva dall'Australia:
+          il primo esperimento risale al 2013, quando l'universit\xE0 di Maastricht
+          ha realizzato un hamburger con lo stesso procedimento."
+        AudioClip: {fileID: 8300000, guid: 99aeea89a0bbe4e9a931918042b5b48a, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Chiss\xE0 cosa penserebbero i nostri antenati di fronte ad un piatto
+          di carne \u201Cfinta\u201D."
+        AudioClip: {fileID: 8300000, guid: f7d0b9a6efd4d40fd981dc66fc21b3d7, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "La carne sintetica \xE8 carne creata in laboratorio: si prelevano
+          cellule da un animale vivo o da carne fresca, si estraggono le staminali,
+          si fanno crescere in provette simulando il procedimento che avviene naturalmente
+          nel corpo di un animale e se ne lavorano le fibre muscolari."
+        AudioClip: {fileID: 8300000, guid: b5840b00052844a798afe2acc3dd9089, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: "Tutto questo senza dover usare contaminanti e l\u2019uso di antibiotici.
+          Cos\xEC si ottiene un prodotto simile alla carne trita, che poi viene compattata."
+        AudioClip: {fileID: 8300000, guid: 797703f6d41ee4ccf9647574d654b9c9, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Negli ultimi anni l\u2019interesse per la carne sintetica sta aumentando
+          e i produttori stanno proliferando in tutto il mondo, dedicandosi alla
+          produzione anche di filetti di pollo e frutti di mare in provetta."
+        AudioClip: {fileID: 8300000, guid: 7be5d121a55b442b784920ed62ba75af, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Il business della carne sintetica potrebbe raggiungere cifre impressionanti:
+          il giro d'affari della carne sintetica nel 2040 \xE8 stimato intorno ai
+          450 miliardi nel mondo, un quinto del mercato globale della carne."
+        AudioClip: {fileID: 8300000, guid: 72a220561913b49bcb0b33e609372a0f, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: Nello stesso periodo, i produttori agricoli stimano di raggiungere
+          il doppio della produzione grazie al diffondersi della dieta vegetariana.
+        AudioClip: {fileID: 8300000, guid: 23b4eba0e7cfa4701ab29a26e1a05d97, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "La carne in vitro arriver\xE0 a costare quanto quella \xABnaturale\xBB,
+          quindi sar\xE0 molto pi\xF9 accessibile. "
+        AudioClip: {fileID: 8300000, guid: 6dc3db7d1318a4fb39564718ca7b195d, type: 3}
+      Relevance: 2
+  - TitleAudio:
+      String: 'I vantaggi della carne sintetica '
+      AudioClip: {fileID: 8300000, guid: 0ad4ddf891dc64a76a72239e74cf778d, type: 3}
+    PreviewAudio:
+      String: La carne sintetica potrebbe essere presto disponibile sul mercato,
+        ma sono ancora numerose le incognite circa l'impatto sulla salute e l'ambiente
+      AudioClip: {fileID: 8300000, guid: df8911a68b3a94b2e9f7e396bf99d2da, type: 3}
+    AuthorAudio:
+      String: Anna Villarasa
+      AudioClip: {fileID: 8300000, guid: fccbc54365eed4d86a89ab99f6547db0, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Anna Villarasa, nutrizionista clinica e dietista specializzata
+        in fitoterapia, diete vegane e diete vegetariane. FONTE: sezione \u201CSalute\u201D
+        del quotidiano \u201CIl Corriere della Sera\u201D, 23/08/2022"
+      AudioClip: {fileID: 8300000, guid: 21e002c85c6794741979c1f096906262, type: 3}
+    Relevance: 2
+    Snippets:
+    - TextAudio:
+        String: "Sul mercato convivono da tempo alternative vegetali alla carne e
+          ora \xE8 possibile che in breve tempo mangeremo carne sintetica o coltivata
+          in laboratorio."
+        AudioClip: {fileID: 8300000, guid: de5542b44c9fd4c5f9c5b5d59ccfa48a, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Molti si chiedono perch\xE9 i produttori abbiano iniziato a realizzare
+          un nuovo tipo di carne, in fin dei conti i nostri nonni hanno vissuto in
+          salute mangiando solo carne animale."
+        AudioClip: {fileID: 8300000, guid: a8424936cc72c427c9ad222679fcaa20, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Nutrizionisti e scienziati hanno iniziato a creare questo nuovo
+          alimento per cercare di ridurre la produzione di carne, che dal 1960 ai
+          giorni nostri \xE8 aumentata a dismisura, con forti conseguenze sull\u2019inquinamento
+          ambientale e la salute."
+        AudioClip: {fileID: 8300000, guid: eff05f08e391f4ac794df00fe995bd5c, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: "Basti pensare alla lotta per accaparrarsi i terreni coltivabili
+          e adatti all\u2019allevamento intensivo, con conseguenze anche per il benessere
+          animale e la biodiversit\xE0."
+        AudioClip: {fileID: 8300000, guid: 3428686e93cbc4402958dac021426feb, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "La carne sintetica ha molti vantaggi rispetto alla carne animale,
+          innanzitutto per la sua composizione nutrizionale, adatta a prevenire l\u2019impatto
+          negativo della carne rossa sulla salute."
+        AudioClip: {fileID: 8300000, guid: da08c5e3b960e4103967d9b6d8595f20, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Inoltre, per la sua produzione \xE8 necessario un campione molto
+          piccolo di animali e il processo di estrazione delle cellule \xE8 minimamente
+          invasivo."
+        AudioClip: {fileID: 8300000, guid: 7ca075e0ff4a34347b59494d2e2094d1, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Incredibile la velocit\xE0 con cui si perfezionano le tecniche usate
+          in laboratorio per le analisi in vitro. "
+        AudioClip: {fileID: 8300000, guid: b910ba86807de4f5099acabb6c9eb2af, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Importante anche considerare che per gli uomini che consumano carne
+          sintetica si pu\xF2 registrare una diminuzione delle infezioni alimentari
+          dovute a batteri intestinali."
+        AudioClip: {fileID: 8300000, guid: 4b2efbc82269a45ff8ea9f79e902fcb5, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "E\u2019 evidente che i vantaggi dietro alla produzione e al consumo
+          di carne sintetica siano numerosi e importanti sia per l\u2019uomo, che
+          per gli animali e l\u2019ambiente. "
+        AudioClip: {fileID: 8300000, guid: 333d46a19793544d3a41b7951aae7ad0, type: 3}
+      Relevance: 2
+  - TitleAudio:
+      String: Meglio la carne animale o la carne sintetica?
+      AudioClip: {fileID: 8300000, guid: 826dc81b265a1475ea859e3c412b95ed, type: 3}
+    PreviewAudio:
+      String: "Perch\xE8 dobbiamo mangiare la carne? Perch\xE9 qualcuno sceglie di
+        non mangiarla pi\xF9? In questo articolo viene presentata un\u2019alternativa
+        etica: la carne sintetica. "
+      AudioClip: {fileID: 8300000, guid: dad55682dbc8245f992e58a8628971c1, type: 3}
+    AuthorAudio:
+      String: Sara Pavone
+      AudioClip: {fileID: 8300000, guid: d601fc8f994744804aba23065c8e9dce, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Sara Pavone, divulgatrice scientifica, collabora con diverse
+        aziende del settore alimentare. FONTE: Servizio giornalistico offerto da
+        \u201CTg7\u201D, 16/01/2023"
+      AudioClip: {fileID: 8300000, guid: ff220f26e180e4a7ea00a96ed03f0036, type: 3}
+    Relevance: 2
+    Snippets:
+    - TextAudio:
+        String: "Gli scienziati di tutto il mondo ci ricordano che per i bambini
+          e gli adolescenti \xE8 molto importante mangiare la carne."
+        AudioClip: {fileID: 8300000, guid: 4e108a9c132bb4a63b3bba736ab3e2d1, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Un ragazzo che cresce \xE8 come una casa che ha bisogno di cemento
+          armato per rendere solide le sue basi."
+        AudioClip: {fileID: 8300000, guid: 6d48d3fe226b0402582d55f15455d8ff, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Per crescere in salute \xE8 necessario nutrirsi, nella giusta misura,
+          di proteine nobili, contenute nelle uova, nei legumi e, infine, nella carne."
+        AudioClip: {fileID: 8300000, guid: 4a135a6fcce85488c87e1d56304cfdb4, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "In molti trovano per\xF2 che la macellazione di animali sia una
+          pratica estremamente crudele, per cui decidono di non mangiare carne animale.
+          Attualmente gli scienziati hanno proposto un\u2019alternativa etica alla
+          carne animale: la carne sintetica."
+        AudioClip: {fileID: 8300000, guid: c6c7910810183421aa4cd7d521c1ecdc, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: "Mentre la carne che mangiamo tutti i giorni deriva dal muscolo dell\u2019animale
+          la carne sintetica deriva da un laboratorio, per cui non dal macello di
+          animali da allevamento ma semplicemente dall\u2019estrazione di un piccolo
+          campione dall\u2019animale."
+        AudioClip: {fileID: 8300000, guid: 647ccbcb91dde43f3ad2e01b1da16233, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Ma siamo sicuri che il sapore della carne sintetica sia proprio
+          lo stesso della carne normale? Per rispondere a questa domanda \xE8 stato
+          fatto un test su alcuni chef."
+        AudioClip: {fileID: 8300000, guid: 305e42943ca4a4adc8a9711e1246f00d, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Gli chef avevano anche dell\u2019acqua a loro disposizione, qualora
+          avessero sete."
+        AudioClip: {fileID: 8300000, guid: da4745e92c456444d8641a04f891e8ea, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "\xC8 stata messa loro davanti una bistecca di carne vera ed una
+          di carne sintetica, incredibilmente gli chef non sono stati in grado di
+          distinguere i due alimenti."
+        AudioClip: {fileID: 8300000, guid: 16d2065a944eb4c39af94dfee61c4811, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Quello che emerge da diversi test \xE8 che il sapore della carne
+          sintetica \xE8 identico a quello della carne normale, ma semplicemente
+          la produzione di quella sintetica \xE8 molto pi\xF9 etica."
+        AudioClip: {fileID: 8300000, guid: 1ad80f65493e94fd2b1005224ebfa22e, type: 3}
+      Relevance: 2
+  - TitleAudio:
+      String: "La carne animale e il suo impatto sull\u2019ambiente"
+      AudioClip: {fileID: 8300000, guid: 9a6955346614a4478868a55545620dde, type: 3}
+    PreviewAudio:
+      String: La produzione di carne animale ha un impatto molto dannoso per il nostro
+        ambiente e per il clima. Quali alternative ci offre la scienza?
+      AudioClip: {fileID: 8300000, guid: 808f7ff9ae1984293842d28f2b5872a3, type: 3}
+    AuthorAudio:
+      String: Enrico Glovi
+      AudioClip: {fileID: 8300000, guid: 4bad687b1951a45d69d9ea1df62a7785, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Enrico Glovi, avvocato ambientale, ha difeso numerose cause
+        a favore della tutela dell\u2019ambiente. FONTE: Articolo pubblicato sulla
+        pagina \u201CAmbiente Insieme\u201D ad ottobre 2021."
+      AudioClip: {fileID: 8300000, guid: 126bd060a3baa4f8988d456675f57996, type: 3}
+    Relevance: 1
+    Snippets:
+    - TextAudio:
+        String: "La produzione di carne \xE8 estremamente dannosa per il nostro ambiente."
+        AudioClip: {fileID: 8300000, guid: 594c45878762b4241bfff729ae9f2f0f, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Lo sapevi che il 14,5% di tutte le emissioni di gas serra arrivano
+          dall\u2019allevamento di animali? E che il 77% di tutte le terre coltivabili
+          sono adibite alla produzione di carne, rispondendo per\xF2 solo al 14%
+          del fabbisogno mondiale?"
+        AudioClip: {fileID: 8300000, guid: d2fd473c55fc1425db9e17ffbbf007ab, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "E che l\u2019oceano ricopre circa il 71% di tutta la superficie
+          terrestre?"
+        AudioClip: {fileID: 8300000, guid: 994529bcebc614377b9f06427abba5db, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "L\u2019impatto ambiente e le possibili conseguenze sul cambiamento
+          climatico della produzione della carne animale sono molto importanti, ma
+          c\u2019\xE8 una soluzione: la carne sintetica. "
+        AudioClip: {fileID: 8300000, guid: a35e323c354f748c3ac03f9011d89e95, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: Si stima che la produzione di carne sintetica riduca di circa il
+          98% le emissioni di gas serra rispetto a quella tradizionale.
+        AudioClip: {fileID: 8300000, guid: b88953e6e1a724ed1b3c00509b0a6c0e, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Questo \xE8 possibile perch\xE9 la carne sintetica non ha bisogno
+          di allevamenti intensivi, per cui c\u2019\xE8 un risparmio dell\u2019energia
+          consumata. "
+        AudioClip: {fileID: 8300000, guid: f21d2e43b1aba4cc1968afc29320b307, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Un altro importante risparmio riguarda la minore occupazione di
+          suolo: la carne sintetica ha bisogno del 95% di suolo in meno rispetto
+          alla produzione di carne animale e una riduzione si pu\xF2 osservare anche
+          in relazione al consumo di acqua. "
+        AudioClip: {fileID: 8300000, guid: fe255eb08075146adb44ed208e6a165c, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "La carne sintetica fa bene all\u2019ambiente e permette la salvaguardia
+          del nostro pianeta."
+        AudioClip: {fileID: 8300000, guid: f14b262f0f300427782c0ff6ddf5876c, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: Infine, la carne sintetica permette di ridurre la somministrazione
+          di antibiotici e di farmaci di vario tipo agli animali.
+        AudioClip: {fileID: 8300000, guid: 7f6ba0d5523fb48a9b657e084fa836d2, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: Forse non lo sapevi, ma anche gli animali si ammalano come noi!
+        AudioClip: {fileID: 8300000, guid: 400f3e91d91174d5bacd56405869678b, type: 3}
+      Relevance: 0
+  - TitleAudio:
+      String: La dieta vegetariana
+      AudioClip: {fileID: 8300000, guid: 1caf06809ddb74eaca13a2e508653821, type: 3}
+    PreviewAudio:
+      String: "Dieta vegetariana fin da piccoli: vantaggi e svantaggi per scegliere
+        con cura l\u2019alimentazione dei propri figli."
+      AudioClip: {fileID: 8300000, guid: a9f9534282d64466e902a17fecbe99d6, type: 3}
+    AuthorAudio:
+      String: Davide Ferri
+      AudioClip: {fileID: 8300000, guid: c15b858bce1aa4363b2f9bcaf20530e8, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Davide Ferri, nutrizionista specializzato in Diete infantili
+        FONTE: sito online \u201CElisir di salute\u201D, rivista su Alimentazione,
+        Medicina e Benessere, 14/07/2021"
+      AudioClip: {fileID: 8300000, guid: ed253653c1e694bcca8c6f44ce6a4751, type: 3}
+    Relevance: 0
+    Snippets: []
+  - TitleAudio:
+      String: "Film \u201CMangia, prega e ama\u201D"
+      AudioClip: {fileID: 8300000, guid: 4d3e3766d2c4746c0aa197e3e60e0591, type: 3}
+    PreviewAudio:
+      String: La bella protagonista interpretata da Julia Roberts parte per un viaggio
+        alla scoperta di se stessa, facendo tappa in Italia alla scoperta dei prodotti
+        tipici.
+      AudioClip: {fileID: 8300000, guid: 3bbbcedc0fb864193841a699e55b9277, type: 3}
+    AuthorAudio:
+      String: Letizia Mango
+      AudioClip: {fileID: 8300000, guid: aab8120cba67c46699b920ebeecf8df6, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Letizia Mango, critica cinematografica e giornalista professionista
+        FONTE: recensione cinematografica sul sito di IMDB\u201D, database per film,
+        serie tv e documentari, 19/09/2022"
+      AudioClip: {fileID: 8300000, guid: eb56a5a94db284366ad575abc42fb5a4, type: 3}
+    Relevance: 0
+    Snippets: []
+  - TitleAudio:
+      String: Meglio comprare la frutta al supermercato o dal fruttivendolo?
+      AudioClip: {fileID: 8300000, guid: 3ac5421dc49a34c3c862a8a834da8962, type: 3}
+    PreviewAudio:
+      String: "Pesche, albicocche, arance\u2026 Tutti frutti buonissimi e succosissimi,
+        ma \xE8 meglio comprarli al supermercato o dal fruttivendolo?"
+      AudioClip: {fileID: 8300000, guid: c8a8ce9d7f3184114b1f9889063cef47, type: 3}
+    AuthorAudio:
+      String: Gianni Boschi
+      AudioClip: {fileID: 8300000, guid: ec84c8e2e26f94c2f9a84a3de3e168ed, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Gianni Boschi, giornalista attivo nell\u2019ambito agroalimentare
+        FONTE: Servizio sul sito di Linea Verde Estate"
+      AudioClip: {fileID: 8300000, guid: be8d5d6d9027b418baae07c38d6dbbef, type: 3}
+    Relevance: 0
+    Snippets: []
+  - TitleAudio:
+      String: "Le 10 ricette pi\xF9 buone con la carne"
+      AudioClip: {fileID: 8300000, guid: da0cc17a5a3344f61a250be9d8431c16, type: 3}
+    PreviewAudio:
+      String: "Involtini, hamburger, polpettine o polpettoni sono soltanto alcune
+        delle ricette pi\xF9 gustose che hanno come  ingrediente principe la carne. "
+      AudioClip: {fileID: 8300000, guid: 0677b0dfcb50341d4959b7ddecb25364, type: 3}
+    AuthorAudio:
+      String: Benedetto Angiolini
+      AudioClip: {fileID: 8300000, guid: e898e85be9919473d892ebdd1154f5bd, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Benedetto Angiolini, chef a domicilio e presente in numerosi
+        programmi tv FONTE: Pagina \u201CRosso Fragola\u201D, ricette pubblicate
+        il 24 settembre 2020"
+      AudioClip: {fileID: 8300000, guid: f5d4b4162e1b04b5482f0ac387f67a03, type: 3}
+    Relevance: 0
+    Snippets: []
+  TagsQuiz:
+    QuestionAudio:
+      String: SCEGLI 3 TAG CHE RAPPRESENTANO AL MEGLIO IL TESTO PRODOTTO
+      AudioClip: {fileID: 8300000, guid: 84cb9b1610c664cb997f3a150ac40747, type: 3}
+    ChoicesAudio:
+    - String: '#DIETA VEGETARIANA'
+      AudioClip: {fileID: 8300000, guid: 0e82db18f198f438995526ac0c652982, type: 3}
+    - String: '#CARNE SINTETICA'
+      AudioClip: {fileID: 8300000, guid: 3c55cf2973e994a778027f4d32cb52cb, type: 3}
+    - String: '#RICETTE'
+      AudioClip: {fileID: 8300000, guid: 715c60a0503ed4d969640355a925b26b, type: 3}
+    - String: '#VIAGGIO'
+      AudioClip: {fileID: 8300000, guid: b2b59c04f27b04eb9b584baadcf139e4, type: 3}
+    - String: '#INQUINAMENTO AMBIENTALE'
+      AudioClip: {fileID: 8300000, guid: 851116a0cd50d45f8995466d86d21e2c, type: 3}
+    - String: '#MOLECOLE'
+      AudioClip: {fileID: 8300000, guid: e4270cb50def3457daf53ed856d9d186, type: 3}
+    - String: '#SOLUZIONE ETICA'
+      AudioClip: {fileID: 8300000, guid: 3c56cb0d3f4b949a6a1d94c1fc00c0a0, type: 3}
+    Correct: 010000000400000006000000
+  TitleQuiz:
+    QuestionAudio:
+      String: "SCEGLI IL TITOLO PI\xD9 ADEGUATO"
+      AudioClip: {fileID: 8300000, guid: 287226767e1d14a0a92e1d3e688dd0cf, type: 3}
+    ChoicesAudio:
+    - String: 'Alimentazione: un confronto tra carni sintetiche e carni animali'
+      AudioClip: {fileID: 8300000, guid: 53a7214cfd2674d8eaea54362ad29ddf, type: 3}
+    - String: 'Dieta vegetariana e dieta vegana: quali differenze?'
+      AudioClip: {fileID: 8300000, guid: b27a1796590154fc890ef42cd3f477bc, type: 3}
+    - String: "Inquinamento: le cause e le conseguenze sull\u2019agricoltura"
+      AudioClip: {fileID: 8300000, guid: f58380da4932f46088fee5d4d517f2ab, type: 3}
+    - String: La carne del futuro
+      AudioClip: {fileID: 8300000, guid: b412c9530aaf34e69aa403b6f6f9f75d, type: 3}
+    Correct: 00000000
+  SubmissionQuizzes:
+  - QuestionAudio:
+      String: "QUANTO \xE8 STATO DIFFICILE?"
+      AudioClip: {fileID: 8300000, guid: a4eafbab6651645299c94964f3aecd03, type: 3}
+    ChoicesAudio:
+    - String: POCO
+      AudioClip: {fileID: 8300000, guid: 1ba83cb5aa8284a7f9746016868bb964, type: 3}
+    - String: NON TROPPO
+      AudioClip: {fileID: 8300000, guid: 065b6200431324795ad94d342d2d9370, type: 3}
+    - String: ABBASTANZA
+      AudioClip: {fileID: 8300000, guid: 9e44a05c9d6bc4a0782711feaa7c04e4, type: 3}
+    - String: MOLTO
+      AudioClip: {fileID: 8300000, guid: 3baa69b84f33646419777eba6e9fc490, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: "QUAL \xE8 STATA LA PARTE PI\xF9 DIFFICILE?"
+      AudioClip: {fileID: 8300000, guid: 851c88140e39b4d8f8c5ea2d7e1f09b5, type: 3}
+    ChoicesAudio:
+    - String: SCELTA DEI TESTI
+      AudioClip: {fileID: 8300000, guid: 80edde49fee9e4bda9289d1fcb1868c8, type: 3}
+    - String: ASSEGNAZIONE TEMPO
+      AudioClip: {fileID: 8300000, guid: ada8e9ff3350649b1b98e8a33e91d6b4, type: 3}
+    - String: ASSEGNAZIONE SNIPPET
+      AudioClip: {fileID: 8300000, guid: a7fb8602b9998414787c69bd23e0a7ad, type: 3}
+    - String: SCELTA SNIPPET
+      AudioClip: {fileID: 8300000, guid: 2c0a8acc27bf0426b8e3d8d2a03d1459, type: 3}
+    - String: COMPOSIZIONE DEL TESTO
+      AudioClip: {fileID: 8300000, guid: 297a4bd6273e14f429f6c6bfda25fd91, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: "AVRESTI VOLUTO PI\xF9 SNIPPET?"
+      AudioClip: {fileID: 8300000, guid: 7fd8ca799298243cabfc7a757ce82328, type: 3}
+    ChoicesAudio:
+    - String: "S\xEC"
+      AudioClip: {fileID: 8300000, guid: a336cf45832a74769834fa71d47b0720, type: 3}
+    - String: NO
+      AudioClip: {fileID: 8300000, guid: 65493bdc64958404cbba29528a51252d, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: "AVRESTI VOLUTO PI\xF9 TEMPO?"
+      AudioClip: {fileID: 8300000, guid: d1ef1e18eb2a24f6bbc618a3faaa8f7b, type: 3}
+    ChoicesAudio:
+    - String: "S\xEC"
+      AudioClip: {fileID: 8300000, guid: a336cf45832a74769834fa71d47b0720, type: 3}
+    - String: NO
+      AudioClip: {fileID: 8300000, guid: 65493bdc64958404cbba29528a51252d, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: "AVRESTI VOLUTO BRANI PI\xF9 BREVI?"
+      AudioClip: {fileID: 8300000, guid: 1b133bbb5ece64dc587d1104f9247fa3, type: 3}
+    ChoicesAudio:
+    - String: "S\xEC"
+      AudioClip: {fileID: 8300000, guid: a336cf45832a74769834fa71d47b0720, type: 3}
+    - String: NO
+      AudioClip: {fileID: 8300000, guid: 65493bdc64958404cbba29528a51252d, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: AVRESTI VOLUTO UN AIUTO MAGGIORE?
+      AudioClip: {fileID: 8300000, guid: d492f6cae58d445eeab5fac9f7ba3657, type: 3}
+    ChoicesAudio:
+    - String: "S\xEC"
+      AudioClip: {fileID: 8300000, guid: a336cf45832a74769834fa71d47b0720, type: 3}
+    - String: NO
+      AudioClip: {fileID: 8300000, guid: 65493bdc64958404cbba29528a51252d, type: 3}
+    Correct: 
+  TipsQuizTitle:
+    String: DAI DEI CONSIGLI AI TUOI COMPAGNI
+    AudioClip: {fileID: 8300000, guid: e8da3ef463def4e0dae12790fc66ebba, type: 3}
+  Tips:
+  - String: "Usa il super poter \u201CMemoria di lavoro\u201D per aiutarti a tenere
+      in mente tutte le informazioni dei testi "
+    AudioClip: {fileID: 8300000, guid: f8e1c77092dea4602a210225a6dca40e, type: 3}
+  - String: "Stai concentrato durante il compito di selezione dei testi rilevanti
+      perch\xE9 \xE8 un compito difficile in cui bisogna leggere con attenzione"
+    AudioClip: {fileID: 8300000, guid: e8dc3180eeb6e4409b48dd0e7a54ed8e, type: 3}
+  - String: "Usa il super potere \u201CInterferenza\u201D per non selezionare due
+      snippet che dicono la stessa cosa"
+    AudioClip: {fileID: 8300000, guid: 87bfdb5220f4c46c485b2f307c1544b6, type: 3}
+  - String: "Quando leggi i testi libera il tavolo di lavoro e non farti distrarre
+      da quello che c\u2019\xE8 intorno a te"
+    AudioClip: {fileID: 8300000, guid: 782508ad31c11452cb17d61dcab61596, type: 3}
+  - String: Datti il tempo che ti serve, impostare un timer troppo breve potrebbe
+      influenzare negativamente il tuo lavoro
+    AudioClip: {fileID: 8300000, guid: a45a15ccb70dd4786a70a4aa9f577a1a, type: 3}
+  - String: 'Quando revisioni il tuo lavoro non farlo distrattamente ma rimani concentrato
+      per cercare eventuali errori '
+    AudioClip: {fileID: 8300000, guid: 8903f7b6363ee4685b32633f4cc5f4f5, type: 3}

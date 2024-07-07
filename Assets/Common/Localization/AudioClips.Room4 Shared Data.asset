@@ -1,0 +1,1233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: AudioClips.Room4 Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: AudioClips.Room4
+  m_TableCollectionNameGuidString: df8a93e335ee040518b3805f131284a5
+  m_Entries:
+  - m_Id: 14730914684928
+    m_Key: QuestionHandler.Frasi.BambinaBambino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730923073536
+    m_Key: QuestionHandler.Frasi.BambinaGiocaPalla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730927267840
+    m_Key: QuestionHandler.Frasi.BambinaStudia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730927267841
+    m_Key: QuestionHandler.Frasi.BambinoBambina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730927267842
+    m_Key: QuestionHandler.Frasi.BambinoRincorreMamma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730927267843
+    m_Key: QuestionHandler.Frasi.CaminoEsceFumo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730927267844
+    m_Key: QuestionHandler.Frasi.CaminoNonEsceFumo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730927267845
+    m_Key: QuestionHandler.Frasi.CaneDormeCuccia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730927267846
+    m_Key: QuestionHandler.Frasi.CaneMangiaOsso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730927267847
+    m_Key: QuestionHandler.Frasi.CasaFinestreAperte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730927267848
+    m_Key: QuestionHandler.Frasi.CasaFinestreChiuse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730927267849
+    m_Key: QuestionHandler.Frasi.F_AllacciarsiLeScarpe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730927267850
+    m_Key: QuestionHandler.Frasi.F_ApparecchiareTavola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730927267851
+    m_Key: QuestionHandler.Frasi.F_AutunnoCadono
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730927267852
+    m_Key: QuestionHandler.Frasi.F_CarnevaleIndossano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730931462144
+    m_Key: QuestionHandler.Frasi.F_CompleannoPreparato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730931462145
+    m_Key: QuestionHandler.Frasi.F_EsciChiudiPorta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730931462146
+    m_Key: QuestionHandler.Frasi.F_FreddoMani
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730931462147
+    m_Key: QuestionHandler.Frasi.F_LatteRicavatoDalla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730931462148
+    m_Key: QuestionHandler.Frasi.F_MangiareMinestra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730931462149
+    m_Key: QuestionHandler.Frasi.F_MettereScarpe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730931462150
+    m_Key: QuestionHandler.Frasi.F_MuccaRicava
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730931462151
+    m_Key: QuestionHandler.Frasi.F_NataleScartano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730931462152
+    m_Key: QuestionHandler.Frasi.F_NotteBrillano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730931462153
+    m_Key: QuestionHandler.Frasi.F_PioggiaNeveCadono
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730931462154
+    m_Key: QuestionHandler.Frasi.F_SapereCheOreSono
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730931462155
+    m_Key: QuestionHandler.Frasi.F_ScrivereQuaderno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730931462156
+    m_Key: QuestionHandler.Frasi.F_ScrivoConMatita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730931462157
+    m_Key: QuestionHandler.Frasi.F_SemaforoFermarsi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730931462158
+    m_Key: QuestionHandler.Frasi.F_SemaforoPartire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730935656448
+    m_Key: QuestionHandler.Frasi.F_VedereTelegiornale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730935656449
+    m_Key: QuestionHandler.Frasi.GattoDavantiBambina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730935656450
+    m_Key: QuestionHandler.Frasi.GattoDietroBambina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730935656451
+    m_Key: QuestionHandler.Frasi.GattoSopraSedia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730935656452
+    m_Key: QuestionHandler.Frasi.GattoSottoSedia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730935656453
+    m_Key: QuestionHandler.Frasi.M_AllacciarsiLeScarpe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730935656454
+    m_Key: QuestionHandler.Frasi.M_ApparecchiareTavola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730935656455
+    m_Key: QuestionHandler.Frasi.M_AutunnoCadono
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730935656456
+    m_Key: QuestionHandler.Frasi.M_CarnevaleIndossano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730935656457
+    m_Key: QuestionHandler.Frasi.M_CompleannoPreparato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730935656458
+    m_Key: QuestionHandler.Frasi.M_EsciChiudiPorta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730935656459
+    m_Key: QuestionHandler.Frasi.M_FreddoMani
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730935656460
+    m_Key: QuestionHandler.Frasi.M_LatteRicavatoDalla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730935656461
+    m_Key: QuestionHandler.Frasi.M_MangiareMinestra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730935656462
+    m_Key: QuestionHandler.Frasi.M_MettereScarpe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730935656463
+    m_Key: QuestionHandler.Frasi.M_MuccaRicava
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730939850752
+    m_Key: QuestionHandler.Frasi.M_NataleScartano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730939850753
+    m_Key: QuestionHandler.Frasi.M_NotteBrillano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730939850754
+    m_Key: QuestionHandler.Frasi.M_PioggaNeveCadono
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730939850755
+    m_Key: QuestionHandler.Frasi.M_SapereCheOreSono
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730939850756
+    m_Key: QuestionHandler.Frasi.M_ScrivereQuaderno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730939850757
+    m_Key: QuestionHandler.Frasi.M_ScrivoConMatita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730939850758
+    m_Key: QuestionHandler.Frasi.M_SemaforoFermarsi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730939850759
+    m_Key: QuestionHandler.Frasi.M_SemaforoPartire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730939850760
+    m_Key: QuestionHandler.Frasi.M_VedereTelegiornale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730939850761
+    m_Key: QuestionHandler.Frasi.MammaRincorreBambino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730939850762
+    m_Key: QuestionHandler.Frasi.PallaBlu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730939850763
+    m_Key: QuestionHandler.Frasi.PallaRossa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730939850764
+    m_Key: QuestionHandler.Frasi.StagnoTantiPesci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730939850765
+    m_Key: QuestionHandler.Frasi.StagnoUnPesce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730939850766
+    m_Key: QuestionHandler.Oggetti.Arancio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730939850767
+    m_Key: QuestionHandler.Oggetti.Bambola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730944045056
+    m_Key: QuestionHandler.Oggetti.Bicchiere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730944045057
+    m_Key: QuestionHandler.Oggetti.Bicicletta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730944045058
+    m_Key: QuestionHandler.Oggetti.Bottiglia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730944045059
+    m_Key: QuestionHandler.Oggetti.Cane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730944045060
+    m_Key: QuestionHandler.Oggetti.Casa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730944045061
+    m_Key: QuestionHandler.Oggetti.Chiave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730944045062
+    m_Key: QuestionHandler.Oggetti.Chitarra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730944045063
+    m_Key: QuestionHandler.Oggetti.Computer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730944045064
+    m_Key: QuestionHandler.Oggetti.Coniglio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730944045065
+    m_Key: QuestionHandler.Oggetti.Finestra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730944045066
+    m_Key: QuestionHandler.Oggetti.Fiore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730944045067
+    m_Key: QuestionHandler.Oggetti.Forbici
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730944045068
+    m_Key: QuestionHandler.Oggetti.Gatto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730944045069
+    m_Key: QuestionHandler.Oggetti.Maniglia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730944045070
+    m_Key: QuestionHandler.Oggetti.Mano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730944045071
+    m_Key: QuestionHandler.Oggetti.Mare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730944045072
+    m_Key: QuestionHandler.Oggetti.Matita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730948239360
+    m_Key: QuestionHandler.Oggetti.Mela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730948239361
+    m_Key: QuestionHandler.Oggetti.Montagna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730948239362
+    m_Key: QuestionHandler.Oggetti.Motorino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730948239363
+    m_Key: QuestionHandler.Oggetti.Orsetto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730948239364
+    m_Key: QuestionHandler.Oggetti.Palla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730948239365
+    m_Key: QuestionHandler.Oggetti.Palloncino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730948239366
+    m_Key: QuestionHandler.Oggetti.Penna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730948239367
+    m_Key: QuestionHandler.Oggetti.Pizza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730948239368
+    m_Key: QuestionHandler.Oggetti.Porta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730948239369
+    m_Key: QuestionHandler.Oggetti.Sedia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730948239370
+    m_Key: QuestionHandler.Oggetti.Televisione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730948239371
+    m_Key: QuestionHandler.Oggetti.Torta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730948239372
+    m_Key: QuestionHandler.Oggetti.Zaino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730948239373
+    m_Key: QuestionHandler.Storia.Storia 1 - 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730948239374
+    m_Key: QuestionHandler.Storia.Storia 1 - 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730948239375
+    m_Key: QuestionHandler.Storia.Storia 1 - 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730948239376
+    m_Key: QuestionHandler.Storia.Storia 1 - 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730952433664
+    m_Key: QuestionHandler.Storia.Storia 1 - 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730952433665
+    m_Key: QuestionHandler.Storia.Storia 1 - 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730952433666
+    m_Key: QuestionHandler.Storia.Storia 1 - 7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730952433667
+    m_Key: QuestionHandler.Storia.Storia 1 - 8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730952433668
+    m_Key: QuestionHandler.Storia.Storia 1 - 9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730952433669
+    m_Key: QuestionHandler.Storia.Storia 1 - 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730952433670
+    m_Key: QuestionHandler.Storia.Storia 1 - 11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730952433671
+    m_Key: QuestionHandler.Storia.Storia 1 - 12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730952433672
+    m_Key: QuestionHandler.Storia.Storia 1 - 13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730952433673
+    m_Key: QuestionHandler.Storia.Storia 1 - 14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730952433674
+    m_Key: QuestionHandler.Storia.Storia 1 - 15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730952433675
+    m_Key: QuestionHandler.Storia.Storia 1 - 16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730952433676
+    m_Key: QuestionHandler.Storia.Storia 1 - 17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730952433677
+    m_Key: QuestionHandler.Storia.Storia 1 - 18
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730952433678
+    m_Key: QuestionHandler.Storia.Storia 1 - 19
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730952433679
+    m_Key: QuestionHandler.Storia.Storia 1 - 20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730952433680
+    m_Key: QuestionHandler.Storia.Storia 1 - End
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730956627968
+    m_Key: QuestionHandler.Storia.Storia 2 - 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730956627969
+    m_Key: QuestionHandler.Storia.Storia 2 - 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730956627970
+    m_Key: QuestionHandler.Storia.Storia 2 - 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730956627971
+    m_Key: QuestionHandler.Storia.Storia 2 - 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730956627972
+    m_Key: QuestionHandler.Storia.Storia 2 - 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730956627973
+    m_Key: QuestionHandler.Storia.Storia 2 - 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730956627974
+    m_Key: QuestionHandler.Storia.Storia 2 - 7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730956627975
+    m_Key: QuestionHandler.Storia.Storia 2 - 8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730956627976
+    m_Key: QuestionHandler.Storia.Storia 2 - 9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730956627977
+    m_Key: QuestionHandler.Storia.Storia 2 - 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730956627978
+    m_Key: QuestionHandler.Storia.Storia 2 - 11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730956627979
+    m_Key: QuestionHandler.Storia.Storia 2 - 12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730956627980
+    m_Key: QuestionHandler.Storia.Storia 2 - 13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730956627981
+    m_Key: QuestionHandler.Storia.Storia 2 - 14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730956627982
+    m_Key: QuestionHandler.Storia.Storia 2 - 15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730956627983
+    m_Key: QuestionHandler.Storia.Storia 2 - 16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14730956627984
+    m_Key: QuestionHandler.Storia.Storia 2 - End
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733425508352
+    m_Key: Voicelines.endExercise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733425508353
+    m_Key: Voicelines.room_4_level_0_1_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733425508354
+    m_Key: Voicelines.room_4_level_0_1_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733429702656
+    m_Key: Voicelines.Sedia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733429702657
+    m_Key: Voicelines.room_4_level_0_1_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733429702658
+    m_Key: Voicelines.room_4_level_0_1_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733442285568
+    m_Key: Voicelines.room_4_level_0_2_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733442285569
+    m_Key: Voicelines.room_4_level_0_2_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733446479872
+    m_Key: Voicelines.room_4_level_1_1_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733446479873
+    m_Key: Voicelines.GattoSottoSedia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733463257088
+    m_Key: Voicelines.room_4_level_1_1_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733463257089
+    m_Key: Voicelines.room_4_level_0_2_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733475840000
+    m_Key: Voicelines.room_4_level_1_2_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733496811520
+    m_Key: Voicelines.room_4_level_1_2_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733509394432
+    m_Key: Voicelines.room_4_level_1_2_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733513588736
+    m_Key: Voicelines.room_4_level_2_1_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733521977344
+    m_Key: Voicelines.room_4_level_2_1_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733521977345
+    m_Key: Voicelines.M_AutunnoCadono
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733521977346
+    m_Key: Voicelines.room_4_level_2_1_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733538754560
+    m_Key: Voicelines.room_4_level_2_2_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733555531776
+    m_Key: Voicelines.room_4_level_2_2_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733555531777
+    m_Key: Voicelines.M_NataleScartano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733568114688
+    m_Key: Voicelines.room_4_level_2_2_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733568114689
+    m_Key: Voicelines.F_NataleScartano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733580697600
+    m_Key: Voicelines.room_4_level_2_2_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733584891904
+    m_Key: Voicelines.room_4_level_3_1_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733593280512
+    m_Key: Voicelines.room_4_level_3_1_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733605863424
+    m_Key: Voicelines.room_4_level_3_1_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733618446336
+    m_Key: Voicelines.room_4_level_3_1_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733626834944
+    m_Key: Voicelines.room_4_level_3_1_bigello_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733626834945
+    m_Key: Voicelines.room_4_level_3_1_bigello_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733643612160
+    m_Key: Voicelines.room_4_level_3_1_bigello_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733660389376
+    m_Key: Voicelines.room_4_level_3_2_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733677166592
+    m_Key: Voicelines.room_4_level_3_2_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733689749504
+    m_Key: Voicelines.room_4_level_3_2_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733710721024
+    m_Key: Voicelines.room_4_level_3_2_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733723303936
+    m_Key: Voicelines.room_4_level_3_2_bigello_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733740081152
+    m_Key: Voicelines.room_4_level_3_2_bigello_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733752664064
+    m_Key: Voicelines.room_4_level_3_2_bigello_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733773635584
+    m_Key: Voicelines.room_4_level_3_2_bigello_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44733786218496
+    m_Key: Voicelines.room_4_level_3_2_bigello_10
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 2694126082138832903
+  m_KeyGenerator:
+    rid: 2694126082138832898
+  references:
+    version: 2
+    RefIds:
+    - rid: 2694126082138832898
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1695111698144
+    - rid: 2694126082138832903
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 14730914684928
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730923073536
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730927267840
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730927267841
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730927267842
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730927267843
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730927267844
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730927267845
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730927267846
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730927267847
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730927267848
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730927267849
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730927267850
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730927267851
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730927267852
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730931462144
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730931462145
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730931462146
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730931462147
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730931462148
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730931462149
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730931462150
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730931462151
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730931462152
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730931462153
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730931462154
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730931462155
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730931462156
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730931462157
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730931462158
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730935656448
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730935656449
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730935656450
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730935656451
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730935656452
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730935656453
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730935656454
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730935656455
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730935656456
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730935656457
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730935656458
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730935656459
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730935656460
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730935656461
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730935656462
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730935656463
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730939850752
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730939850753
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730939850754
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730939850755
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730939850756
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730939850757
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730939850758
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730939850759
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730939850760
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730939850761
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730939850762
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730939850763
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730939850764
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730939850765
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730939850766
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730939850767
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730944045056
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730944045057
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730944045058
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730944045059
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730944045060
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730944045061
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730944045062
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730944045063
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730944045064
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730944045065
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730944045066
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730944045067
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730944045068
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730944045069
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730944045070
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730944045071
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730944045072
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730948239360
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730948239361
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730948239362
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730948239363
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730948239364
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730948239365
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730948239366
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730948239367
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730948239368
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730948239369
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730948239370
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730948239371
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730948239372
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730948239373
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730948239374
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730948239375
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730948239376
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730952433664
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730952433665
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730952433666
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730952433667
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730952433668
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730952433669
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730952433670
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730952433671
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730952433672
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730952433673
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730952433674
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730952433675
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730952433676
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730952433677
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730952433678
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730952433679
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730952433680
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730956627968
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730956627969
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730956627970
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730956627971
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730956627972
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730956627973
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730956627974
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730956627975
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730956627976
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730956627977
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730956627978
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730956627979
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730956627980
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730956627981
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730956627982
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730956627983
+          m_TableCodes:
+          - it
+        - m_KeyId: 14730956627984
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733425508352
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733425508353
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733425508354
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733429702656
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733429702657
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733429702658
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733442285568
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733442285569
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733446479872
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733446479873
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733463257088
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733463257089
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733475840000
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733496811520
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733509394432
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733513588736
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733521977344
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733521977345
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733521977346
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733538754560
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733555531776
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733555531777
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733568114688
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733568114689
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733580697600
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733584891904
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733593280512
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733605863424
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733618446336
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733626834944
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733626834945
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733643612160
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733660389376
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733677166592
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733689749504
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733710721024
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733723303936
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733740081152
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733752664064
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733773635584
+          m_TableCodes:
+          - it
+        - m_KeyId: 44733786218496
+          m_TableCodes:
+          - it
+        m_TypeString: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

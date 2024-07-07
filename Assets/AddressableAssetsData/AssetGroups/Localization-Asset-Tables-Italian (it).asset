@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Asset-Tables-Italian (it)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Asset-Tables-Italian (it)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ca4ba559430bc4cdfa90cee862cefd05
+  m_SerializeEntries:
+  - m_GUID: 5d06fe860ab6340b2bbb55c5a214480c
+    m_Address: AudioClips.Room2_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eacff690db08f4b86b29e526c69c4103
+    m_Address: AudioClips.Room4_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93102a91dee4e4cb6b64090b7bc7e161
+    m_Address: AudioClips.Room6_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8403dd305bc62461e9852fbcf50d3331
+    m_Address: AudioClips.Room8_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cf750879e1134bcc9c757b98badc1b2
+    m_Address: AudioClips.Room1_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68793b10aacd644798126a904d45d559
+    m_Address: AudioClips.Room3_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f884a981887224c3ab498f04994fc7db
+    m_Address: AudioClips.Room5_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd4a14fc3dd7f463f9bf524671b562c1
+    m_Address: AudioClips.Room7_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b31e37b9286e4f6eb401b0bfda85391
+    m_Address: AudioClips.Room9_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5716ff9a3740f4eb79b22d637bb6188e
+    m_Address: AudioClips.Common_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ea474a85d06e471ea50dfcbcf92395a
+    m_Address: AudioClips.Cutscene_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad5170d3a0bdb4a508697ae8802ca704
+    m_Address: AudioClips.Game_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c2a1e84411d9411f8f6c217d4e7138c
+    m_Address: ScriptableObjects.Room9_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 9d1ea53a3f1f3924d8a088cc5efbde73, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 85ef5352b8cac4e2aa6980139e2793bd, type: 2}
+    - {fileID: 11400000, guid: 5060ac1b7ef0b454aa32111e29f75ae6, type: 2}

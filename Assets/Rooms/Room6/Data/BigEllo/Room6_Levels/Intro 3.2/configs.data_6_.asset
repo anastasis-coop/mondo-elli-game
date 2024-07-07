@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2509c2145ddb405eb27d1c4148082c45, type: 3}
+  m_Name: configs.data_6_
+  m_EditorClassIdentifier: 
+  <Message>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:f45bce9ed93ca43d48adf0c3d0c1e663
+    m_TableEntryReference:
+      m_KeyId: 697
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <Audio>k__BackingField: {fileID: 8300000, guid: 3cfeb551bf9c0224286e76cc331170fa,
+    type: 3}
+  <LocalizedAudio>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:6712a0405e320441e807b66525bf7afe
+    m_TableEntryReference:
+      m_KeyId: 24915997614083
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+  <AnimationTrigger>k__BackingField: 
+  <LipSync>k__BackingField: 0
+  <ClickDisabled>k__BackingField: 1
+  <FinishWithAudio>k__BackingField: 1
+  <SkipAtFirstRun>k__BackingField: 0
+  <ObscureEverythingButMessage>k__BackingField: 1
+  references:
+    version: 2
+    RefIds: []

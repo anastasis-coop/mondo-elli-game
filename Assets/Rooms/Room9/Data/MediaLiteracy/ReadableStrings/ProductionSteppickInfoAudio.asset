@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6a2ccf4d77864e8fbb123ee4148eb2e, type: 3}
+  m_Name: ProductionSteppickInfoAudio
+  m_EditorClassIdentifier: 
+  value:
+    String: "QUI TI VENGONO MOSTRATI I TESTI INTERI DIVISI IN SNIPPET. UTILIZZA I
+      TASTI IN ALTO PER MUOVERTI TRA I TESTI.\n\nQUANDO REPUTI UNO SNIPPET RILEVANTE,
+      CLICCACI SOPRA PER AGGIUNGERLO AL <b>NOTEBOOK</b>. SE VUOI TOGLIERLO CLICCA
+      SU DI ESSO UN ALTRA VOLTA (O NEL TESTO O NEL NOTEBOOK).\n\nGLI SNIPPET VERRANNO
+      AGGIUNTI NEL NOTEBOOK NELL\u2019ORDINE IN CUI VENGONO SELEZIONATI. ATTENZIONE
+      A NON SELEZIONARE UN NUMERO DI SNIPPET TROPPO DIVERSO A QUELLO CHE HAI SCELTO
+      NELLA FASE PRECEDENTE."
+    AudioClip: {fileID: 8300000, guid: 884143aa984634dfe847bdbe7611b79e, type: 3}

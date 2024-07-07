@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6a2ccf4d77864e8fbb123ee4148eb2e, type: 3}
+  m_Name: RelevanceStepsolutionInfoAudio
+  m_EditorClassIdentifier: 
+  value:
+    String: "SE LA TUA RISPOSTA CORRISPONDE ALLA RISPOSTA CORRETTA OTTIENI UNO SMILE
+      CHE SORRIDE (VALE 2 PUNTI).\n\nSE HAI INVERTITO UN TESTO RILEVANTE CON UNO
+      MOLTO RILEVANTE OTTIENI UNO SMILE NEUTRO (VALE 1 PUNTO).\n\nINVECE SE HAI CONFUSO
+      UN TESTO RILEVANTE CON UNO NON RILEVANTE O VICEVERSA OTTIENI UNO SMILE TRISTE
+      (VALE 0 PUNTI).\n\nPI\xF9 PUNTI HAI OTTENUTO MAGGIORI SARANNO LE STELLE OTTENUTE
+      IN QUESTA FASE."
+    AudioClip: {fileID: 8300000, guid: c6bbd97a4256841d0bced0e990af80ad, type: 3}

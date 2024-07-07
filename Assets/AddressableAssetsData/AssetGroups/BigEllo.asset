@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: BigEllo
+  m_EditorClassIdentifier: 
+  m_GroupName: BigEllo
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5a866981bd15fcf47b0ff622b0c216d3
+  m_SerializeEntries:
+  - m_GUID: 340fcf300beda4c1a87f86b9f61fbc78
+    m_Address: Assets/Common/Prefabs/BigEllo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9d1ea53a3f1f3924d8a088cc5efbde73, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ab2edf4fd095a444983d5b030877e983, type: 2}
+    - {fileID: 11400000, guid: e8016984a4ff4d64e82a2e75e3465201, type: 2}

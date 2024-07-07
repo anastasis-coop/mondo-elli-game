@@ -1,0 +1,519 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a5802927060246e8b248fdf8f3f3e5d, type: 3}
+  m_Name: MediaLiteracyExercise 1
+  m_EditorClassIdentifier: 
+  ThemeAudio:
+    String: 'MEZZI DI TRASPORTO: AUTO ELETTRICHE E A BENZINA'
+    AudioClip: {fileID: 8300000, guid: 257333d25f2514572958f4c2fb9c6dcc, type: 3}
+  KnowledgeQuizzes:
+  - QuestionAudio:
+      String: 'Secondo te, tutto sommato, si spende di meno:'
+      AudioClip: {fileID: 8300000, guid: b1bc2ed405f1e4252b8e892c9b08a134, type: 3}
+    ChoicesAudio:
+    - String: Con le macchine elettriche
+      AudioClip: {fileID: 8300000, guid: 361c3621240fc4471931222a8f9b49a7, type: 3}
+    - String: Con le macchine a benzina
+      AudioClip: {fileID: 8300000, guid: bc7b50273762d4dcd896b54eae94df0b, type: 3}
+    - String: Con macchine che hanno due sistemi di funzionamento diversi
+      AudioClip: {fileID: 8300000, guid: a2a0b7687a3104c01b3ef6999295c3fb, type: 3}
+    Correct: 00000000
+  - QuestionAudio:
+      String: 'In base alle tue conoscenze, le macchine elettriche:'
+      AudioClip: {fileID: 8300000, guid: 62e25f92dd14f48c3aa73c3415f1230b, type: 3}
+    ChoicesAudio:
+    - String: "Non vanno bene per fare viaggi lunghi perch\xE9 non ci sono colonnine
+        di ricarica nelle autostrade"
+      AudioClip: {fileID: 8300000, guid: 9fc1bee0362864e30b645f11248a1657, type: 3}
+    - String: "Rispettano l\u2019ambiente non emettendo CO2"
+      AudioClip: {fileID: 8300000, guid: e060ed7d80eb4428585cd68b6ba33d00, type: 3}
+    - String: "Sono pi\xF9 lente nell\u2019accelerazione rispetto alle macchine a
+        benzina"
+      AudioClip: {fileID: 8300000, guid: 1eed83e6458ff4ff39f8811d19239ca2, type: 3}
+    Correct: 01000000
+  - QuestionAudio:
+      String: 'Secondo te usare macchine a benzina:'
+      AudioClip: {fileID: 8300000, guid: 20c8fc282a77c4a119bfcc69edf7e6d6, type: 3}
+    ChoicesAudio:
+    - String: "Sar\xE0 sempre possibile anche nel futuro"
+      AudioClip: {fileID: 8300000, guid: cc20d3783f227474d818119df8fa8ed5, type: 3}
+    - String: "Non fa male all\u2019ambiente se si rispettano i limiti di velocit\xE0"
+      AudioClip: {fileID: 8300000, guid: af52dc0088f1c493db696d3e5fb986dc, type: 3}
+    - String: "Ha un costo pi\xF9 elevato per i maggiori costi di manutenzione"
+      AudioClip: {fileID: 8300000, guid: 54b27a8f7788444208fb066f461a4c98, type: 3}
+    Correct: 02000000
+  Texts:
+  - TitleAudio:
+      String: "Auto elettrica o a benzina: quale conviene di pi\xF9?"
+      AudioClip: {fileID: 8300000, guid: 885fb3cc9c70b4cceb9c4ba7b207b6e7, type: 3}
+    PreviewAudio:
+      String: "Al giorno d\u2019oggi si parla spesso di auto elettriche, ma comprarle
+        conviene davvero o sono meglio le macchine a combustione?"
+      AudioClip: {fileID: 8300000, guid: fb09b22b7011242b897150c4bf123999, type: 3}
+    AuthorAudio:
+      String: Luigi Gambalunga
+      AudioClip: {fileID: 8300000, guid: a4c25ae07b33a43e79c10a628df5cf15, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Luigi Gambalunga, Capo redattore del sito online GreenPlus,
+        uno dei principali operatori energetici italiani FONTE: sito online \u201CGreenPlus.it\u201D,
+        3/03/2022"
+      AudioClip: {fileID: 8300000, guid: 871a09a2e821a460b9c0a95bb2491574, type: 3}
+    Relevance: 2
+    Snippets:
+    - TextAudio:
+        String: "Attualmente, se dobbiamo comprare una macchina nuova sono molte
+          le possibilit\xE0 a nostra disposizione, la distinzione pi\xF9 grande riguarda
+          l\u2019acquisto di macchine a benzina oppure elettriche. "
+        AudioClip: {fileID: 8300000, guid: 329b0809c9b2a41d885f3ecaa59295b6, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Quale conviene di pi\xF9? Scopriamolo in questa guida per automobilisti."
+        AudioClip: {fileID: 8300000, guid: 585fb0c2af4ce4f0c879725a72bab526, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: Sicuramente le macchine elettriche sono le migliori per il nostro
+          pianeta, infatti non producono emissioni dirette di gas serra, a differenza
+          delle macchine a benzina che sono invece molto inquinanti
+        AudioClip: {fileID: 8300000, guid: 86a9b99d7401945f1979a36910f19d7e, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: "Le macchine a benzina o a diesel producono infatti una grandissima
+          quantit\xE0 di smog."
+        AudioClip: {fileID: 8300000, guid: aa3d0ca78745b40e1b4f5651801da0d9, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Le macchine elettriche hanno anche altri vantaggi, ad esempio grazie
+          agli incentivi una macchina che di base \xE8 molto molto costosa si pu\xF2
+          ottenere ad un prezzo ridotto."
+        AudioClip: {fileID: 8300000, guid: aa2a6624414d046648688cbb6f78175b, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Diversi paesi, tra cui l\u2019Italia, hanno previsto particolari
+          pacchetti finanziari per invogliare sempre di pi\xF9 le persone a fare
+          una scelta ecologica, permettendo di risparmiare anche molti soldi."
+        AudioClip: {fileID: 8300000, guid: 32eda5b0fd1ab40678254393925bbde5, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "A volte gli incentivi permettono anche di rendere pi\xF9 ecologiche
+          le proprie case."
+        AudioClip: {fileID: 8300000, guid: f4b61c9d90d094281b67ec4eaf706453, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: 'Le macchine elettriche possono transitare in zone vietate per le
+          normali macchine a combustione, come nelle aree ZTL e, spesso, possono
+          essere parcheggiate in zone contrassegnate dalle strisce blu senza pagare. '
+        AudioClip: {fileID: 8300000, guid: 7a9d785592df34abf82a6be57b07ba79, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: "Chi lavora in prossimit\xE0 dei centri storici delle citt\xE0 conosce
+          bene le problematiche legate alla circolazione, le macchine elettriche
+          possono risolvere finalmente il problema. "
+        AudioClip: {fileID: 8300000, guid: 29efa482b667345f081d8a1dc60a6fbe, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Infine, molto spesso, chi acquista una macchina elettrica \xE8 esentato
+          dal pagamento del bollo e dell\u2019assicurazione per i primi anni."
+        AudioClip: {fileID: 0}
+      Relevance: 1
+  - TitleAudio:
+      String: 'Auto elettriche: alcune accortezze a cui prestare attenzione'
+      AudioClip: {fileID: 8300000, guid: c0bb453a8c02f421c91bb3ba56cb3124, type: 3}
+    PreviewAudio:
+      String: Le auto elettriche sono comode e sicure per il pianeta ma non sono
+        esenti da qualche critica, in questo articolo vengono descritti tutti questi
+        aspetti.
+      AudioClip: {fileID: 8300000, guid: bab27a692d97e4434a813724f91880c8, type: 3}
+    AuthorAudio:
+      String: Lorenzo Morello
+      AudioClip: {fileID: 8300000, guid: f3805103dc57741eab143103bb2f3cbe, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Lorenzo Morello, laureato al Politecnico di Torino in Ingegneria
+        Meccanica e attualmente presidente della Commissione Cultura di ASI (Automoclub
+        Storico Italiano)  FONTE: Sezione \u201CMotori\u201D del quotidiano online
+        \u201CIlGiornale.it\u201D"
+      AudioClip: {fileID: 8300000, guid: d268a35cf8e3c4f83a093ffb39173be2, type: 3}
+    Relevance: 1
+    Snippets:
+    - TextAudio:
+        String: "Le auto elettriche sono il futuro dei mezzi di trasporto e presto
+          popoleranno sempre di pi\xF9 le nostre strade."
+        AudioClip: {fileID: 8300000, guid: a5df5ed507e204c37aad8e4db82c4d54, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Alcuni aspetti di questi innovativi mezzi di trasporto non convincono
+          per\xF2 tutti i consumatori."
+        AudioClip: {fileID: 8300000, guid: fc05aac681fde474782a48719789b910, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Ricordiamoci che spesso accade che l\u2019innovazione sia accolta
+          con scetticismo. "
+        AudioClip: {fileID: 8300000, guid: 143871c9e2d484a708dbcf5e44e41c2a, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Quando viaggiamo con le nostre macchine a benzina siamo sempre piuttosto
+          tranquilli di riuscire a trovare una pompa di benzina all\u2019occorrenza. "
+        AudioClip: {fileID: 8300000, guid: ede05c1e70a9c4e21bea21a85f653942, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "L\u2019autonomia delle macchine elettriche \xE8 spesso inferiore
+          rispetto alle macchine a benzina o a diesel, per cui se si vuole intraprendere
+          un lungo viaggio \xE8 bene assicurarsi di conoscere le posizioni delle
+          postazioni di ricarica."
+        AudioClip: {fileID: 8300000, guid: 71d7be60c9f774317a839ee1912380f6, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: "Il problema difficilmente si pone quando utilizziamo la macchina
+          elettrica per spostamenti brevi o comunque in citt\xE0."
+        AudioClip: {fileID: 8300000, guid: f799f1a37b49b4094beef97cf1b2ceed, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: In Italia molte persone lavorano vicino casa e fanno solo spostamenti
+          brevi durante il giorno.
+        AudioClip: {fileID: 8300000, guid: d36fe090564a84aae87d882fb63612f1, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Inoltre, molti paesi europei, tra cui l\u2019Italia, stanno lavorando
+          alla costruzione di stazioni autostradali sempre pi\xF9 adatte ad accogliere
+          le nostre auto green. "
+        AudioClip: {fileID: 8300000, guid: ae30abcc4913547f584ced8e8d35063c, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Spessi i tempi di ricarica delle macchine elettriche sono molto
+          lunghi, ma avere una colonnina di ricarica vicino casa pu\xF2 risolvere
+          il problema, infatti \xE8 possibile mettere la macchina in carica di notte
+          e cos\xEC al mattino sar\xE0 gi\xE0 pronta per partire."
+        AudioClip: {fileID: 8300000, guid: 5792c8f1492a74089a368c7f50b8c0ec, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: "In alternativa \xE8 possibile lasciare la macchina in appositi parcheggi
+          dotati di colonnina di ricarica mentre lavoriamo o facciamo delle soste."
+        AudioClip: {fileID: 8300000, guid: 6d9c2e5f99276439e8a18cbc662c8d48, type: 3}
+      Relevance: 1
+  - TitleAudio:
+      String: Tutti i vantaggi delle macchine elettriche a confronto con quelle a
+        benzina
+      AudioClip: {fileID: 8300000, guid: b1bb0b30c69c84146b7d0383e781f6a2, type: 3}
+    PreviewAudio:
+      String: "In questo articolo vengono messe in mostra tutte le qualit\xE0 delle
+        auto elettriche e confrontate con le normali macchine a combustione."
+      AudioClip: {fileID: 8300000, guid: 392a4c61831a04947935cd4d2d7e9a16, type: 3}
+    AuthorAudio:
+      String: Bianca Carretto
+      AudioClip: {fileID: 8300000, guid: 38c198cb6f9d24b529afe2ce1e3dc5f5, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Bianca Carretto, giornalista da circa 35 anni del Corriere
+        della Sera, con focus su auto e motori, in cronaca, nelle pagine motori e
+        in economia. FONTE: sezione \u201CPianeta 2030: mobilit\xE0 sostenibile\"
+        del sito online de \u201CIl Corriere della Sera\u201D, 24/03/2021"
+      AudioClip: {fileID: 8300000, guid: 6ae80b0f97c1a4829976b509fccf1391, type: 3}
+    Relevance: 2
+    Snippets:
+    - TextAudio:
+        String: "La macchina elettrica \xE8 nata per la volont\xE0 di ridurre l\u2019inquinamento
+          prodotto dalle normali auto a combustione, tuttavia sono moltissimi i suoi
+          vantaggi."
+        AudioClip: {fileID: 8300000, guid: f152f9e8b9ce84143804031a82f55e68, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Se vuoi saperne di pi\xF9, abbonati al nostro sito. "
+        AudioClip: {fileID: 8300000, guid: 0d8beface42494ceab61196a95799dfb, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Un vantaggio di cui pochi sono a conoscenza \xE8 che i mezzi di
+          trasporto elettrici sono molto pi\xF9 potenti e hanno prestazioni migliori
+          rispetto alle auto a benzina quando si preme l\u2019acceleratore."
+        AudioClip: {fileID: 8300000, guid: 5bc7d008c34d54c638ac5b32b28e718f, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: "Alcuni studi hanno infatti dimostrato che il tempo necessario per
+          passare da 0 a 100 km/h nelle macchine elettriche \xE8 di soli 4,4 secondi.
+          Questo tempo \xE8 assai pi\xF9 basso di quello necessario ad una macchina
+          alimentata a gas che ci mette circa il 63% in pi\xF9."
+        AudioClip: {fileID: 8300000, guid: 156c3a03c4ba74e29a22a1496786b069, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Con la macchina elettrica il portafoglio ringrazia: la manutenzione
+          \xE8 molto pi\xF9 conveniente rispetto ad un\u2019auto a benzina poich\xE9
+          non ci sono oli o filtri da sostituire."
+        AudioClip: {fileID: 8300000, guid: add93f91fcb6742b895803c7f820e52b, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: ' Immagina a quante cose potrai comprare con i soldi risparmiati
+          dal meccanico! '
+        AudioClip: {fileID: 8300000, guid: a493751b2c5d04ef8a9b9846f8ed1460, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Non scordiamoci poi che una macchina elettrica \xE8 amica dell\u2019ambiente,
+          non inquina n\xE9 con i gas di scarico n\xE9 a livello sonoro. Le macchine
+          elettriche sono infatti silenziosissime."
+        AudioClip: {fileID: 8300000, guid: 34ea1bad65be7424991cc2a40ca5a862, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Con tutti questi vantaggi, le auto green stanno diventando sempre
+          di pi\xF9 delle rivali per le normali macchine a benzina o a diesel."
+        AudioClip: {fileID: 8300000, guid: 35e0264656d86401980d06993f65c74f, type: 3}
+      Relevance: 1
+  - TitleAudio:
+      String: 'Troppo inquinamento: divieto di vendita per le auto a benzina dal
+        2035'
+      AudioClip: {fileID: 8300000, guid: e90a22462f1a8464d9c513167b10cbf6, type: 3}
+    PreviewAudio:
+      String: "Le nuove direttive dell\u2019Unione Europea sono chiare, a partire
+        dal 2035 stop alla vendita di auto a benzina e a diesel perch\xE9 troppo
+        inquinanti."
+      AudioClip: {fileID: 8300000, guid: dcd29eb42ce52411bbbb96cdb4e7a6ad, type: 3}
+    AuthorAudio:
+      String: Jan Huiteman
+      AudioClip: {fileID: 8300000, guid: 12760e8d95c57481e82360ab8c443c08, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Jan Huiteman, politico olandese e membro del Parlamento europeo
+        che ha curato la relazione sulla revisione degli standard di CO2 dell'UE
+        per auto e furgoni FONTE: sezione \u201CAttualit\xE0: economia\u201D del
+        sito online dell\u2019Unione Europea, 13/02/2023 "
+      AudioClip: {fileID: 8300000, guid: eeee1c3d15648443191b62eec54e5e79, type: 3}
+    Relevance: 1
+    Snippets:
+    - TextAudio:
+        String: "A partire dal 2035 tutte le nuove auto e i veicoli venduti nell'Unione
+          Europea non potranno pi\xF9 produrre emissioni di CO2. Nel giugno 2022
+          il Parlamento Europeo ha infatti decretato che, a distanza di 13 anni,
+          sar\xE0 vietata la vendita di auto nuove a benzina e a diesel."
+        AudioClip: {fileID: 8300000, guid: c4630b42621bf46c1aba7d232a2e1a79, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: Durante la votazione la Romania e la Bulgaria si sono astenute.
+        AudioClip: {fileID: 8300000, guid: 6bb4130990be342899394848f83f1e17, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Le attuali macchine a benzina o a diesel sono molto inquinanti a
+          causa delle sostanze nocive che rilasciano nell\u2019ambiente, il divieto
+          di vendita che impone l\u2019Unione Europea ha quindi come obiettivo la
+          salvaguardia del pianeta."
+        AudioClip: {fileID: 8300000, guid: dab03d4b9506e4cf7abd5042cede1ebe, type: 3}
+      Relevance: 2
+    - TextAudio:
+        String: 'Questa drastica decisione serve a garantire che entro il 2050 il
+          settore dei trasporti sia a emissioni zero. '
+        AudioClip: {fileID: 8300000, guid: 2dffec9fe44784f068173e0cd1750513, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "Guidare una macchina a benzina o a diesel produce circa 50 tonnellate
+          di CO2, che saranno rilasciate nell\u2019atmosfera e contribuiranno al
+          surriscaldamento globale."
+        AudioClip: {fileID: 8300000, guid: c0a9872045e4f45a8991043bdafd45d3, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: "L\u2019anidride carbonica (CO2) \xE8 un gas inodore e incolore che
+          per\xF2 crea molti danni al nostro pianeta."
+        AudioClip: {fileID: 8300000, guid: b1860010917b1478f9a732b98ffc3d3c, type: 3}
+      Relevance: 0
+    - TextAudio:
+        String: "Sar\xE0 ancora possibile guidare automobili a benzina o a diesel,
+          tuttavia, \xE8 molto probabile che il carburante, la manutenzione, l\u2019acquisto
+          e le assicurazioni aumenteranno molto di costo. "
+        AudioClip: {fileID: 8300000, guid: ef8f3ac034aa44db58c203dbebbf7722, type: 3}
+      Relevance: 1
+    - TextAudio:
+        String: Le macchine elettriche, a partire dal 2035, saranno allora gli unici
+          mezzi acquistabili, i meno inquinanti e, in fin dei conti, i meno costosi.
+        AudioClip: {fileID: 8300000, guid: 7eae21bcfb7744629b84032839a60aea, type: 3}
+      Relevance: 2
+  - TitleAudio:
+      String: ' Le migliori gomme per le nostre moto'
+      AudioClip: {fileID: 8300000, guid: 73599b614c4bf42268645ac6d7853798, type: 3}
+    PreviewAudio:
+      String: "Il mondo \xE8 diviso in due, chi preferisce gli pneumatici quattro
+        stagioni e chi invece ritiene che sia meglio cambiare le gomme con l\u2019arrivo
+        dell\u2019estate o dell\u2019inverno.  "
+      AudioClip: {fileID: 8300000, guid: 0a3b32556b80642389cf3cc0f46e9ffc, type: 3}
+    AuthorAudio:
+      String: Michele Del Zoppo
+      AudioClip: {fileID: 8300000, guid: dc31b818e8a564307af26943d8820aba, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Michele Del Zoppo, meccanico, lavora presso Officina Car and
+        Motorcycle FONTE: sito online \u201CCar.com\u201D, 29/11/2017"
+      AudioClip: {fileID: 8300000, guid: d2ec7a7b960554b4781bc774ec556865, type: 3}
+    Relevance: 0
+    Snippets: []
+  - TitleAudio:
+      String: Kubota lancia il suo nuovo trattore, sul mercato da aprile
+      AudioClip: {fileID: 8300000, guid: f49f584f78a884b739d0d22be78b0abc, type: 3}
+    PreviewAudio:
+      String: "Kubota Corporation passa dal prototipo al prodotto di serie. Arriver\xE0
+        sul mercato ad aprile 2023 il suo nuovotrattore LXe-261"
+      AudioClip: {fileID: 8300000, guid: e10924d06b71c4672b848d8dfb1244a7, type: 3}
+    AuthorAudio:
+      String: Gian Basilio Nieddu
+      AudioClip: {fileID: 8300000, guid: ba148ed4f4b3c46a58b8133687fb7725, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Gian Basilio Nieddu, impiegato in un\u2019azienda di metalmeccanica
+        FONTE: Sito online \u201CTrattori 2.0\u201D"
+      AudioClip: {fileID: 8300000, guid: 256a7ec75cc4e4724b50eeb376c09b31, type: 3}
+    Relevance: 0
+    Snippets: []
+  - TitleAudio:
+      String: 'Monopattino elettrico: caratteristiche, usi e normativa'
+      AudioClip: {fileID: 8300000, guid: aff6772f967ac4c84b7cf377b3edb2e0, type: 3}
+    PreviewAudio:
+      String: "Il monopattino elettrico \xE8 un mezzo di trasporto personale amico
+        dell'ambiente, versatile ed economico. Tra comodit\xE0 e sicurezza ecco le
+        informazioni utili."
+      AudioClip: {fileID: 8300000, guid: 46b81a5207e4649ae894d34f5c3fb4fe, type: 3}
+    AuthorAudio:
+      String: Marco Grigis
+      AudioClip: {fileID: 8300000, guid: fb2a0ab98e786431e88c86e42452d794, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: Marco Grigis, giornalista pubblicista specializzato in tecnologia,
+        ambiente, territorio e costume. Laureatosi in Sociologia nel 2005 presso
+        l\u2019Universit\xE0 Cattolica di Milano. FONTE: sito online \u201CGreenstyle.it\u201D,
+        8/07/2021"
+      AudioClip: {fileID: 8300000, guid: 8fdc1129088a8407e8752ab37b1a1829, type: 3}
+    Relevance: 0
+    Snippets: []
+  - TitleAudio:
+      String: Clacson e inquinamento acustico
+      AudioClip: {fileID: 8300000, guid: bd61fb40fde9445b18baf775075f1f2b, type: 3}
+    PreviewAudio:
+      String: "L\u2019utilizzo improprio del clacson pu\xF2 produrre inquinamento
+        acustico. Per questo motivo il suo utilizzo \xE8 vietato all\u2019interno
+        dei centri abitati. "
+      AudioClip: {fileID: 8300000, guid: f7102db3e1a3c4e2abc3e9fe1a5b2658, type: 3}
+    AuthorAudio:
+      String: David Bellanovia
+      AudioClip: {fileID: 8300000, guid: ae694147cfafa4e7496d8a79f518a28b, type: 3}
+    AuthorWithBioAudio:
+      String: "AUTORE: David Bellanovia, esperto nel settore meccanico, lavora presso
+        CMI (Consorzio Macchine Italiane) FONTE: blog \u201CMyauto.it, 23/02/2020 "
+      AudioClip: {fileID: 8300000, guid: 7cb245db048504a3fb8da1ac143f5b07, type: 3}
+    Relevance: 0
+    Snippets: []
+  TagsQuiz:
+    QuestionAudio:
+      String: SCEGLI 3 TAG CHE RAPPRESENTANO AL MEGLIO  IL TESTO PRODOTTO
+      AudioClip: {fileID: 8300000, guid: 84cb9b1610c664cb997f3a150ac40747, type: 3}
+    ChoicesAudio:
+    - String: '#INQUINAMENTO'
+      AudioClip: {fileID: 8300000, guid: 50482bcd11a8f401ca3f3c866bc58119, type: 3}
+    - String: '#CONTACHILOMETRI'
+      AudioClip: {fileID: 8300000, guid: 744f1de71bef84991adb9fd57b360f63, type: 3}
+    - String: '#VANTAGGIO ECONOMICO'
+      AudioClip: {fileID: 8300000, guid: dc401dcb0cd2c40a1a00884cdc2d4b55, type: 3}
+    - String: '#TENUTA SU STRADA'
+      AudioClip: {fileID: 8300000, guid: e1ea0017f463449759f4218984a481ea, type: 3}
+    - String: '#PNEUMATICI'
+      AudioClip: {fileID: 8300000, guid: 95eef07d12cd1418c96bfe5878bfe503, type: 3}
+    - String: '#COLONNINE DI RICARICA'
+      AudioClip: {fileID: 8300000, guid: f7a32d41c43554e49b15d1a2dde78390, type: 3}
+    - String: '#PETROLIO'
+      AudioClip: {fileID: 8300000, guid: e991d58260a68474a9228681948b3ff9, type: 3}
+    Correct: 000000000200000005000000
+  TitleQuiz:
+    QuestionAudio:
+      String: CHOOSE THE MOST APPROPRIATE TITLE
+      AudioClip: {fileID: 8300000, guid: 287226767e1d14a0a92e1d3e688dd0cf, type: 3}
+    ChoicesAudio:
+    - String: LE MACCHINE ELETTRICHE SONO MIGLIORI DI QUELLE A BENZINA
+      AudioClip: {fileID: 8300000, guid: 37e239919105a42ff9a7fd22f18bfb26, type: 3}
+    - String: MACCHINA ELETTRICA O MACCHINA A BENZINA, QUALE PREFERISCI?
+      AudioClip: {fileID: 8300000, guid: 530fbd512fac1479c870e445fd15efe8, type: 3}
+    - String: TUTTI I DIFETTI DELLE MACCHINE ELETTRICHE
+      AudioClip: {fileID: 8300000, guid: 9aec101b250284f44b76ddd991ffdc45, type: 3}
+    - String: 'AUTO A BENZINA: QUANTO INQUINAMENTO!'
+      AudioClip: {fileID: 8300000, guid: 82a18ff2fb2c346d0b72461ecc0b8e2b, type: 3}
+    Correct: 00000000
+  SubmissionQuizzes:
+  - QuestionAudio:
+      String: "Quanto \xE8 stato difficile?"
+      AudioClip: {fileID: 8300000, guid: a4eafbab6651645299c94964f3aecd03, type: 3}
+    ChoicesAudio:
+    - String: Poco
+      AudioClip: {fileID: 8300000, guid: 1ba83cb5aa8284a7f9746016868bb964, type: 3}
+    - String: Non troppo
+      AudioClip: {fileID: 8300000, guid: 065b6200431324795ad94d342d2d9370, type: 3}
+    - String: Abbastanza
+      AudioClip: {fileID: 8300000, guid: 9e44a05c9d6bc4a0782711feaa7c04e4, type: 3}
+    - String: Molto
+      AudioClip: {fileID: 8300000, guid: 3baa69b84f33646419777eba6e9fc490, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: "Qual \xE8 stata la parte pi\xF9 difficile?"
+      AudioClip: {fileID: 8300000, guid: 851c88140e39b4d8f8c5ea2d7e1f09b5, type: 3}
+    ChoicesAudio:
+    - String: Scelta dei testi
+      AudioClip: {fileID: 8300000, guid: 80edde49fee9e4bda9289d1fcb1868c8, type: 3}
+    - String: Assegnazione tempo
+      AudioClip: {fileID: 8300000, guid: ada8e9ff3350649b1b98e8a33e91d6b4, type: 3}
+    - String: Assegnazione snippet
+      AudioClip: {fileID: 8300000, guid: a7fb8602b9998414787c69bd23e0a7ad, type: 3}
+    - String: Scelta snippet
+      AudioClip: {fileID: 8300000, guid: 2c0a8acc27bf0426b8e3d8d2a03d1459, type: 3}
+    - String: Composizione del testo
+      AudioClip: {fileID: 8300000, guid: 297a4bd6273e14f429f6c6bfda25fd91, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: "Avresti voluto pi\xF9 snippet?"
+      AudioClip: {fileID: 8300000, guid: 7fd8ca799298243cabfc7a757ce82328, type: 3}
+    ChoicesAudio:
+    - String: "S\xEC"
+      AudioClip: {fileID: 8300000, guid: a336cf45832a74769834fa71d47b0720, type: 3}
+    - String: NO
+      AudioClip: {fileID: 8300000, guid: 65493bdc64958404cbba29528a51252d, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: "Avresti voluto pi\xF9 tempo?"
+      AudioClip: {fileID: 8300000, guid: d1ef1e18eb2a24f6bbc618a3faaa8f7b, type: 3}
+    ChoicesAudio:
+    - String: "S\xEC"
+      AudioClip: {fileID: 8300000, guid: a336cf45832a74769834fa71d47b0720, type: 3}
+    - String: NO
+      AudioClip: {fileID: 8300000, guid: 65493bdc64958404cbba29528a51252d, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: "Avresti voluto brani pi\xF9 brevi?"
+      AudioClip: {fileID: 8300000, guid: 1b133bbb5ece64dc587d1104f9247fa3, type: 3}
+    ChoicesAudio:
+    - String: "S\xEC"
+      AudioClip: {fileID: 8300000, guid: a336cf45832a74769834fa71d47b0720, type: 3}
+    - String: NO
+      AudioClip: {fileID: 8300000, guid: 65493bdc64958404cbba29528a51252d, type: 3}
+    Correct: 
+  - QuestionAudio:
+      String: WOULD YOU HAVE Avresti voluto un aiuto maggiore?
+      AudioClip: {fileID: 8300000, guid: d492f6cae58d445eeab5fac9f7ba3657, type: 3}
+    ChoicesAudio:
+    - String: "S\xEC"
+      AudioClip: {fileID: 8300000, guid: a336cf45832a74769834fa71d47b0720, type: 3}
+    - String: NO
+      AudioClip: {fileID: 8300000, guid: 65493bdc64958404cbba29528a51252d, type: 3}
+    Correct: 
+  TipsQuizTitle:
+    String: DAI CONSIGLI AI TUOI COMPAGNI
+    AudioClip: {fileID: 8300000, guid: e8da3ef463def4e0dae12790fc66ebba, type: 3}
+  Tips:
+  - String: "Usa il super poter \u201CMemoria di lavoro\u201D per aiutarti a tenere
+      in mente tutte le informazioni dei testi "
+    AudioClip: {fileID: 8300000, guid: f8e1c77092dea4602a210225a6dca40e, type: 3}
+  - String: "Stai concentrato durante il compito di selezione dei testi rilevanti
+      perch\xE9 \xE8 un compito difficile in cui bisogna leggere con attenzione"
+    AudioClip: {fileID: 8300000, guid: e8dc3180eeb6e4409b48dd0e7a54ed8e, type: 3}
+  - String: "Usa il super potere \u201CInterferenza\u201D per non selezionare due
+      snippet che dicono la stessa cosa"
+    AudioClip: {fileID: 8300000, guid: 87bfdb5220f4c46c485b2f307c1544b6, type: 3}
+  - String: "Quando leggi i testi libera il tavolo di lavoro e non farti distrarre
+      da quello che c\u2019\xE8 intorno a te"
+    AudioClip: {fileID: 8300000, guid: 782508ad31c11452cb17d61dcab61596, type: 3}
+  - String: Datti il tempo che ti serve, impostare un timer troppo breve potrebbe
+      influenzare negativamente il tuo lavoro
+    AudioClip: {fileID: 8300000, guid: a45a15ccb70dd4786a70a4aa9f577a1a, type: 3}
+  - String: 'Quando revisioni il tuo lavoro non farlo distrattamente ma rimani concentrato
+      per cercare eventuali errori '
+    AudioClip: {fileID: 8300000, guid: 8903f7b6363ee4685b32633f4cc5f4f5, type: 3}

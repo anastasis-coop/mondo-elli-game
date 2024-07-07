@@ -1,0 +1,1755 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: AudioClips.Room6 Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: AudioClips.Room6
+  m_TableCollectionNameGuidString: 6712a0405e320441e807b66525bf7afe
+  m_Entries:
+  - m_Id: 3189679054848
+    m_Key: GameController.Animali.animali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189695832064
+    m_Key: GameController.Animali.cane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189700026368
+    m_Key: GameController.Animali.cavalluccio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189700026369
+    m_Key: GameController.Animali.coniglio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189700026370
+    m_Key: GameController.Animali.doppia_sel_animali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189704220672
+    m_Key: GameController.Animali.farfalla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189704220673
+    m_Key: GameController.Animali.leone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189704220674
+    m_Key: GameController.Animali.maiale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189704220675
+    m_Key: GameController.Animali.pesce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189704220676
+    m_Key: GameController.Animali.selezione_animale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189704220677
+    m_Key: GameController.Frutta.arance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189704220678
+    m_Key: GameController.Frutta.banane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189704220679
+    m_Key: GameController.Frutta.doppia_sel_frutta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189704220680
+    m_Key: GameController.Frutta.frutta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189704220681
+    m_Key: GameController.Frutta.limoni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189704220682
+    m_Key: GameController.Frutta.mele
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189704220683
+    m_Key: GameController.Frutta.pere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189708414976
+    m_Key: GameController.Frutta.selezione_frutta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189708414977
+    m_Key: GameController.Frutta.uva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189708414978
+    m_Key: GameController.Generali.auto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189708414979
+    m_Key: GameController.Generali.barattolo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189708414980
+    m_Key: GameController.Generali.birillo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189708414981
+    m_Key: GameController.Generali.botte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189708414982
+    m_Key: GameController.Generali.cappello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189708414983
+    m_Key: GameController.Generali.chiave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189708414984
+    m_Key: GameController.Generali.cuffie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189708414985
+    m_Key: GameController.Generali.cuscino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189708414986
+    m_Key: GameController.Generali.fieno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189708414987
+    m_Key: GameController.Generali.forbici
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189712609280
+    m_Key: GameController.Generali.lente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189712609281
+    m_Key: GameController.Generali.mongolfiera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189712609282
+    m_Key: GameController.Generali.occhiali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189712609283
+    m_Key: GameController.Generali.palla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189712609284
+    m_Key: GameController.Generali.penna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189712609285
+    m_Key: GameController.Generali.regalo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189712609286
+    m_Key: GameController.Generali.scatolone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189712609287
+    m_Key: GameController.Generali.tazza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189712609288
+    m_Key: GameController.Generali.trattore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189712609289
+    m_Key: GameController.Generali.zaino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189712609290
+    m_Key: GameController.Lettere.a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189712609291
+    m_Key: GameController.Lettere.b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189716803584
+    m_Key: GameController.Lettere.c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189716803585
+    m_Key: GameController.Lettere.d
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189716803586
+    m_Key: GameController.Lettere.e
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189716803587
+    m_Key: GameController.Lettere.f
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189716803588
+    m_Key: GameController.Lettere.g
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189716803589
+    m_Key: GameController.Lettere.h
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189716803590
+    m_Key: GameController.Lettere.i
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189716803591
+    m_Key: GameController.Lettere.j
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189716803592
+    m_Key: GameController.Lettere.k
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189716803593
+    m_Key: GameController.Lettere.l
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189716803594
+    m_Key: GameController.Lettere.m
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189716803595
+    m_Key: GameController.Lettere.n
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189720997888
+    m_Key: GameController.Lettere.o
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189720997889
+    m_Key: GameController.Lettere.p
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189720997890
+    m_Key: GameController.Lettere.q
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189720997891
+    m_Key: GameController.Lettere.r
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189720997892
+    m_Key: GameController.Lettere.s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189720997893
+    m_Key: GameController.Lettere.t
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189720997894
+    m_Key: GameController.Lettere.u
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189720997895
+    m_Key: GameController.Lettere.v
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189720997896
+    m_Key: GameController.Lettere.w
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189720997897
+    m_Key: GameController.Lettere.x
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189720997898
+    m_Key: GameController.Lettere.y
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189720997899
+    m_Key: 'GameController.Lettere.z '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189725192192
+    m_Key: GameController.Numeri.0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189725192193
+    m_Key: GameController.Numeri.1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189725192194
+    m_Key: GameController.Numeri.2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189725192195
+    m_Key: GameController.Numeri.3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189725192196
+    m_Key: GameController.Numeri.4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189725192197
+    m_Key: GameController.Numeri.5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189725192198
+    m_Key: GameController.Numeri.6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189725192199
+    m_Key: GameController.Numeri.7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189725192200
+    m_Key: GameController.Numeri.8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189725192201
+    m_Key: GameController.Numeri.9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189725192202
+    m_Key: GameController.Oggetti scuola.banco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189725192203
+    m_Key: GameController.Oggetti scuola.doppia_sel_scuola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189729386496
+    m_Key: GameController.Oggetti scuola.gomma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189729386497
+    m_Key: GameController.Oggetti scuola.lavagna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189729386498
+    m_Key: GameController.Oggetti scuola.mappamondo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189729386499
+    m_Key: GameController.Oggetti scuola.matite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189729386500
+    m_Key: GameController.Oggetti scuola.oggetti_scuola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189729386501
+    m_Key: GameController.Oggetti scuola.quaderni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189729386502
+    m_Key: GameController.Oggetti scuola.selezione_scuola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189729386503
+    m_Key: GameController.Parti corpo.denti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189729386504
+    m_Key: GameController.Parti corpo.doppia_sel_corpo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189729386505
+    m_Key: GameController.Parti corpo.mano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189729386506
+    m_Key: GameController.Parti corpo.naso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189729386507
+    m_Key: GameController.Parti corpo.occhi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189733580800
+    m_Key: GameController.Parti corpo.orecchio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189733580801
+    m_Key: GameController.Parti corpo.parti_corpo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189733580802
+    m_Key: GameController.Parti corpo.piede
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189733580803
+    m_Key: GameController.Parti corpo.selezione_corpo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189733580804
+    m_Key: GameController.Vestiti.cappello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189733580805
+    m_Key: GameController.Vestiti.doppia_sel_vestiti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189733580806
+    m_Key: 'GameController.Vestiti.gonna '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189733580807
+    m_Key: GameController.Vestiti.guanti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189733580808
+    m_Key: GameController.Vestiti.maglietta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189733580809
+    m_Key: GameController.Vestiti.pantaloni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189733580810
+    m_Key: GameController.Vestiti.scarpe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189733580811
+    m_Key: 'GameController.Vestiti.sciarpa '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189737775104
+    m_Key: GameController.Vestiti.selezione_vestito
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189737775105
+    m_Key: GameController.Vestiti.vestiti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915360079872
+    m_Key: Voicelines.room_6_level_0_1_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915372662784
+    m_Key: Voicelines.room_6_level_0_1_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915372662785
+    m_Key: Voicelines.occhiali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915372662786
+    m_Key: Voicelines.birillo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915393634304
+    m_Key: Voicelines.room_6_level_0_1_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915406217216
+    m_Key: Voicelines.room_6_level_0_1_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915418800128
+    m_Key: Voicelines.room_6_level_0_1_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915443965952
+    m_Key: Voicelines.room_6_level_0_2_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915460743168
+    m_Key: Voicelines.room_6_level_0_2_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915460743169
+    m_Key: Voicelines.cuscino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915477520384
+    m_Key: Voicelines.room_6_level_0_2_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915490103296
+    m_Key: Voicelines.room_6_level_0_2_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915502686208
+    m_Key: Voicelines.room_6_level_0_2_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915515269120
+    m_Key: Voicelines.room_6_level_0_2_bigello_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915532046336
+    m_Key: Voicelines.room_6_level_1_1_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915544629248
+    m_Key: Voicelines.room_6_level_1_1_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915561406464
+    m_Key: Voicelines.room_6_level_1_1_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915573989376
+    m_Key: Voicelines.room_6_level_1_1_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915586572288
+    m_Key: Voicelines.room_6_level_1_1_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915603349504
+    m_Key: Voicelines.room_6_level_1_1_bigello_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915611738112
+    m_Key: Voicelines.room_6_level_1_2_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915624321024
+    m_Key: Voicelines.room_6_level_1_2_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915653681152
+    m_Key: Voicelines.room_6_level_1_2_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915666264064
+    m_Key: Voicelines.room_6_level_1_2_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915678846976
+    m_Key: Voicelines.room_6_level_1_2_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915691429888
+    m_Key: Voicelines.room_6_level_1_2_bigello_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915708207104
+    m_Key: Voicelines.room_6_level_2_1_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915716595712
+    m_Key: Voicelines.room_6_level_2_1_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915716595713
+    m_Key: Voicelines.frutta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915716595714
+    m_Key: Voicelines.animali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915720790016
+    m_Key: Voicelines.vestiti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915720790017
+    m_Key: Voicelines.parti_corpo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915720790018
+    m_Key: Voicelines.oggetti_scuola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915729178624
+    m_Key: Voicelines.room_6_level_2_1_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915750150144
+    m_Key: Voicelines.room_6_level_2_1_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915750150145
+    m_Key: 'Voicelines.sciarpa '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915750150146
+    m_Key: Voicelines.pere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915754344448
+    m_Key: Voicelines.cavalluccio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915766927360
+    m_Key: Voicelines.room_6_level_2_1_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915787898880
+    m_Key: Voicelines.room_6_level_2_1_bigello_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915804676096
+    m_Key: Voicelines.room_6_level_2_1_bigello_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915817259008
+    m_Key: Voicelines.room_6_level_2_2_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915829841920
+    m_Key: Voicelines.room_6_level_2_2_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915838230528
+    m_Key: Voicelines.room_6_level_2_2_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915838230529
+    m_Key: Voicelines.maglietta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915838230530
+    m_Key: Voicelines.mele
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915838230531
+    m_Key: Voicelines.limoni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915842424832
+    m_Key: 'Voicelines.gonna '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915855007744
+    m_Key: Voicelines.room_6_level_2_2_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915875979264
+    m_Key: Voicelines.room_6_level_2_2_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915892756480
+    m_Key: Voicelines.room_6_level_2_2_bigello_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915905339392
+    m_Key: Voicelines.room_6_level_3_1_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915913728000
+    m_Key: Voicelines.room_6_level_3_1_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915913728001
+    m_Key: Voicelines.4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915917922304
+    m_Key: Voicelines.a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915917922305
+    m_Key: Voicelines.u
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915938893824
+    m_Key: Voicelines.room_6_level_3_1_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915951476736
+    m_Key: Voicelines.room_6_level_3_1_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915964059648
+    m_Key: Voicelines.room_6_level_3_2_bigello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915972448256
+    m_Key: Voicelines.room_6_level_3_2_bigello_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915985031168
+    m_Key: Voicelines.room_6_level_3_2_bigello_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915997614080
+    m_Key: Voicelines.room_6_level_3_2_bigello_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915997614081
+    m_Key: Voicelines.o
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915997614082
+    m_Key: Voicelines.5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915997614083
+    m_Key: Voicelines.0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915997614084
+    m_Key: Voicelines.6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24915997614085
+    m_Key: Voicelines.t
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24916018585600
+    m_Key: Voicelines.room_6_level_3_2_bigello_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24916031168512
+    m_Key: Voicelines.room_6_level_3_2_bigello_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24916047945728
+    m_Key: Voicelines.room_6_level_2_1_halftime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24916064722944
+    m_Key: Voicelines.room_6_level_3_2_instruction_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24916077305856
+    m_Key: Voicelines.room_6_level_3_2_instruction_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24916094083072
+    m_Key: Voicelines.room_6_level_3_2_instruction_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24916110860288
+    m_Key: Voicelines.room_6_level_3_2_instruction_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24916131831808
+    m_Key: Voicelines.room_6_level_3_2_instruction_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24916152803328
+    m_Key: Voicelines.room_6_level_3_2_instruction_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24916182163456
+    m_Key: Voicelines.room_6_level_3_2_instruction_6
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 2694126082138832913
+  m_KeyGenerator:
+    rid: 2694126082138832908
+  references:
+    version: 2
+    RefIds:
+    - rid: 2694126082138832908
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1695116423316
+    - rid: 2694126082138832913
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 1774877401088
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774877401090
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774881595393
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774881595395
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774881595397
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774881595399
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774881595401
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774885789696
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774885789698
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774885789700
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774885789702
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774898372608
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774898372610
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774898372612
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774898372614
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774898372616
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774902566912
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774902566914
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774902566916
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774902566918
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774902566920
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774902566922
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774902566924
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774902566926
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774910955520
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774910955522
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774910955524
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774910955526
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774910955528
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774910955530
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774915149825
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774923538432
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774923538434
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774923538436
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774923538438
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774923538440
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774923538442
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774923538444
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774923538446
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774923538448
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774927732737
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774927732739
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774927732741
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774927732743
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774927732745
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774927732747
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774927732749
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774927732751
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774931927040
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774931927042
+          m_TableCodes:
+          - it
+        - m_KeyId: 1774931927044
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981725462528
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981725462530
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981729656833
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981729656835
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981729656837
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981729656839
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981729656841
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981733851136
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981733851138
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981733851140
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981733851142
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981733851144
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981733851146
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981738045440
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981738045442
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981738045444
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981738045446
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981738045448
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981738045450
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981742239744
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981742239746
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981742239748
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981742239750
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981742239752
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981742239754
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981746434048
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981746434050
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981746434052
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981746434054
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981746434056
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981746434058
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981750628352
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981750628354
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981750628356
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981750628358
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981750628360
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981750628362
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981754822656
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981754822658
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981754822660
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981754822662
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981754822664
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981754822666
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981759016960
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981759016962
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981759016964
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981759016966
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981759016968
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981759016970
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981763211264
+          m_TableCodes:
+          - it
+        - m_KeyId: 2981763211266
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090441822208
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090441822210
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090446016513
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090446016515
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090446016517
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090446016519
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090446016521
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090446016523
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090450210817
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090450210819
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090450210821
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090450210823
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090450210825
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090450210827
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090454405121
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090454405123
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090454405125
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090454405127
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090454405129
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090454405131
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090458599425
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090458599427
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090458599429
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090458599431
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090458599433
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090458599435
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090462793729
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090462793731
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090462793733
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090462793735
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090462793737
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090462793739
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090466988033
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090466988035
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090466988037
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090466988039
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090466988041
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090466988043
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090471182337
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090471182339
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090471182341
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090471182343
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090471182345
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090471182347
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090475376641
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090475376643
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090475376645
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090475376647
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090475376649
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090475376651
+          m_TableCodes:
+          - it
+        - m_KeyId: 3090479570945
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189679054848
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189695832064
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189700026368
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189700026369
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189700026370
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189704220672
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189704220673
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189704220674
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189704220675
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189704220676
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189704220677
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189704220678
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189704220679
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189704220680
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189704220681
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189704220682
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189704220683
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189708414976
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189708414977
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189708414978
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189708414979
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189708414980
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189708414981
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189708414982
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189708414983
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189708414984
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189708414985
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189708414986
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189708414987
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189712609280
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189712609281
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189712609282
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189712609283
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189712609284
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189712609285
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189712609286
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189712609287
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189712609288
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189712609289
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189712609290
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189712609291
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189716803584
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189716803585
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189716803586
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189716803587
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189716803588
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189716803589
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189716803590
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189716803591
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189716803592
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189716803593
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189716803594
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189716803595
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189720997888
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189720997889
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189720997890
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189720997891
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189720997892
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189720997893
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189720997894
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189720997895
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189720997896
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189720997897
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189720997898
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189720997899
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189725192192
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189725192193
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189725192194
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189725192195
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189725192196
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189725192197
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189725192198
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189725192199
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189725192200
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189725192201
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189725192202
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189725192203
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189729386496
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189729386497
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189729386498
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189729386499
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189729386500
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189729386501
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189729386502
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189729386503
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189729386504
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189729386505
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189729386506
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189729386507
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189733580800
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189733580801
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189733580802
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189733580803
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189733580804
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189733580805
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189733580806
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189733580807
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189733580808
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189733580809
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189733580810
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189733580811
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189737775104
+          m_TableCodes:
+          - it
+        - m_KeyId: 3189737775105
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915360079872
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915372662784
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915372662785
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915372662786
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915393634304
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915406217216
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915418800128
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915443965952
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915460743168
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915460743169
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915477520384
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915490103296
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915502686208
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915515269120
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915532046336
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915544629248
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915561406464
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915573989376
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915586572288
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915603349504
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915611738112
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915624321024
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915653681152
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915666264064
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915678846976
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915691429888
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915708207104
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915716595712
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915716595713
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915716595714
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915720790016
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915720790017
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915720790018
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915729178624
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915750150144
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915750150145
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915750150146
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915754344448
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915766927360
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915787898880
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915804676096
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915817259008
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915829841920
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915838230528
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915838230529
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915838230530
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915838230531
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915842424832
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915855007744
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915875979264
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915892756480
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915905339392
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915913728000
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915913728001
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915917922304
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915917922305
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915938893824
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915951476736
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915964059648
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915972448256
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915985031168
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915997614080
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915997614081
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915997614082
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915997614083
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915997614084
+          m_TableCodes:
+          - it
+        - m_KeyId: 24915997614085
+          m_TableCodes:
+          - it
+        - m_KeyId: 24916018585600
+          m_TableCodes:
+          - it
+        - m_KeyId: 24916031168512
+          m_TableCodes:
+          - it
+        - m_KeyId: 24916047945728
+          m_TableCodes:
+          - it
+        - m_KeyId: 24916064722944
+          m_TableCodes:
+          - it
+        - m_KeyId: 24916077305856
+          m_TableCodes:
+          - it
+        - m_KeyId: 24916094083072
+          m_TableCodes:
+          - it
+        - m_KeyId: 24916110860288
+          m_TableCodes:
+          - it
+        - m_KeyId: 24916131831808
+          m_TableCodes:
+          - it
+        - m_KeyId: 24916152803328
+          m_TableCodes:
+          - it
+        - m_KeyId: 24916182163456
+          m_TableCodes:
+          - it
+        m_TypeString: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
